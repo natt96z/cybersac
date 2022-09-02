@@ -1,4 +1,5 @@
 
+![Banner](img/cyberpatriot_A528E0326810D.png?raw=true) 
 
 SAC CyberPatriots Table of Contents
 ===================================
