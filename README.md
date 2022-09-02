@@ -1,9 +1,9 @@
 ![Banner](img/cyberpatriot_A528E0326810D.png?raw=true) 
 
 **Project Members:**
-Nate Clay: npclay@proton.me, (Alt E-Mail: natclay96@gmail.com) 
-Albert Huynh: alberth03@proton.me (Alt E-Mail: ah61195@student.sac.edu) 
-Teairra McCoy: teamccoy@proton.me (Alt E-Mail: tmccoythompson@gmail.com) 
+*Nate Clay: npclay@proton.me, (Alt E-Mail: natclay96@gmail.com) 
+*Albert Huynh: alberth03@proton.me (Alt E-Mail: ah61195@student.sac.edu) 
+*Teairra McCoy: teamccoy@proton.me (Alt E-Mail: tmccoythompson@gmail.com) 
 
 CyberPatriots SAC Documentation GitHub
 =======================================
