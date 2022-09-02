@@ -12,10 +12,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
+Week 1
 --------
 
-.. toctree::
 
-   Week 1
-   Week 2
