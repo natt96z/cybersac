@@ -1,7 +1,5 @@
-![Banner](/img/cyberpatriot_A528E0326810D.png?raw=true) 
-
-SAC CyberPatriots Table of Contents
-===================================
+SAC CyberPatriots Documetaton Archive 
+========================================
 
 **CyberPatriots** is a national youth cyber education program created in the United States to help direct students toward careers in cybersecurity or other computer, science, technology, engineering, and mathematics disciplines.
 
