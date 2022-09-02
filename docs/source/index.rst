@@ -11,11 +11,11 @@ Welcome to SAC CyberPatriots Documentation Hub!
    
    CyberPatriot Authors/Contributors Include:
    
-   *Nathaniel Clay* - Software and Hardware Knowledge Expert
+   *Nathaniel Clay* - Programming Software and hardware, diagnostics and repair.
    
-   *Teairra McCoy* - Operating system and STEM Technology.
+   *Teairra McCoy* - Multi-operating system support and STEM Technology.
    
-   *Albert Huynh* - Software security hardening and OS security. 
+   *Albert Huynh* - Software security hardening and OS security diagnostics
 
 Week 1
 --------
