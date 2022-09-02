@@ -1,4 +1,4 @@
-SAC CyberPatriots Documentation Archive 
+SAC CyberPatriots Documentation Archive
 ========================================
 
 **CyberPatriots** is a national youth cyber education program created in the United States to help direct students toward careers in cybersecurity or other computer, science, technology, engineering, and mathematics disciplines.
@@ -16,6 +16,6 @@ SAC CyberPatriots Documentation Archive
    *Albert Huynh* - Software security hardening and OS security diagnostics
 
 Hands-on activities that hook students (6/27/22 - 7/01/22)
---------
+---------------
 
 
