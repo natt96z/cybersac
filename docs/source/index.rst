@@ -7,7 +7,9 @@ Welcome to SAC CyberPatriots Documentation Hub!
 
 .. CyberPatriot Doc Hub Authors:: 
 __Nathaniel Clay__
+
 __Teairra McCoy__
+
 __Albert Huynh__
 
 .. note::
