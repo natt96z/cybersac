@@ -1,4 +1,4 @@
-![Banner](img/banner.png?raw=true)
+![Banner](img/cyberpatriot_A528E0326810D.png?raw=true)
 ====
  
  CyberPatriots SAC Documentation Git
