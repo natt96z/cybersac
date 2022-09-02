@@ -10,6 +10,7 @@ Welcome to SAC CyberPatriots Documentation Hub!
    This project is under active development.
    
    CyberPatriot Authors/Contributors Include:
+   
    *Nathaniel Clay*
    
    *Teairra McCoy*
