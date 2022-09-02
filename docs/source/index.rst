@@ -17,7 +17,7 @@ Welcome to SAC CyberPatriots Documentation Hub!
    
    *Albert Huynh* - Software security hardening and OS security diagnostics
 
-Week 1
+Hands-on activities that hook students (6/27/22 - 7/01/22)
 --------
 
 
