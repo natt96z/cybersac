@@ -3,7 +3,9 @@
 **Project Members:**
 ======================================
 *__Nate Clay: npclay@proton.me, (Alt E-Mail: natclay96@gmail.com)__
+
 *__Albert Huynh: alberth03@proton.me (Alt E-Mail: ah61195@student.sac.edu)__
+
 __Teairra McCoy: teamccoy@proton.me (Alt E-Mail: tmccoythompson@gmail.com)__
 
 CyberPatriots SAC Documentation GitHub
