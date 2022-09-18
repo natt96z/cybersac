@@ -23,7 +23,7 @@ Visiting Malicious Websites – Sites to Avoid
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/2.png
    :width: 50%
-   :align: left
+   :align: center
    
 
 This is a prime example of how a web browser handles visiting maliscious web pages with a content block warning screen.
