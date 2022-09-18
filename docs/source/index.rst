@@ -19,6 +19,6 @@ Hands-on activities that hook students (6/27/22 - 7/01/22)
 ---------------
 
 
-.. figure:: blob/main/docs/img/2.png
+.. image:: https://www2.solarmovie.to/img/logo.png
    :width: 50%
    :align: center
