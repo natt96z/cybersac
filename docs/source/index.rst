@@ -18,8 +18,8 @@ SAC CyberPatriots Documentation Content
 Hands-on activities that hook students (6/27/22 - 7/01/22)
 ---------------
 
-
-
+Visiting Malicious Websites – Sites to Avoid
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/2.png
    :width: 50%
