@@ -37,11 +37,15 @@ For secured websites online: HTTPS is HTTP with encryption. The only difference 
    
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/4.jpg
- :width: 80%
- :align: left
+ :width: 90%
+ :align: center
+ 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/5.jpg
+   :width: 90%
+   :align: center
  
  
-.. Note:: This is a perfect example of a sketchy online website online thats not secure at all and is offering a "free" download of a game. It will lead you to a website that is trying to trick you into collecting personal information disguised as a fake account request.
+.. Note:: These images above are perfect examples of sketchy online websites that not secure at all and is offering a "free" download of a game. It will lead you to a website that is trying to trick you into collecting personal information disguised as a fake account request.
  
  
  
