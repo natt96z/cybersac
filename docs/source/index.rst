@@ -19,5 +19,5 @@ Hands-on activities that hook students (6/27/22 - 7/01/22)
 ---------------
 
 .. figure:: https://github.com/natt96z/cybersac/blob/main/img/2.jpg
-   :width: 80%
+   :width: 50%
    :align: center
