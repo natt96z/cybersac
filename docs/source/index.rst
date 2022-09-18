@@ -37,7 +37,7 @@ For secured websites online: HTTPS is HTTP with encryption. The only difference 
    
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/4.jpg
- :width: 60%
+ :width: 80%
  :align: left
  
  
