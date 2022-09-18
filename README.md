@@ -1,4 +1,4 @@
-![Banner](cybersac/docs/img/cyberpatriot_orig.jpg?raw=true) 
+![Banner](https://github.com/natt96z/cybersac/blob/main/docs/img/cyberpatriot_orig.jpg?raw=true) 
 
 **Project Members:**
 ======================================
