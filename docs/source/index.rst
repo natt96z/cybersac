@@ -18,8 +18,7 @@ SAC CyberPatriots Documentation Content
 Hands-on activities that hook students (6/27/22 - 7/01/22)
 ---------------
 
-.. code-block:: RST
 
-.. image:: https://github.com/natt96z/cybersac/blob/main/docs/img/2.png
+.. figure:: https://github.com/natt96z/cybersac/blob/main/docs/img/2.png
    :width: 50%
    :align: center
