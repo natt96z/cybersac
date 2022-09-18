@@ -1,7 +1,7 @@
-SAC CyberPatriots Documentation Content
+SAC CyberPatriots Documentation Hub
 ========================================
 
-**CyberPatriots** is a national youth cyber education program created in the United States to help direct students toward careers in cybersecurity or other computer, science, technology, engineering, and mathematics disciplines.
+**CyberPatriots** is a national youth cyber education program created in the United States to help direct students toward careers in cybersecurity or other computer, science, technology, engineering, and mathematics disciplines. This website documentation introduces unique hands-on material that can also be used to engage student participants in understanding the fundamentals of cyber security through proper computer management skills.
 
 .. note::
 
