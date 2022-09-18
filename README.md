@@ -1,4 +1,4 @@
-![Banner](img/cyberpatriot_A528E0326810D.png?raw=true) 
+![Banner](cybersac/docs/img/cyberpatriot_orig.jpg?raw=true) 
 
 **Project Members:**
 ======================================
