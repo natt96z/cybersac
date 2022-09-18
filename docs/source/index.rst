@@ -18,4 +18,6 @@ SAC CyberPatriots Documentation Content
 Hands-on activities that hook students (6/27/22 - 7/01/22)
 ---------------
 
-
+.. figure:: /_static/images/tutorial/github-template.png
+   :width: 80%
+   :align: center
