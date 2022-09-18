@@ -25,7 +25,7 @@ Visiting Malicious Websites – Sites to Avoid
    :width: 50%
    :align: left
    
-   .. code-block:: RST
+.. code-block:: RST
    This is a prime example of how a web browser handles visiting maliscious web pages with a content block warning screen.
    
    
