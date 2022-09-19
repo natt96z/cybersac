@@ -1,3 +1,7 @@
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cyberpatriot-logo-1.png
+   :width: 50%
+   :align: center
+
 SAC CyberPatriots Documentation Hub
 ========================================
 
