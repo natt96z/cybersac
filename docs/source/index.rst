@@ -59,10 +59,11 @@ Visiting Malicious Websites – Sites to Avoid
    
 **★Core Knowledge★ -** This site security pop-out bubble found on every site online means that your credit card details, passwords, address, and any personal information and perosnal data not encrypted and will be vulnerable to attacks and could be stolen and sold on dark market sites. In these cases, we suggest that you don’t enter sensitive details on insecure websites.
    
-
+-----------------------------------
  
  Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
  
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/7.jpg
    :width: 50%
