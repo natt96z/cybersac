@@ -65,7 +65,7 @@ Visiting Malicious Websites – Sites to Avoid
  Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
- .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/7.jpg
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/7.jpg
    :width: 50%
    :align: center
 
