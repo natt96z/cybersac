@@ -29,8 +29,9 @@ Visiting Malicious Websites – Sites to Avoid
    :width: 50%
    :align: center
    
-
 .. Note:: This is a prime example of how a web browser handles visiting maliscious web pages with a content block warning screen.
+
+
 
 
 **★Core Knowledge★ -** For secured websites online: HTTPS is HTTP with encryption. The only difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses. As a result, HTTPS is far more secure than HTTP. A website that uses HTTP has http:// in its URL, while a website that uses HTTPS has https:// in its url. 
