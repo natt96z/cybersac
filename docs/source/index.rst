@@ -51,9 +51,24 @@ Visiting Malicious Websites – Sites to Avoid
  
 .. Note:: These images above are perfect examples of sketchy online websites that not secure at all and is offering a "free" download of a game. It will lead you to a website that is trying to trick you into collecting personal information disguised as a fake account request.
  
+ .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/6.jpg
+   :width: 50%
+   :align: center
+   
+ **★Core Knowledge★ -** This site security pop-out bubble found on every site online means that your credit card details, passwords, address, and any personal information and perosnal data not encrypted and will be vulnerable to attacks and could be stolen and sold on dark market sites. In these cases, we suggest that you don’t enter sensitive details on insecure websites.
  
  
  
+ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/7.jpg
+   :width: 50%
+   :align: center
+
+**Software security NOTE:** Its always smart to regularly install security updates for Windows through its Windows security applet. This can also be done with other 3rd party security suites as well. Windows Defender is preinstalled on most computers these days and offers compehensive tools to keep your PC safe. 3rd party alternatives like BitDefender and MalwareBytes do a great job as well. 
+
+
  
  
  
