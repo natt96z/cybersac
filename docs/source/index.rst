@@ -51,6 +51,9 @@ Visiting Malicious Websites – Sites to Avoid
  
 .. Note:: These images above are perfect examples of sketchy online websites that not secure at all and is offering a "free" download of a game. It will lead you to a website that is trying to trick you into collecting personal information disguised as a fake account request.
  
+ 
+ 
+
  .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/6.jpg
    :width: 50%
    :align: center
