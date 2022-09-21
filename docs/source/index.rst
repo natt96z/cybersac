@@ -54,7 +54,7 @@ Visiting Malicious Websites – Sites to Avoid
  
  
 
- .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/6.jpg
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/6.jpg
    :width: 50%
    :align: center
    
