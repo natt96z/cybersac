@@ -18,6 +18,8 @@ Santa Ana College CyberPatriot Documentation Hub
    *Teairra McCoy* - Multi-operating system support and STEM Technology.
    
    *Albert Huynh* - Software security hardening and OS security diagnostics
+   
+   *Hung Dao* - Programming Software, security analyst and hardware repair. 
 
 Hands-on activities that hook students (6/27/22 - 7/01/22)
 ---------------
