@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'SAC CyberPatriots '
+project = 'lumache'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
