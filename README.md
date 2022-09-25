@@ -1,4 +1,4 @@
-![Banner](https://github.com/natt96z/cybersac/blob/main/docs/img/Reasearch_Lock-Up_1.jpg) 
+![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/cyberpatriot_orig.jpg) 
 
 **Project Members:**
 ======================================
