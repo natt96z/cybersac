@@ -31,7 +31,7 @@ Hands-on activities that hook students (6/27/22 - 7/01/22)
    :width: 50%
    :align: center
    
-.. Note:: This is a prime example of how a web browser handles visiting maliscious web pages with a content block warning screen.
+.. Note:: This is a prime example of how a modern web browser handles visiting maliscious web pages with a content block warning screen.
 
 
 
