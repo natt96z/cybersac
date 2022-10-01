@@ -97,4 +97,12 @@ One of Many Password Lists – Why Using a Strong Password Matters
    
 .. Note:: This is a very large repositiory of exposed/leaked passwords (via GitHub).
 
+Check out  Daniel Miessler's `SecList Repository`_.
 
+.. _Link to GitHub Repo: https://github.com/danielmiessler/SecLists/tree/master/Passwords
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/12.jpg
+   :width: 60%
+   :align: center
+
+**Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault. 
