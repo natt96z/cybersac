@@ -71,3 +71,30 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 
 **Software security NOTE:** Its always smart to regularly install security updates for Windows through its Windows security applet. This can also be done with other 3rd party security suites as well. Windows Defender is preinstalled on most computers these days and offers compehensive tools to keep your PC safe. 3rd party alternatives like BitDefender and MalwareBytes do a great job as well.
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/8.jpg
+   :width: 50%
+   :align: center
+   
+**★Core Knowledge★ -** Ophcrack is a common software boot cracking tool that can hack Windows passwords.The program includes the ability to import the hashes from a variety of formats, including dumping directly from the SAM files of Windows. On most computers, ophcrack can crack most passwords within minutes, maybe even seconds.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/9.jpg
+   :width: 50%
+   :align: center
+   
+**★Core Knowledge★ -** This bootable OS has great cracking tools as well as software diagnostics software specifically for Windows OS's. This bootable USB os should be used at your own risk and can have damage on Windows OS with incorrect use.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/10.jpg
+   :width: 50%
+   :align: center
+
+.. Note:: This NTP tool brute force changes administrative login credentials as well as editing other user permissions and passwords.
+
+One of Many Password Lists – Why Using a Strong Password Matters
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/11.jpg
+   :width: 50%
+   :align: center
+   
+.. Note:: This is a very large repositiory of exposed/leaked passwords (via GitHub).
+
+
