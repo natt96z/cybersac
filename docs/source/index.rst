@@ -21,7 +21,7 @@ Santa Ana College CyberPatriot Documentation Hub
    
    *Hung Dao* - Programming Online Software and Company Analystic.
 
-Hands-on activities that hook students (6/27/22 - 7/01/22)
+Hands-on activities that hook students:
 ---------------
 
 Visiting Malicious Websites – Sites to Avoid
