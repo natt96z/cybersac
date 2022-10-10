@@ -108,6 +108,7 @@ Check out Daniel Miessler's
 
 Using Ubuntu OS/Why Linux is so secure over Windows!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/13.jpg
    :width: 65%
    :align: center
