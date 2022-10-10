@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'lumache'
+project = 'SAC CyberPatriot Doc Hub V1.8.2'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
