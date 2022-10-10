@@ -98,7 +98,7 @@ One of Many Password Lists – Why Using a Strong Password Matters
 .. Note:: This is a very large repositiory of exposed/leaked passwords (via GitHub).
 
 Check out Daniel Miessler's
-.. _Link to GitHub Repo: https://github.com/danielmiessler/SecLists/tree/master/Passwords
+.. GitHub Repo: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/12.jpg
    :width: 60%
