@@ -105,4 +105,4 @@ Check out  Daniel Miessler's `SecList Repository`_.
    :width: 60%
    :align: center
 
-**Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault. 
+**Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault.
