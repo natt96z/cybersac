@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'SAC CyberPatriot Doc Hub V1.8.2'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Documentation Hub Ver: 1.8.4'
+copyright = '2022, Nathaniel Clay'
+author = 'SAC Cyberpatriot Team'
 
 release = '0.1'
 version = '0.1.0'
