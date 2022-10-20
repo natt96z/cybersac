@@ -133,8 +133,7 @@ A user can easily run a program as administrator in Windows, while in Linux you 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/16.jpg
    :width: 66%
    :align: center
-   
- 
+  
 .. Note:: Pling is the largest and most popular Linux based app market that has multiple sets of themes, apps and extensions for various flavors of Linux distros. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/17.jpg
@@ -158,7 +157,7 @@ A **boot sector virus** is a type of malware that infects a system's boot partit
 
 A **browser hijacker** is a malware program that modifies web browser settings without the user's permission and redirects the user to websites the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
 
- A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are typically embedded in otherwise legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
+A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are typically embedded in otherwise legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
 
 A **file-infecting virus** is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. 
 
@@ -176,8 +175,10 @@ A **resident virus** is a kind of computer virus that hides and stores itself wi
 
 **Core Knowledge: 10 of the most dangerous malware threats of all time!**
 
-https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/image1000.jpg
-
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/image1000.jpg
+   :width: 66%
+   :align: center
+   
 **Clop ransomware** 
 
 Clop is one of the most recent and most dangerous ransomware threats to emerge. It represents a variant of the infamous CryptoMix ransomware, which commonly hits Windows users. Ahead of starting to encrypt, Clop ransomware blocks more than 600 Windows processes and disables multiple Windows 10 applications, including Windows Defender and Microsoft Security Essentials, severely curtailing opportunities to protect data. 
