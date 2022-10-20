@@ -174,7 +174,7 @@ A **resident virus** is a kind of computer virus that hides and stores itself wi
 **Core Knowledge: 10 of the most dangerous malware threats of all time!**
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/image1000.jpg
-   :width: 66%
+   :width: 70%
    :align: center
    
 **Clop ransomware** 
@@ -219,4 +219,22 @@ Cryptojacking represents a security threat that is entirely unique to cryptocurr
 
 In social engineering attempts, hackers aim to manipulate individuals -via in-person or electronic interactions- into divulging corporate or personal information. Although social engineering isn’t a type of malware per-se, it does provide hackers with an avenue through which to distribute malware, and it can result in high-profile malware attacks.
 
+**Core Knowledge: Best virus protection software for Windows**
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/18.jpg
+   :width: 65%
+   :align: center
+
+Bitdefender packs a huge collection of security-centric features, among them password management, enhanced security for online transactions, ransomware protection, Active Do Not Track, and even a VPN. The default Quick Actions lets you launch a quick system, or vulnerability scan, open the VPN, and configure Safepay online protection. You can configure the product to add a feature such as the File Shredder or Wallet password manager in the main display, and you can swap out features you do not use much.
+
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/19.jpg
+   :width: 65%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/20.jpg
+   :width: 65%
+   :align: center
+   
+   
 
