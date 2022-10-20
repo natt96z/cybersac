@@ -133,6 +133,7 @@ A user can easily run a program as administrator in Windows, while in Linux you 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/16.jpg
    :width: 66%
    :align: center
+   
  
 .. Note:: Pling is the largest and most popular Linux based app market that has multiple sets of themes, apps and extensions for various flavors of Linux distros. 
 
@@ -151,34 +152,31 @@ A user can easily run a program as administrator in Windows, while in Linux you 
 **Types of Dangerous Viruses and How to Protect Yourself**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-https://classroomclipart.com/images/gallery/Animations/Computers/computer_virus_animation_5c.gif
-
-
 .. Note:: Viruses, a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
 
 A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
 
- A **browser hijacker** is a malware program that modifies web browser settings without the user's permission and redirects the user to websites the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
+A **browser hijacker** is a malware program that modifies web browser settings without the user's permission and redirects the user to websites the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
 
  A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are typically embedded in otherwise legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
 
- A **file-infecting virus** is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. 
+A **file-infecting virus** is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. 
 
 A **macro virus** is written in the same macro language used to create software programs such as Microsoft Excel or Word. It centers on software applications and does not depend on the operating system (OS). As a result, it can infect any computer running any kind of OS, including Windows, macOS and Linux. 
 
- A **multipartite virus** is a fast-moving virus that uses file infectors or boot infectors to attack the boot sector and executable files simultaneously. Most viruses either affect the boot sector, the system, or the program files. 
+A **multipartite virus** is a fast-moving virus that uses file infectors or boot infectors to attack the boot sector and executable files simultaneously. Most viruses either affect the boot sector, the system, or the program files. 
 
 An **overwriting virus** is a malicious program which, after infection, will effectively destroy the original program code, typically by overwriting data in the system's memory. 
 
- **Polymorphic viruses** are complex file infectors that can create modified versions of itself to avoid detection yet retain the same basic routines after every infection. To vary their physical file makeup during each infection, polymorphic viruses encrypt their codes and use different encryption keys every time. 
+**Polymorphic viruses** are complex file infectors that can create modified versions of itself to avoid detection yet retain the same basic routines after every infection. To vary their physical file makeup during each infection, polymorphic viruses encrypt their codes and use different encryption keys every time. 
 
- A **resident virus** is a kind of computer virus that hides and stores itself within the computer memory, which then allows it to infect any file that is run by the computer, depending on the virus' programming. 
+A **resident virus** is a kind of computer virus that hides and stores itself within the computer memory, which then allows it to infect any file that is run by the computer, depending on the virus' programming. 
 
 **Web Scripting Virus** is malware that has the capacity to breach web browser security. When it breaches the web browser security, it injects some malicious code to take over the web browser and alter some settings. This type of malware spreads like any other computer virus. 
 
 **Core Knowledge: 10 of the most dangerous malware threats of all time!**
 
-https://c.neevacdn.net/image/fetch/s--Fw1km8ua--/https%3A//i.ytimg.com/vi/T4EY0zbyvOs/maxresdefault.jpg?savepath=maxresdefault.jpg
+https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/image1000.jpg
 
 **Clop ransomware** 
 
