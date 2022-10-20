@@ -146,8 +146,6 @@ A user can easily run a program as administrator in Windows, while in Linux you 
 
 
 
-
-
 **Types of Dangerous Viruses and How to Protect Yourself**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
