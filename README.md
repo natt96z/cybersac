@@ -1,7 +1,7 @@
 ![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/Reasearch_1.jpg) 
 ![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/CPalllasasacogos.png)
 
-**Project Authors/Contributors:**
+**Project Contributor's:**
 ======================================
 __Nathaniel Clay: npclay@proton.me, (Alt E-Mail: natclay96@gmail.com)__
 
