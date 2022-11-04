@@ -225,7 +225,7 @@ In social engineering attempts, hackers aim to manipulate individuals -via in-pe
    :width: 65%
    :align: center
 
-Bitdefender packs a huge collection of security-centric features, among them password management, enhanced security for online transactions, ransomware protection, Active Do Not Track, and even a VPN. The default Quick Actions lets you launch a quick system, or vulnerability scan, open the VPN, and configure Safepay online protection. You can configure the product to add a feature such as the File Shredder or Wallet password manager in the main display, and you can swap out features you do not use much.
+**Bitdefender:** packs a huge collection of security-centric features, among them password management, enhanced security for online transactions, ransomware protection, Active Do Not Track, and even a VPN. The default Quick Actions lets you launch a quick system, or vulnerability scan, open the VPN, and configure Safepay online protection. You can configure the product to add a feature such as the File Shredder or Wallet password manager in the main display, and you can swap out features you do not use much.
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/19.jpg
@@ -242,7 +242,7 @@ Bitdefender packs a huge collection of security-centric features, among them pas
    :width: 65%
    :align: center
    
-When it encounters an unknown app, it runs (Webroot) it in a bubble, preventing the app from making any permanent system changes until its cloud-based intelligence reaches a conclusion about the program. If it’s malicious, the tiny local Webroot program wipes out the attacker and reverses its actions. WEBROOT has a Near-perfect score in our malware protection and phishing protection tests. It is light on system resources, has fast scan capabilities, is tiny in size, and can remediate ransomware damage. 
+**Webroot:** When it encounters an unknown app, it runs it in a bubble, preventing the app from making any permanent system changes until its cloud-based intelligence reaches a conclusion about the program. If it’s malicious, the tiny local Webroot program wipes out the attacker and reverses its actions. WEBROOT has a Near-perfect score in our malware protection and phishing protection tests. It is light on system resources, has fast scan capabilities, is tiny in size, and can remediate ransomware damage. 
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/22.jpg
