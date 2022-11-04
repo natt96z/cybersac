@@ -250,3 +250,15 @@ In social engineering attempts, hackers aim to manipulate individuals -via in-pe
    :width: 50%
    :align: center
 
+**Malwarebytes:** includes limited signature-based detection as one of its many layers, but relies heavily on more modern forms of detection. Web protection blocks traffic to known dangerous addresses, whether by the browser or by a malicious application. Ransomware protection watches for the behaviors that occur when an unknown program is getting ready to encrypt your files. It should catch even a zero-day ransomware attack, with no need to recognize anything but behaviors that suggest ransomware. 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/25.jpg
+   :width: 33%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/28.jpg
+   :width: 33%
+   :align: center
+
+Exploit attacks take advantage of security holes in popular applications, using the security vulnerability to take control. Even if you keep your operating system and programs patched, there's always a window when the vulnerability is known, but not yet patched. Malwarebytes shields several dozen popular applications against attack. This is a generalized protection against exploit behaviors, not protection against specific exploits. 
+
