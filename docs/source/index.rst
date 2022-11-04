@@ -235,15 +235,12 @@ In social engineering attempts, hackers aim to manipulate individuals -via in-pe
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/20.jpg
    :width: 40%
    :align: center
-
-
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/21.jpg
-   :width: 65%
-   :align: center
    
 **Webroot:** When it encounters an unknown app, it runs it in a bubble, preventing the app from making any permanent system changes until its cloud-based intelligence reaches a conclusion about the program. If it’s malicious, the tiny local Webroot program wipes out the attacker and reverses its actions. WEBROOT has a Near-perfect score in our malware protection and phishing protection tests. It is light on system resources, has fast scan capabilities, is tiny in size, and can remediate ransomware damage. 
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/21.jpg
+   :width: 33%
+   :align: center
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/22.jpg
    :width: 50%
@@ -252,3 +249,4 @@ In social engineering attempts, hackers aim to manipulate individuals -via in-pe
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/23.jpg
    :width: 50%
    :align: center
+
