@@ -249,6 +249,6 @@ When it encounters an unknown app, it runs (Webroot) it in a bubble, preventing 
    :width: 50%
    :align: center
    
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/21.jpg
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/23.jpg
    :width: 50%
    :align: center
