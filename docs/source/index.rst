@@ -229,11 +229,11 @@ In social engineering attempts, hackers aim to manipulate individuals -via in-pe
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/19.jpg
-   :width: 65%
+   :width: 45%
    :align: center
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/20.jpg
-   :width: 65%
+   :width: 40%
    :align: center
 
 
