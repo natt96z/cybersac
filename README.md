@@ -11,7 +11,7 @@ __Teairra McCoy: teamccoy@proton.me (Alt E-Mail: tmccoythompson@gmail.com)__
 
 __Hung Dao: hd66544@student.sac.edu (Alt E-Mail: hungdaophone@gmail.com)__
 
-__Patrice Terrell: pt14063.student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
+__Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
 
 
 CyberPatriot SAC Documentation GitHub
