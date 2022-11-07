@@ -4,7 +4,7 @@
 
 project = 'Documentation Hub Ver: 1.9.0'
 copyright = '2022, Santa Ana College & Nathaniel Clay'
-author = ' CyberPatriot Authors/Contributors Include Nathaniel Clay, Teairra McCoy, Albert Huyh, Hung Dao
+author = ' CyberPatriot Authors/Contributors Include Nathaniel Clay, Teairra McCoy, Albert Huyh, Hung Da'
 
 release = '0.1'
 version = '0.1.0'
