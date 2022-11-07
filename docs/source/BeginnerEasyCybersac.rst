@@ -1,4 +1,4 @@
-Beginner CyberPatriot - Being Safe Online! 
+EasyPatriot - Being Safe Online! 
 =============================================================
 
 
