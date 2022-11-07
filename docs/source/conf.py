@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Documentation Hub Ver: 1.9.0'
-copyright = '2022, Santa Ana College & CyberPatriot Authors/Contributors: 
+copyright = '2022, Santa Ana College & CyberPatriot Authors/Contributors:' 
 'Nathaniel Clay, Teairra McCoy, Albert Huyh, Hung Da, Patrice Terrell'
 author = 'Nathaniel Clay'
 
