@@ -14,9 +14,6 @@ Welcome to the Official Santa Ana College CyberPatriot Documentation Hub!
       .. figure:: CyberSecurityGenTips_Story_1440x580.gif
 
   
-
-Easy Cybersac Material
-******************************
 .. toctree::
    :maxdepth: 1
 
