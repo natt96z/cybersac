@@ -1,4 +1,4 @@
-EasyPatriot - Being Safe Online! 
+EasyPatriot - Online Safety and Virus Protection! 
 =============================================================
 
 
