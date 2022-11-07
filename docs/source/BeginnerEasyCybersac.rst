@@ -109,3 +109,48 @@ Cryptojacking represents a security threat that is entirely unique to cryptocurr
 **Social engineering** 
 
 In social engineering attempts, hackers aim to manipulate individuals -via in-person or electronic interactions- into divulging corporate or personal information. Although social engineering isn’t a type of malware per-se, it does provide hackers with an avenue through which to distribute malware, and it can result in high-profile malware attacks.
+
+Best Virus Software for Increased System Security
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/18.jpg
+   :width: 65%
+   :align: center
+
+**Bitdefender:** packs a huge collection of security-centric features, among them password management, enhanced security for online transactions, ransomware protection, Active Do Not Track, and even a VPN. The default Quick Actions lets you launch a quick system, or vulnerability scan, open the VPN, and configure Safepay online protection. You can configure the product to add a feature such as the File Shredder or Wallet password manager in the main display, and you can swap out features you do not use much.
+
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/19.jpg
+   :width: 45%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/20.jpg
+   :width: 40%
+   :align: center
+   
+**Webroot:** When it encounters an unknown app, it runs it in a bubble, preventing the app from making any permanent system changes until its cloud-based intelligence reaches a conclusion about the program. If it’s malicious, the tiny local Webroot program wipes out the attacker and reverses its actions. WEBROOT has a Near-perfect score in our malware protection and phishing protection tests. It is light on system resources, has fast scan capabilities, is tiny in size, and can remediate ransomware damage. 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/21.jpg
+   :width: 33%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/22.jpg
+   :width: 50%
+   :align: center
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/23.jpg
+   :width: 50%
+   :align: center
+
+**Malwarebytes:** includes limited signature-based detection as one of its many layers, but relies heavily on more modern forms of detection. Web protection blocks traffic to known dangerous addresses, whether by the browser or by a malicious application. Ransomware protection watches for the behaviors that occur when an unknown program is getting ready to encrypt your files. It should catch even a zero-day ransomware attack, with no need to recognize anything but behaviors that suggest ransomware. 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/25.jpg
+   :width: 33%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/28.jpg
+   :width: 50%
+   :align: center
+
+Exploit attacks take advantage of security holes in popular applications, using the security vulnerability to take control. Even if you keep your operating system and programs patched, there's always a window when the vulnerability is known, but not yet patched. Malwarebytes shields several dozen popular applications against attack. This is a generalized protection against exploit behaviors, not protection against specific exploits. 
+
