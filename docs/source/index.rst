@@ -6,21 +6,7 @@ Santa Ana College CyberPatriot Documentation Hub
 ========================================
 
 **CyberPatriot** is a national youth cyber education program created in the United States to help direct students toward careers in cybersecurity or other computer, science, technology, engineering, and mathematics disciplines. This website documentation introduces unique hands-on material that can also be used to engage student participants in understanding the fundamentals of cyber security through proper computer management skills.
-
-.. note::
-
-   This project is under active development.
-   
-   CyberPatriot Authors/Contributors Include:
-   
-   *Nathaniel Clay* - Programming Software and hardware, diagnostics and repair.
-   
-   *Teairra McCoy* - Multi-operating system support and STEM Technology.
-   
-   *Albert Huynh* - Software security hardening and OS security diagnostics.
-   
-   *Hung Dao* - Programming Online Software and Company Analystic.
-
+  
 Hands-on activities that hook students:
 ---------------
 
