@@ -1,4 +1,4 @@
-Easy CyberPatriot Hands-On Material
+Beginner CyberPatriot - Being Safe Online! 
 =============================================================
 
 
