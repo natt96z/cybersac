@@ -3,7 +3,8 @@
 # -- Project information
 
 project = 'Documentation Hub Ver: 1.9.0'
-copyright = '2022, Santa Ana College & <a href="https://github.com/natt96z/cybersac">CyberPatriot Authors/Contributors</a>'
+copyright = '2022, Santa Ana College &'
+<a href="https://github.com/natt96z/cybersac">CyberPatriot Authors/Contributors</a>
 author = 'Nathaniel Clay'
 release = '0.1'
 version = '0.1.0'
