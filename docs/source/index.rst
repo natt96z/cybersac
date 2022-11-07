@@ -15,7 +15,6 @@ Welcome to the Official Santa Ana College CyberPatriot Documentation Hub!
 
   
 
-
 Easy Cybersac Material
 ******************************
 .. toctree::
