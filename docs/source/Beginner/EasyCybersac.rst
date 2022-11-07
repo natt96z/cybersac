@@ -33,3 +33,75 @@ Visiting Malicious Websites – Sites to Avoid
    
 **★Core Knowledge★ -** This site security pop-out bubble found on every site online means that your credit card details, passwords, address, and any personal information and perosnal data not encrypted and will be vulnerable to attacks and could be stolen and sold on dark market sites. In these cases, we suggest that you don’t enter sensitive details on insecure websites.
 
+**Types of Dangerous Viruses and How to Protect Yourself**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. Note:: Viruses, a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
+
+A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
+
+A **browser hijacker** is a malware program that modifies web browser settings without the user's permission and redirects the user to websites the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
+
+A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are typically embedded in otherwise legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
+
+A **file-infecting virus** is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. 
+
+A **macro virus** is written in the same macro language used to create software programs such as Microsoft Excel or Word. It centers on software applications and does not depend on the operating system (OS). As a result, it can infect any computer running any kind of OS, including Windows, macOS and Linux. 
+
+A **multipartite virus** is a fast-moving virus that uses file infectors or boot infectors to attack the boot sector and executable files simultaneously. Most viruses either affect the boot sector, the system, or the program files. 
+
+An **overwriting virus** is a malicious program which, after infection, will effectively destroy the original program code, typically by overwriting data in the system's memory. 
+
+**Polymorphic viruses** are complex file infectors that can create modified versions of itself to avoid detection yet retain the same basic routines after every infection. To vary their physical file makeup during each infection, polymorphic viruses encrypt their codes and use different encryption keys every time. 
+
+A **resident virus** is a kind of computer virus that hides and stores itself within the computer memory, which then allows it to infect any file that is run by the computer, depending on the virus' programming. 
+
+**Web Scripting Virus** is malware that has the capacity to breach web browser security. When it breaches the web browser security, it injects some malicious code to take over the web browser and alter some settings. This type of malware spreads like any other computer virus. 
+
+**Core Knowledge: 10 of the most dangerous malware threats of all time!**
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/image1000.jpg
+   :width: 70%
+   :align: center
+   
+**Clop ransomware** 
+
+Clop is one of the most recent and most dangerous ransomware threats to emerge. It represents a variant of the infamous CryptoMix ransomware, which commonly hits Windows users. Ahead of starting to encrypt, Clop ransomware blocks more than 600 Windows processes and disables multiple Windows 10 applications, including Windows Defender and Microsoft Security Essentials, severely curtailing opportunities to protect data. 
+
+**Windows OS Ransomware** 
+
+In recent months, hackers have distributed emails instructing targets to quickly install an urgent Windows OS update. When users start to download the supposed update, ransomware ‘.exe’ files make their way onto the device. Email security controls and a comprehensive consolidated security solution can help stop these types of malware events. 
+
+**Zeus Gameover** 
+
+This malware type is part of the “Zeus” family of malware. Zeus Gameover is a Trojan – a malware disguised as something legitimate- that aims to obtain financial information, with which to steal whatever is in a bank account 
+
+Experts state that the most difficult aspect of this malware is the fact that it doesn’t require a centralized “command and control” server to complete transactions, making it challenging for investigators and law enforcement to identify the criminals behind these hacks. Zeus Gameover effectively bypasses centralized servers, creating independent servers with which to share data. In short, it’s nearly impossible to determine where stolen data has gone. 
+
+**Shlayer malware** 
+
+This type of malware plagues macOS devices and relies on Flash updates and social engineering tactics in order to dupe victims into installing the malware on devices. Initially, hackers used a specific zero-day vulnerability to launch this threat. However, hackers are coming up with new schemes to get this malware onto computers that largely hinge on social engineering tactics. 
+
+**Agent Tesla** 
+
+Agent Tesla is a powerful, easy-to-use form of spyware. Specifically, Agent Tesla is a Remote Access Trojan (RAT) that exfiltrates credentials, logs keystrokes, copies clipboard data and collects images from a victim’s computer. In recent years, malware has seen a huge surge in popularity, and more than 6,000 nefarious persons pay subscription fees in order to license the software. The malware includes a wealth of features designed to help it remain undetected by network systems and often arrives in the form of an email attachment. 
+
+**RaaS** 
+
+Ransomware-as-a-Service (RaaS) has gained extensive popularity among ransomware gangs for a variety of reasons. The growth of RaaS highlights how easy it is for non-coders and non-techies to execute ransomware attacks. 
+
+**Fleeceware** 
+
+Although individuals may delete certain apps from their phones, Fleeceware continues to charge app users significant sums of money. According to recent research, more than 600 million Android users have unintentionally downloaded “Fleeceware” onto devices across the past few years. While Fleeceware does not represent a major security threat to privacy or data, Fleeceware is still remarkably common. It’s a shady practice that app developers engage in. 
+
+**IoT device attacks** 
+
+Did you recently install a smart doorbell, or get smart speakers? Hackers are looking to exploit the vulnerabilities within these devices in order to steal information. Hacker’s target IoT devices for several reasons. In many instances, IoT devices are so small (have so little storage) that they can’t accommodate proper security measures. IoT devices commonly contain easy-to-access data, ranging from passwords to user names. Hackers leverage this data to break into accounts, and to steal more information. In addition, hackers can co-opt internet-based cameras and microphones in order to spy on, communicate with, and manipulate people. These devices can represent weak points within corporate security networks and can be used to spread malware. 
+
+**Cryptojacking** 
+
+Cryptojacking represents a security threat that is entirely unique to cryptocurrencies. Crypto-malware effectively saves hackers large overheads, as it allows them to “mine” cryptocurrencies without paying for expensive mining hardware or racking up large electricity bills. Once cryptocurrencies have been mined, they are sent to crypto-wallets that are controlled by malware operators. 
+
+**Social engineering** 
+
+In social engineering attempts, hackers aim to manipulate individuals -via in-person or electronic interactions- into divulging corporate or personal information. Although social engineering isn’t a type of malware per-se, it does provide hackers with an avenue through which to distribute malware, and it can result in high-profile malware attacks.
