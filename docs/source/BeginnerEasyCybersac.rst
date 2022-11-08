@@ -156,3 +156,17 @@ Exploit attacks take advantage of security holes in popular applications, using 
 
 **Online Safety– Phishing and avoiding malware**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/40.png
+   :width: 50%
+   :align: center
+ **Core Knowledge: How does online phishing work?**
+ 
+.. Note::
+1. The phisher starts by choosing their intended victims (whether at the organizational or individual level) and develops tactics to gather information they can use to attack. 
+2. The phisher will next construct techniques like counterfeit emails or fake websites to transmit messages that tempt their victims into providing data. 
+
+3. The attack then starts when phishers send victims messages that seem legitimate. 
+
+4. Once the attack has been launched, the phishers will watch and gather the information that the victims enter on the phony web pages. 
+
+5. Finally, phishers exploit the information they have gathered to make fraudulent or unlawful purchases. 
