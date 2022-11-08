@@ -6,8 +6,8 @@ project = 'Documentation Hub Ver: 1.9.6'
 copyright = '2022, Santa Ana College & CyberPatriot Authors/Contributors'
 author = 'Nathaniel Clay'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.9'
+version = '0.9.6'
 
 # -- General configuration
 
