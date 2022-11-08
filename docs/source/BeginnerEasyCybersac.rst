@@ -1,6 +1,9 @@
 EasyPatriot - Online Safety and Virus Protection! 
 =============================================================
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/image_processing20200817-16566-13lc2h2.gif
+
+
 **Visiting Malicious Websites – Sites to Avoid**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
