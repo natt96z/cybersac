@@ -2,7 +2,7 @@ EasyPatriot - Online Safety and Virus Protection!
 =============================================================
 
 
-Visiting Malicious Websites – Sites to Avoid
+**Visiting Malicious Websites – Sites to Avoid**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/2.png
@@ -154,3 +154,5 @@ Best Virus Software for Increased System Security
 
 Exploit attacks take advantage of security holes in popular applications, using the security vulnerability to take control. Even if you keep your operating system and programs patched, there's always a window when the vulnerability is known, but not yet patched. Malwarebytes shields several dozen popular applications against attack. This is a generalized protection against exploit behaviors, not protection against specific exploits. 
 
+**Online Safety– Phishing and avoiding malware**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
