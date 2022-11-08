@@ -1,7 +1,7 @@
 EasyPatriot - Online Safety and Virus Protection! 
 =============================================================
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 **Visiting Malicious Websites – Sites to Avoid**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
