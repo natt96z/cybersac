@@ -1,3 +1,7 @@
+IntermediatePatriot - A Look Into Computer OS Security Standards 
+=============================================================
+
+
 Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
