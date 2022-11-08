@@ -156,6 +156,7 @@ Exploit attacks take advantage of security holes in popular applications, using 
 
 **Online Safety– Phishing and avoiding malware**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/40.png
    :width: 50%
    :align: center
