@@ -161,7 +161,7 @@ Exploit attacks take advantage of security holes in popular applications, using 
    :width: 50%
    :align: center
    
- **Core Knowledge: How does online phishing work?**
+**Core Knowledge: How does online phishing work?**
  
 .. Note::
 1. The phisher starts by choosing their intended victims (whether at the organizational or individual level) and develops tactics to gather information they can use to attack. 
