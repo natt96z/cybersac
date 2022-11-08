@@ -1,4 +1,4 @@
-IntermediatePatriot - A Look Into Computer OS Security Standards 
+IntermediatePatriot - A Look Into Computer OS Security 
 =============================================================
 
 
