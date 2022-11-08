@@ -20,6 +20,7 @@ CyberSAC Table of Contents:
    :maxdepth: 1
 
    BeginnerEasyCybersac.rst
+   MediumCybersac.rst
   
   
 Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
