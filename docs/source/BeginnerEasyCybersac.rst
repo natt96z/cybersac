@@ -109,7 +109,7 @@ Cryptojacking represents a security threat that is entirely unique to cryptocurr
 
 In social engineering attempts, hackers aim to manipulate individuals -via in-person or electronic interactions- into divulging corporate or personal information. Although social engineering isn’t a type of malware per-se, it does provide hackers with an avenue through which to distribute malware, and it can result in high-profile malware attacks.
 
-Best Virus Software for Increased System Security
+**Best Virus Software for Increased System Security**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/18.jpg
