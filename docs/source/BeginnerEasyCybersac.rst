@@ -180,6 +180,6 @@ Exploit attacks take advantage of security holes in popular applications, using 
 **Lets test out Phishing Box's Phishing Test!:** This online test will see if you can tell the difference between an phishing attempt and  alegitimate form of communication through email and or other messaging platforms. Spam emails and even ones that hit our regular inbox are secretly set up to scrape important user data from us with clone like tactics, such as password recovery and bank statements that seem real but arent. 
 
 
-Take the phishing test now `Link`_.
+Take the phishing test online now `Play Now`_.
 
 .. _Phishing Test: https://www.phishingbox.com/phishing-test/
