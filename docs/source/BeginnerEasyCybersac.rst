@@ -177,7 +177,7 @@ Exploit attacks take advantage of security holes in popular applications, using 
 5. Finally, phishers exploit the information they have gathered to make fraudulent or unlawful purchases. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/41.jpg
-   :width: 50%
+   :width: 58%
    :align: center
 
 **Lets test out Phishing Box's Phishing Test!:** This online test will see if you can tell the difference between an phishing attempt and  alegitimate form of communication through email and or other messaging platforms. Spam emails and even ones that hit our regular inbox are secretly set up to scrape important user data from us with clone like tactics, such as password recovery and bank statements that seem real but arent. 
@@ -186,6 +186,16 @@ Exploit attacks take advantage of security holes in popular applications, using 
 Take the phishing test online now `Click or Tap to Begin Test`_.
 
 .. _Click or Tap to Begin Test: https://www.phishingbox.com/phishing-test/
+
+.. Note:: 
+Use uBlock Origin to avoid incorrect download button and malicious pop ups. he uBlock Origin is a cross-platform, free and open-source browser extension for content filtering that is primarily intended to counteract privacy invasion in an effective and user-friendly way. Blocking annoying full screen ads, removing fake download buttons and preventing sketchy pop-ups can keep your web surfing safe!
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/42.jpg
+   :width: 50%
+   :align: center
+
+
+
 
 
 **One of Many Password Lists – Why Using a Strong Password Matters!**
