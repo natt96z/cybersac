@@ -208,4 +208,6 @@ Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click 
    :align: center
 This is a masive example of a complete repository of leaked user passwords from past years, this is proof that having a strong password matters! First line of security against unwanted access to your computer and personal information is provided by passwords. Your computer and online data will be more secure from hackers and bad malware if your password is strong. A good password usually has at least 12 characters long (the longer, the better). Has a combination of upper and lowercase letters, numbers, punctuation, and special symbols. Random and unique is the way to go!
 
-https://github.com/danielmiessler/SecLists/tree/master/Passwords
+ake the phishing test online now `Check Out Daniel Miessller's SEC List on GitHub`_.
+
+.. _Check Out Daniel Miessller's SEC List on GitHub: https://github.com/danielmiessler/SecLists/tree/master/Passwords
