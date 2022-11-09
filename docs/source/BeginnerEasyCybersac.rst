@@ -193,6 +193,11 @@ Use uBlock Origin to avoid incorrect download button and malicious pop ups. he u
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/42.jpg
    :width: 50%
    :align: center
+   
+
+Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click Here`_.
+
+.. _Click Here https://ublockorigin.com/
 
 
 
