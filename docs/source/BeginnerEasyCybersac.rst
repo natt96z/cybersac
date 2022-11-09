@@ -203,6 +203,7 @@ Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click 
 
 **One of Many Password Lists – Why Using a Strong Password Matters!**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/11.jpg
    :width: 68%
    :align: center
