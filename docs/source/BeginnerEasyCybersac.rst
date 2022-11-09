@@ -186,3 +186,8 @@ Exploit attacks take advantage of security holes in popular applications, using 
 Take the phishing test online now `Click or Tap to Begin Test`_.
 
 .. _Click or Tap to Begin Test: https://www.phishingbox.com/phishing-test/
+
+
+**One of Many Password Lists – Why Using a Strong Password Matters!**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
