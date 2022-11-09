@@ -29,16 +29,6 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 
 .. Note:: This NTP tool brute force changes administrative login credentials as well as editing other user permissions and passwords.
 
-One of Many Password Lists – Why Using a Strong Password Matters
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/11.jpg
-   :width: 50%
-   :align: center
-   
-.. Note:: This is a very large repositiory of exposed/leaked passwords (via GitHub).
-
-Check out Daniel Miessler's
-.. GitHub Repo: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/12.jpg
    :width: 60%
