@@ -1,4 +1,4 @@
-IntermediatePatriot - A Look Into Computer OS Security 
+IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 =============================================================
 
 
