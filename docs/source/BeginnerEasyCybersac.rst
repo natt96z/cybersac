@@ -197,7 +197,7 @@ Use uBlock Origin to avoid incorrect download button and malicious pop ups. he u
 
 Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click Here`_.
 
-.. _Click Here https://ublockorigin.com/
+.. _Click Here: https://ublockorigin.com/
 
 
 
