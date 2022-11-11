@@ -2,7 +2,7 @@
    :width: 100%
    :align: center
 
-**CyberPatriot Authors/Contributors Include:**
+**CyberPatriot Authors/Contributors**
 =====================================================
 
 Nathaniel Clay - Programming Software and hardware, diagnostics and repair.
