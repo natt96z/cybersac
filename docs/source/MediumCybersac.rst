@@ -1,5 +1,8 @@
 IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 =============================================================
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/signal-2022-11-10-160749_002_AdobeExpress.gif
+   :width: 80%
+   :align: center
 
 
 Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
