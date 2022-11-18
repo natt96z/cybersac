@@ -29,7 +29,13 @@ The **EasyPatriot** difficulty is based on of the official CyberPatriot educatio
    :align: center
 
 .. note::
-The **IntermidiatePatriot** difficulty is based on based on of the official CyberPatriot education program's learning structure. This mainly focuses on secure virtualization, computer OS security, the basics of using Windows operating systems and an introduction into Linux OS. you will learn how to configure Linux and Windows OS virtual machines, as well as hardening the Windows OS as well.
+The **IntermidiatePatriot** difficulty is based on based on of the official CyberPatriot education program's learning structure. This mainly focuses on secure virtualization, computer OS security, the basics of using Windows operating systems and an introduction into Linux OS. You will learn how to securely configure Linux and Windows OS.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/e50fe9bf399e6c4d91053b52e96e33e60ed1f919/docs/img/Pro%20Patriot.png
+   :width: 100%
+   :align: center
+   
+The **ProPatriot** difficulty is based on based on of the official CyberPatriot education program's learning structure. This focuses on hardening computer software as well as setting up virtual machines. You will also be able to learn how to safely test penetration applications as well. (In an ethical hacking sort of way).
 
 Hands-On Virtual Material Table of Contents/Glossary:
 *******************************************************
