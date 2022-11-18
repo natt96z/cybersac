@@ -15,3 +15,26 @@ Penetration and Vulnerability Testing Using Burp Suite
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/29.jpg
    :width: 50%
    :align: center
+   
+
+O&O ShutUp10++ - A Way of Hardening Windows OS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you would like to block Window’s sussy spyware then definitely use this software. It works for Windows 11 too just in case you made the big mistake of “upgrading” to 11 or higher.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/140.jpg
+   :width: 50%
+   :align: center
+
+
+.. Note::
+   
+   There are many many settings that help you increase your privacy, security, and Quality of Life (QOL)  
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/141.jpg
+   :width: 50%
+   :align: center
+   
+.. Note::
+   
+   Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
+
