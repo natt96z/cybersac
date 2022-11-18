@@ -19,7 +19,6 @@ Welcome to the Official Santa Ana College CyberPatriot Documentation Hub!
    :align: center
 
 .. note::
-
 The **EasyPatriot** difficulty is based on *Unit 2* of the official CyberPatriot education program. This mainly focuses on online safety like safe web browsing, sites to avoid, safe downloading of files, online virus protection, common online scams, and how not to get your personal info stolen online.
 
 Hands-On Virtual Material Table of Contents/Glossary:
