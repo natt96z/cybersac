@@ -19,7 +19,14 @@ Welcome to the Official Santa Ana College CyberPatriot Documentation Hub!
    :align: center
 
 .. note::
-The **EasyPatriot** difficulty is based on *Unit 2* of the official CyberPatriot education program. This mainly focuses on online safety like safe web browsing, sites to avoid, safe downloading of files, online virus protection, common online scams, and how not to get your personal info stolen online.
+The **EasyPatriot** difficulty is based on of the official CyberPatriot education program's learning structure. This mainly focuses on online safety like safe web browsing, sites to avoid, safe downloading of files, online virus protection, common online scams, and how not to get your personal info stolen online.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Intermidiate%20Patriot.png
+   :width: 100%
+   :align: center
+
+.. note::
+The **IntermidiatePatriot** difficulty is based on based on of the official CyberPatriot education program's learning structure. This mainly focuses on secure virtualization, computer OS security, the basics of using Windows operating systems and an introduction into Linux OS. you will learn how to configure Linux and Windows OS virtual machines, as well as hardening the Windows OS as well.
 
 Hands-On Virtual Material Table of Contents/Glossary:
 *******************************************************
