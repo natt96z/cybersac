@@ -77,27 +77,6 @@ A user can easily run a program as administrator in Windows, while in Linux you 
  
 **★Core Knowledge★ -** Users typically utilize the internet to search for an EXE or MSI file, download it, and install software on Windows. Due to the uncertainty surrounding this source's reliability, there is a significant security risk. On the other hand, Linux makes use of a tool called a package manager. Simply defined, a package manager oversees obtaining the packages you require from reliable sources known as repositories. Most of the time, the community manages repositories, and the verification and acceptance process for packages is laborious. They also simplify things for the user because there is no need to browse the internet or look up files to download; all you need to do is type a short command. 
 
-O&O ShutUp10++ - A Way of Hardening Windows OS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you would like to block Window’s sussy spyware then definitely use this software. It works for Windows 11 too just in case you made the big mistake of “upgrading” to 11 or higher.
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/140.jpg
-   :width: 50%
-   :align: center
-
-
-.. Note::
-   
-   There are many many settings that help you increase your privacy, security, and Quality of Life (QOL)  
-   
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/141.jpg
-   :width: 50%
-   :align: center
-   
-.. Note::
-   
-   Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
-
 
 
 
