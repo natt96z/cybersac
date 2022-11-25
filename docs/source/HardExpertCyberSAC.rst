@@ -55,13 +55,23 @@ Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebu
 **Kali Features include:**  
 
     *More than 600 penetration testing tools*
+    
     *Free to download*
+    
     *Open-source Git tree* 
+    
     *Filesystem Hierarchy Standard*  
+    
     *Wide-ranging wireless device support* 
+    
     *Custom kernel, patched for injection*
+    
     *Developed in a secure environment*
+    
     *GPG signed packages and repositories*
+    
     *Multi-language support* 
+    
     *Completely customizable* 
+    
     *ARMEL and ARMHF support* 
