@@ -90,7 +90,7 @@ The site is well orginized as well to aid with using on any compatible computer.
 **Step 1: Open Oracle Virtual Machine and install Kali Linux (Easy Image Guide)**
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/100.jpg
-   :width: 100%
+   :width: 65%
    :align: center
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/101.jpg
