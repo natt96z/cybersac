@@ -38,3 +38,16 @@ If you would like to block Window’s sussy spyware then definitely use this sof
    
    Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
 
+What is Kali Linux? - Detailed Computer Penetration Testing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Kali Linux (Formerly known as BackTrack Linux) Is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks, such as Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
+
+.. Note::
+
+ 
+Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebuild of BackTrack Linux, adhering completely to Debian development standards. 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/98.jpg
+   :width: 50%
+   :align: center
