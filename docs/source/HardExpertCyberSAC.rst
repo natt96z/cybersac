@@ -41,7 +41,7 @@ If you would like to block Window’s sussy spyware then definitely use this sof
 What is Kali Linux? - Detailed Computer Penetration Testing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Kali Linux (Formerly known as BackTrack Linux) Is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks, such as Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
+**Core Knowledge:** Kali Linux (Formerly known as BackTrack Linux) Is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks, such as Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
 
 .. Note::
 
@@ -49,5 +49,19 @@ Kali Linux (Formerly known as BackTrack Linux) Is an open-source, Debian-based L
 Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebuild of BackTrack Linux, adhering completely to Debian development standards. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/98.jpg
-   :width: 50%
+   :width: 65%
    :align: center
+   
+**Kali Features include:**  
+
+    *More than 600 penetration testing tools*
+    *Free to download*
+    *Open-source Git tree* 
+    *Filesystem Hierarchy Standard*  
+    *Wide-ranging wireless device support* 
+    *Custom kernel, patched for injection*
+    *Developed in a secure environment*
+    *GPG signed packages and repositories*
+    *Multi-language support* 
+    *Completely customizable* 
+    *ARMEL and ARMHF support* 
