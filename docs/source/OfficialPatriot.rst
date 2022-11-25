@@ -1,7 +1,7 @@
 Visit Official CyberPatriot Website
 =============================================================
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/NYCEP.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/NYCEP.jpg
    :width: 100%
    :align: center
    
