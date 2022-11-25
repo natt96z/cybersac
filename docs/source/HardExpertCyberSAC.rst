@@ -37,6 +37,7 @@ If you would like to block Window’s sussy spyware then definitely use this sof
 .. Note::
    
    Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
+   
 
 What is Kali Linux? - Detailed Computer Penetration Testing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,3 +76,10 @@ Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebu
     *Completely customizable* 
     
     *ARMEL and ARMHF support* 
+    
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/99.jpg
+   :width: 65%
+   :align: center
+
+The site is well orginized as well to aid with using on any compatible computer.
