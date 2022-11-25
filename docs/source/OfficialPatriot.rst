@@ -2,7 +2,7 @@ Visit Official CyberPatriot Website
 =============================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/4978b5.png
-   :width: 100%
+   :width: 50%
    :align: center
    
    
