@@ -98,3 +98,10 @@ Additionally, it enables you to visit websites that may be restricted in your re
    :width: 74%
    :align: center
 
+.. Note:: Now sign in/create an account to use with the software
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/78.jpg
+   :width: 74%
+   :align: center
+   
+ 
