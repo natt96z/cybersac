@@ -91,6 +91,8 @@ Additionally, it enables you to visit websites that may be restricted in your re
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/76.jpg
    :width: 74%
    :align: center
+   
+.. Note:: Install the program like you would with any other program 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/77.jpg
    :width: 74%
