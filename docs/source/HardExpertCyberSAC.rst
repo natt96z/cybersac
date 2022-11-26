@@ -28,7 +28,7 @@ O&O ShutUp10++ - A Way of Hardening Windows OS
 If you would like to block Window’s sussy spyware then definitely use this software. It works for Windows 11 too just in case you made the big mistake of “upgrading” to 11 or higher.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/140.jpg
-   :width: 50%
+   :width: 51%
    :align: center
 
 
