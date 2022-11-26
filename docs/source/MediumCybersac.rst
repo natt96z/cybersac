@@ -87,6 +87,7 @@ Setting up Proton VPN on Windows OS
    :width: 80%
    :align: center
    
+   
    *Step 1:* Install the program like you would with any other program 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/77.jpg
