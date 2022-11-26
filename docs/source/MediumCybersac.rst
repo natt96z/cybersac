@@ -84,6 +84,14 @@ Setting up Proton VPN on Windows OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
+
+
+
+
+
+
+
+
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/76.jpg
    :width: 74%
    :align: center
@@ -91,7 +99,7 @@ Setting up Proton VPN on Windows OS
    
    Step 1: Install the program like you would with any other program 
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/76.jpg
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/77.jpg
    :width: 74%
    :align: center
 
