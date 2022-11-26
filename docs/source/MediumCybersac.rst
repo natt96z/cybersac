@@ -84,7 +84,7 @@ Setting up Proton VPN on Windows OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/76.jpg
-   :width: 80%
+   :width: 74%
    :align: center
    
    
