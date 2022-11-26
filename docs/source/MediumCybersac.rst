@@ -80,7 +80,17 @@ A user can easily run a program as administrator in Windows, while in Linux you 
 **★Core Knowledge★ -** Users typically utilize the internet to search for an EXE or MSI file, download it, and install software on Windows. Due to the uncertainty surrounding this source's reliability, there is a significant security risk. On the other hand, Linux makes use of a tool called a package manager. Simply defined, a package manager oversees obtaining the packages you require from reliable sources known as repositories. Most of the time, the community manages repositories, and the verification and acceptance process for packages is laborious. They also simplify things for the user because there is no need to browse the internet or look up files to download; all you need to do is type a short command. 
 
 
+Setting up Proton VPN on Windows OS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/76.jpg
+   :width: 80%
+   :align: center
+   
+   *Step 1:* Install the program like you would with any other program 
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/77.jpg
+   :width: 74%
+   :align: center
 
