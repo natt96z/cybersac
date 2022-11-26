@@ -83,13 +83,9 @@ A user can easily run a program as administrator in Windows, while in Linux you 
 Setting up Proton VPN on Windows OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-
-
-
-
-
-
+**★Core Knowledge★ -** What is Proton VPN? Your Internet connection is encrypted while you browse the internet with Proton VPN.
+The robust security features of Proton VPN make sure that an intruder cannot eavesdrop on your connection by routing it through encrypted tunnels.
+Additionally, it enables you to visit websites that may be restricted in your region.
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/76.jpg
