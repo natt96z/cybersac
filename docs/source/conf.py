@@ -7,7 +7,7 @@ copyright = '2022, Santa Ana College & CyberPatriot Authors/Contributors'
 author = 'Nathaniel Clay'
 
 release = '2.4'
-version = '2.0.4'
+version = '2.2.4'
 
 # -- General configuration
 
