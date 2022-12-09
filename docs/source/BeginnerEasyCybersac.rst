@@ -6,7 +6,7 @@ EasyPatriot - Online Safety and Virus Protection!
    :align: center
 
 .. Note:: ★IMPORTANT★ This page is based on unit 1 and 2 of the official CyberPatriot learning material. Download this lecture file to begin: 
-<a href="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/view?usp=sharing" target="_blank">Open Unit 1</a> 
+.. raw:: <a href="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/view?usp=sharing" target="_blank">Open Unit 1</a> 
 
 
    
