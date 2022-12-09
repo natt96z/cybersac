@@ -11,7 +11,7 @@ EasyPatriot - Online Safety and Virus Protection!
 
 .. raw:: html
 
-   <a href="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/view?usp=sharing" target="_blank" onclick="window.open(this.href,this.target,'width=500,height=300,top=100,left=100,status=yes');return false">Open Unit 1 Material?</a>
+   <a href="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/view?usp=sharing" target="_blank">Open Unit 1 Learning Material</a> 
 
 
    
