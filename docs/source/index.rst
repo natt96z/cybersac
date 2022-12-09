@@ -49,5 +49,6 @@ Hands-On Virtual Material Table of Contents/Glossary:
    AuthorsContributors.rst
    OfficialPatriot.rsT
    DMCARequest.rst
+   Events.rst
    
    
