@@ -1,4 +1,4 @@
-**SoCalCCCC Events**
+**Events Calendar**
 =============================================================
 
    **You are now leaving the Official SAC CyberPatriot Documentation Hub**
