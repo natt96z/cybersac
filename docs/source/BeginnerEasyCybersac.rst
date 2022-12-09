@@ -7,10 +7,13 @@ EasyPatriot - Online Safety and Virus Protection!
 
 .. Note:: ★IMPORTANT (Start Here!)★ This page is based on unit 1 and 2 of the official CyberPatriot learning material. 
 
-**Unit 1 Material: Intro to Cyber Security:**
 .. raw:: html
 
    <a href="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/view?usp=sharing" target="_blank">Open Unit 1 Learning Material</a> 
+   
+.. raw:: html
+
+   <a href="https://drive.google.com/file/d/12tzzx0Wt9kGN8_T94E4kUEJcQ0cfHXNd/view?usp=sharing" target="_blank">Open Unit 2 Learning Material</a> 
 
 
    
