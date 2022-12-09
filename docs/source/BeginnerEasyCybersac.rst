@@ -5,9 +5,9 @@ EasyPatriot - Online Safety and Virus Protection!
    :width: 80%
    :align: center
 
-.. Note:: ★IMPORTANT (Start Here!)★ This page is based on unit 1 and 2 of the official CyberPatriot learning material. Download this lecture file to begin: `Click this link to proceed! (Unit 1)`_
-   
-   .. _Click this link to proceed!(Unit 1): https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/view?usp=sharing
+.. Note:: ★IMPORTANT (Start Here!)★ This page is based on unit 1 and 2 of the official CyberPatriot learning material. .. |location_link| raw:: html
+
+   <a href="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/view?usp=sharing" target="_blank">check your location here</a>: 
    
 
 **Visiting Malicious Websites – Sites to Avoid**
