@@ -8,12 +8,6 @@
    
    This page is designed to redirect you to the Official USA CyberPatriot's website. 
    
-
-
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. raw:: html
 
    <a href=" https://www.uscyberpatriot.org/home" target="_blank">Click Here to Proceed!</a> 
