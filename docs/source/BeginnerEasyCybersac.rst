@@ -5,9 +5,9 @@ EasyPatriot - Online Safety and Virus Protection!
    :width: 80%
    :align: center
 
-.. Note:: ★IMPORTANT★ This page is based on unit 1 and 2 of the official CyberPatriot learning material. 
+.. Note:: ★IMPORTANT (Start Here!)★ This page is based on unit 1 and 2 of the official CyberPatriot learning material. 
 
-Unit 1 Material: Intro to Cyber Security:
+**Unit 1 Material: Intro to Cyber Security:**
 
 .. raw:: html
 
