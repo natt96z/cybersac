@@ -48,7 +48,7 @@ Hands-On Virtual Material Table of Contents/Glossary:
    HardExpertCyberSAC.rst
    AuthorsContributors.rst
    OfficialPatriot.rsT
-   DMCARequest.rst
    Events.rst
+   DMCARequest.rst
    
    
