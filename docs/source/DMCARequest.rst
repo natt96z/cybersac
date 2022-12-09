@@ -2,7 +2,7 @@
 ====================
 
 
-Submitting a Request
+Submitting a DMCA Claim:
 ~~~~~~~~~~~~~~~~~~~~
 
 Your request must:
@@ -30,7 +30,7 @@ Include your contact information
 Include your signature
     This can be a physical or electronic signature.
 
-Request can be submitted to: support@readthedocs.com
+Requests can be submitted to: support@readthedocs.com
 
 Submitting a Counter
 ~~~~~~~~~~~~~~~~~~~~
@@ -51,4 +51,4 @@ Include your contact information
 Include your signature
     This can be a physical or electronic signature.
 
-Requests can be submitted to: support@readthedocs.com
+Counters can be submitted to: support@readthedocs.com
