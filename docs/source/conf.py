@@ -7,7 +7,7 @@ copyright = '2022, Santa Ana College & CyberPatriot Authors/Contributors'
 author = 'Nathaniel Clay'
 
 release = '2.4'
-version = '2.2.4'
+version = '2.4.4'
 
 # -- General configuration
 
@@ -33,3 +33,5 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
