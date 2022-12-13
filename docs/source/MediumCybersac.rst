@@ -107,6 +107,11 @@ Additionally, it enables you to visit websites that may be restricted in your re
 Using Cisco Packet Tracer Software
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/44.jpg
+   :width: 60%
+   :align: center
+
+
 **★Core Knowledge★ -** What is Cisco Packet Tracer? (8.1.1) 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/43.jpg
@@ -115,65 +120,24 @@ Using Cisco Packet Tracer Software
 
 A picture containing graphical user interface
 
-Description automatically generatedCisco Packet Tracer is a cross-platform visual simulation tool that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface. 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/47.jpg
+   :width: 60%
+   :align: center
+
+**★Core Knowledge★ -** Cisco Packet Tracer is a cross-platform visual simulation tool that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface. 
 
  
- 
- 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot 2022-12-12 170241.png
+   :width: 60%
+   :align: center
 
-Cisco Packet Tracer Instructor - F:\Downloads\CyberPatriots Practice Cisco Packet Tracer.pkt 
 
-IP Ranges 
-
-Class 
-	
-
-1st Octet Decimal Range 
-	
-
-       Network Size 
-	
-
-   Default Subnet Mask 
-
-             A 
-	
-
-            1-126 
-	
-
-             Large 
-	
-
-         255.0.0.0 
-
-             B 
-	
-
-            128-191 
-	
-
-          Medium 
-	
-
-      255.255.0.0 
-
-             C 
-	
-
-            192-223 
-	
-
-              Small 
-	
-
-   255.255.255.0 
-
-                                                              When dealing with networking devices,  
+When dealing with networking devices,  
 
 there are three planes: the management,  
 
 control, and data planes 
+
 
 Diagram
 
@@ -185,13 +149,11 @@ Description automatically generated   
 
  
 
-Management Plane 
+**Management Plane** 
 
-    The connection between the workstation and the device 
+The connection between the workstation and the device Where the administrator monitors and configures services 
 
-    Where the administrator monitors and configures services 
-
-    Protocols: telnet, NTP, Secure FTP, SNMP, and SSH 
+Protocols: telnet, NTP, Secure FTP, SNMP, and SSH 
 
     We work with the management plane either in-band using a shared management interface or out-of-band 
 
