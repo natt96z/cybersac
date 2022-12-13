@@ -134,11 +134,11 @@ A picture containing graphical user interface
 
 .. Note:: When dealing with networking devices,there are three planes: the management, control, and data planes 
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/48.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/48.jpg
    :width: 50%
    :align: center
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/49.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/49.jpg
    :width: 60%
    :align: center
 
