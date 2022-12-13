@@ -103,6 +103,25 @@ Additionally, it enables you to visit websites that may be restricted in your re
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/78.jpg
    :width: 60%
    :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/79.jpg
+   :width: 60%
+   :align: center
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/80.jpg
+   :width: 60%
+   :align: center
+   
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/81.jpg
+   :width: 60%
+   :align: center
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/82.jpg
+   :width: 60%
+   :align: center
+  
+  
   
 Using Cisco Packet Tracer Software
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -145,9 +164,7 @@ A picture containing graphical user interface
 
 **Management Plane** The connection between the workstation and the device Where the administrator monitors and configures services 
 
-Protocols: telnet, NTP, Secure FTP, SNMP, and SSH and we work with the management plane either in-band using a shared management interface or out-of-band 
-
- 
+**Protocols** telnet, NTP, Secure FTP, SNMP, and SSH and we work with the management plane either in-band using a shared management interface or out-of-band 
 
 **Data Plane or Forwarding Plane** The actual movement of data based on what the device learned from the control plane and processes and moves user traffic 
 
