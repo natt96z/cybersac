@@ -103,5 +103,116 @@ Additionally, it enables you to visit websites that may be restricted in your re
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/78.jpg
    :width: 60%
    :align: center
-   
+  
+Using Cisco Packet Tracer Software
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**★Core Knowledge★ -** What is Cisco Packet Tracer? (8.1.1) 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/43.jpg
+   :width: 60%
+   :align: center
+
+A picture containing graphical user interface
+
+Description automatically generatedCisco Packet Tracer is a cross-platform visual simulation tool that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface. 
+
+ 
  
+ 
+
+Cisco Packet Tracer Instructor - F:\Downloads\CyberPatriots Practice Cisco Packet Tracer.pkt 
+
+IP Ranges 
+
+Class 
+	
+
+1st Octet Decimal Range 
+	
+
+       Network Size 
+	
+
+   Default Subnet Mask 
+
+             A 
+	
+
+            1-126 
+	
+
+             Large 
+	
+
+         255.0.0.0 
+
+             B 
+	
+
+            128-191 
+	
+
+          Medium 
+	
+
+      255.255.0.0 
+
+             C 
+	
+
+            192-223 
+	
+
+              Small 
+	
+
+   255.255.255.0 
+
+                                                              When dealing with networking devices,  
+
+there are three planes: the management,  
+
+control, and data planes 
+
+Diagram
+
+Description automatically generated                                                                  
+
+Graphical user interface
+
+Description automatically generated   
+
+ 
+
+Management Plane 
+
+    The connection between the workstation and the device 
+
+    Where the administrator monitors and configures services 
+
+    Protocols: telnet, NTP, Secure FTP, SNMP, and SSH 
+
+    We work with the management plane either in-band using a shared management interface or out-of-band 
+
+ 
+
+Data Plane or Forwarding Plane 
+
+    The actual movement of data based on what the device learned from the control plane 
+
+    Processes and moves user traffic 
+
+    Service plane – a subset of data plane traffic, requires high touch handling by the device 
+
+  
+
+Control Plane 
+
+    Routing protocols and routers that talk with one another 
+
+    Where the device learns what action to take on the data 
+
+    No data moves until the control plane makes a decision on the best path to deliver the data 
+
+    Protocols work independently of the network administrator 
