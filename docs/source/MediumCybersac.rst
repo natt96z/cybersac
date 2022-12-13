@@ -127,7 +127,7 @@ A picture containing graphical user interface
 **★Core Knowledge★ -** Cisco Packet Tracer is a cross-platform visual simulation tool that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface. 
 
  
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot 2022-12-12 170241.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/170241.png
    :width: 60%
    :align: center
 
