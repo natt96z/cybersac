@@ -132,49 +132,25 @@ A picture containing graphical user interface
    :align: center
 
 
-When dealing with networking devices,  
+.. Note:: When dealing with networking devices,there are three planes: the management, control, and data planes 
 
-there are three planes: the management,  
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/48.png
+   :width: 50%
+   :align: center
 
-control, and data planes 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/49.png
+   :width: 60%
+   :align: center
 
 
-Diagram
+**Management Plane** The connection between the workstation and the device Where the administrator monitors and configures services 
 
-Description automatically generated                                                                  
-
-Graphical user interface
-
-Description automatically generated   
-
- 
-
-**Management Plane** 
-
-The connection between the workstation and the device Where the administrator monitors and configures services 
-
-Protocols: telnet, NTP, Secure FTP, SNMP, and SSH 
-
-    We work with the management plane either in-band using a shared management interface or out-of-band 
+Protocols: telnet, NTP, Secure FTP, SNMP, and SSH and we work with the management plane either in-band using a shared management interface or out-of-band 
 
  
 
-Data Plane or Forwarding Plane 
+**Data Plane or Forwarding Plane** The actual movement of data based on what the device learned from the control plane and processes and moves user traffic 
 
-    The actual movement of data based on what the device learned from the control plane 
+**Service Plane** - subset of data plane traffic, requires high touch handling by the device 
 
-    Processes and moves user traffic 
-
-    Service plane – a subset of data plane traffic, requires high touch handling by the device 
-
-  
-
-Control Plane 
-
-    Routing protocols and routers that talk with one another 
-
-    Where the device learns what action to take on the data 
-
-    No data moves until the control plane makes a decision on the best path to deliver the data 
-
-    Protocols work independently of the network administrator 
+**Control Plane** Routing protocols and routers that talk with one another. Where the device learns what action to take on the data. No data moves until the control and this plane makes a decision on the best path to deliver the data.
