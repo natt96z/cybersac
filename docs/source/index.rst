@@ -50,5 +50,5 @@ Hands-On Virtual Material Table of Contents/Glossary:
    OfficialPatriot.rsT
    Events.rst
    DMCARequest.rst
-   
+   links.rst
    
