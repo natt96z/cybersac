@@ -24,3 +24,9 @@ Software Resource Material (Download)
 .. raw:: html
 
   <a href="https://drive.google.com/drive/folders/1OSgeOJkm7d3tgpXJZDgo66usUqQ6AcN7?usp=share_link" target="_blank">Click Here to Proceed!</a> 
+
+Other Useful Websites (Links)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://www.offensive-security.com/labs/individual/
+https://skillsforall.com/learningcollections/cisco-packet-tracer
