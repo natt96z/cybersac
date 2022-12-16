@@ -11,7 +11,6 @@ Official CyberPatiot Training Material (All Sections)
 
 
 
-
-
+.. raw:: html
 
 <a href="https://drive.google.com/drive/folders/1BsNoljXXMoefJZo5dlee4wuzFmiNcxIN?usp=share_link" target="_blank">Click Here to Proceed!</a> 
