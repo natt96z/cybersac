@@ -42,8 +42,4 @@ https://haveibeenpwned.com Check if emails compromised 
 
 https://kahoot.it Convenient quiz website 
 
-https://upload.io Tranfer and upload files
-
-https://transfer.sh Transer files
-
 https://virustotal.com scan suspicious files easily
