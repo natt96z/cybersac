@@ -30,11 +30,11 @@ Other Useful Websites (Links)
 
 https://www.offensive-security.com/labs/individual/
 
-https://skillsforall.com/learningcollections/cisco-packet-tracer
+https://skillsforall.com/learningcollections/cisco-packet-tracer - Hands-on CISCO Server Simulator
 
-https://www.netacad.com - Online VM Servers
+https://www.netacad.com - Hnads-on online VM Servers
 
-https://tryhackme.com/hacktivities
+https://tryhackme.com/hacktivities - Hands on cyber security activities
 
 https://hak5.org - Buy ethical hacking tools 
 
@@ -43,3 +43,5 @@ https://haveibeenpwned.com Check if emails compromised 
 https://kahoot.it Convenient quiz website 
 
 https://virustotal.com scan suspicious files easily
+
+https://jitsi.org/ Free online video confrencing 
