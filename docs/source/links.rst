@@ -31,3 +31,17 @@ Other Useful Websites (Links)
 https://www.offensive-security.com/labs/individual/
 
 https://skillsforall.com/learningcollections/cisco-packet-tracer
+
+https://tryhackme.com/hacktivities
+
+https://hak5.org - Buy ethical hacking tools 
+
+https://haveibeenpwned.com Check if emails compromised 
+
+https://kahoot.it Convenient quiz website 
+
+https://upload.io 
+
+https://transfer.sh 
+
+https://virustotal.com scan suspicious files easily
