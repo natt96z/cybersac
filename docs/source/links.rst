@@ -13,7 +13,7 @@ Official CyberPatiot Training Material (All Sections)
 
 .. raw:: html
 
-  <a href="https://drive.google.com/drive/folders/1BsNoljXXMoefJZo5dlee4wuzFmiNcxIN?usp=share_link" target="_blank">Click Here to Proceed!</a> 
+  <a href="https://drive.google.com/drive/folders/1BsNoljXXMoefJZo5dlee4wuzFmiNcxIN?usp=share_link" target="_blank">View Official Training Material!</a> 
 
 
 Software Resource Material (Download)
@@ -23,7 +23,7 @@ Software Resource Material (Download)
 
 .. raw:: html
 
-  <a href="https://drive.google.com/drive/folders/1OSgeOJkm7d3tgpXJZDgo66usUqQ6AcN7?usp=share_link" target="_blank">Click Here to Proceed!</a> 
+  <a href="https://drive.google.com/drive/folders/1OSgeOJkm7d3tgpXJZDgo66usUqQ6AcN7?usp=share_link" target="_blank">Download Resource Software (Windows) </a> 
 
 Other Useful Websites (Links)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
