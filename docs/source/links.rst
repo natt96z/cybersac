@@ -32,6 +32,8 @@ https://www.offensive-security.com/labs/individual/
 
 https://skillsforall.com/learningcollections/cisco-packet-tracer
 
+https://www.netacad.com - Online VM Servers
+
 https://tryhackme.com/hacktivities
 
 https://hak5.org - Buy ethical hacking tools 
