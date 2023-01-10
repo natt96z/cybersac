@@ -25,8 +25,10 @@ Software Resource Material (Download)
 
   <a href="https://drive.google.com/drive/folders/1OSgeOJkm7d3tgpXJZDgo66usUqQ6AcN7?usp=share_link" target="_blank">Download Resource Software (Windows) </a> 
 
-Other Useful Websites (Links)
+Other  Various Useful Websites (Links)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://sac.edu/AcademicProgs/Business/ComputerScience/Pages/cis.aspx
 
 https://www.offensive-security.com/labs/individual/
 
