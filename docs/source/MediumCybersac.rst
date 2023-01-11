@@ -23,6 +23,8 @@ CyberEthics - Doing the right thing with computer technology!
    :align: center
 
 **Things you should never do: (4 Major Nevers)**
+
+
 -Never use a computer to steal from others (Stealing bank details, scamming through emails)
 
 -Never use a computer to harm others (Either it be on a personal level or damaging another persons hardware)
