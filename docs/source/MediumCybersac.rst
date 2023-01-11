@@ -41,7 +41,7 @@ CyberEthics - Doing the right thing with computer technology!
    :width: 50%
    :align: center
    
-**★Core Knowledge★ -** We need computer ethics to difrinciate from whats right and wrong. The technology we used today can be easily missused and can become an easy security threat for not just people but entire network infrastructures as well. The tools we use should always be used for good, to help other with task like safe data recovery, basic computer repair, network orginization and security hardening.(More information can be found above in the learning material section of this page)
+**★Core Knowledge★ -** We need computer ethics to difrinciate from whats right and wrong. The technology we used today can be easily missused and can become an easy security threat for not just people but entire network infrastructures as well. The tools we use should always be used for good, to help other with task like safe data recovery, basic computer repair, network orginization and security hardening. Also if you see something, say something, it could be a life altering issue that needs to be handled correctly. (More information can be found above in the learning material section of this page)
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/istockphoto-941665020-612x612.jpg
    :width: 50%
