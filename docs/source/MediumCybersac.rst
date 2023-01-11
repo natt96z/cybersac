@@ -7,6 +7,28 @@ IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/6K-tTaxLqJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+CyberEthics - Doing the right thing with computer technology!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/how-to-become-an-ethical-hacker.png
+   :width: 50%
+   :align: center
+   
+**★Core Knowledge★ -** We need computer ethics to difrinciate from whats right and wrong. The technology we used today can be easily missused and can become an easy security threat for not just people but entire network infrastructures as well. The tools we use should always be used for good, to help other with task like safe data recovery, basic computer repair, network orginization and security hardening.(More information can be found above in the learning material section of this page)
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/istockphoto-941665020-612x612.jpg
+   :width: 50%
+   :align: center
+
+**Things you should never do: (4 Major Nevers)**
+-Never use a computer to steal from others (Stealing bank details, scamming through emails)
+-Never use a computer to harm others (Either it be on a personal level or damaging another persons hardware)
+-Never use a computer to illegaly copy liscenced software (Software you haven't subbed or purchased)
+-Never use a computer's resources without the correct permissions from authority. (Always ask first)
+
+
 Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
