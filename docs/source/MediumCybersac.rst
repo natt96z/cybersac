@@ -10,11 +10,11 @@ IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 
 .. raw:: html
 
-   <a href="https://drive.google.com/file/d/1a1RFDD5A7ku_NpjBDFYlEHgYkgbLz9FP/view?usp=sharing" target="_blank">Open Unit 5 Learning Material</a>
+   <a href="https://drive.google.com/file/d/1a1RFDD5A7ku_NpjBDFYlEHgYkgbLz9FP/view?usp=sharing" target="_blank">Open Unit 5 Learning Material - </a>
    
 .. raw:: html
 
-  <a href="https://drive.google.com/file/d/1JZZN64VKm9sZQzKMTkahdJPDwFIGPtei/view?usp=sharing" target="_blank">Open Unit 7 Learning Material</a>
+  <a href="https://drive.google.com/file/d/1JZZN64VKm9sZQzKMTkahdJPDwFIGPtei/view?usp=sharing" target="_blank">Open Unit 7 Learning Material - </a>
 
 .. raw:: html
 
