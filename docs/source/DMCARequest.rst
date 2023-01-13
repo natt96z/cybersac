@@ -22,7 +22,7 @@ Identify infringement resolution
     rest of their content disabled. Be as specific as possible with this.
     Specify if this means adding attribution, identify specific files or content
     that should be removed, or if you allege the entire project is infringing,
-    your should be specific as to why it is infringing.
+    you should be specific as to why it is infringing.
 
 Include your contact information
     Include your name, email, physical address, and phone number.
@@ -30,7 +30,7 @@ Include your contact information
 Include your signature
     This can be a physical or electronic signature.
 
-Requests can be submitted to: support@rdthedocs.com
+Requests can be submitted to: support@readthedocs.com
 
 Submitting a Counter
 ~~~~~~~~~~~~~~~~~~~~
@@ -51,4 +51,4 @@ Include your contact information
 Include your signature
     This can be a physical or electronic signature.
 
-Counters can be submitted to: support@rdthedocs.com
+Counters can be submitted to: support@readthedocs.com
