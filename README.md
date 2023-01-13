@@ -17,4 +17,4 @@ __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
 
 CyberPatriot SAC Documentation GitHub
 =======================================
-This GitHub will be a continuation of the latest combining new hands-on ideas that would be most appropriate for the SAC (Santa Ana College Cyber Center) CyberPatriots to implement into training and instructions for CyberPatriot competitors. **Understandably CyberPatriot already has a base template and exercise material but for this circumstance, we will be making extra in-depth material that goes beyond what the program offers.** Programming is completely done in python.
+This GitHub will be a continuation of the latest, combining new hands-on ideas that would be most appropriate for the SAC (Santa Ana College Cyber Center) CyberPatriots to implement into training and instructions for CyberPatriot competitors. Understandably, CyberPatriot already has a base template and exercise material, but for this circumstance, we will be making extra in-depth material that goes beyond what the program offers. Programming is completely done in python.
