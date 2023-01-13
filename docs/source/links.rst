@@ -34,7 +34,7 @@ https://www.offensive-security.com/labs/individual/
 
 https://skillsforall.com/learningcollections/cisco-packet-tracer - Hands-on CISCO Server Simulator
 
-https://www.netacad.com - Hnads-on online VM Servers
+https://www.netacad.com - Hands-on online VM Servers
 
 https://tryhackme.com/hacktivities - Hands on cyber security activities
 
@@ -46,4 +46,4 @@ https://kahoot.it Convenient quiz website 
 
 https://virustotal.com scan suspicious files easily
 
-https://jitsi.org/ Free online video confrencing 
+https://jitsi.org/ Free online video conferencing
