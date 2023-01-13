@@ -11,7 +11,7 @@ ProPatriot - Hardening Software and Security Penetration Techniques
 Penetration and Vulnerability Testing Using Burp Suite
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Core Knowledge:** A Burp suite is a powerful tool that many penetration testers use professionally. Learning how to use these tools effectively can make sure that the applications you are using are strong and secure from all sorts of malicious attacks. The Burp Suite community edition has much less features than the professional and enterprise versions but it’s good enough that if you master the community edition then you have gained a powerful set of skills. 
+**Core Knowledge:** A Burp suite is a powerful tool that many penetration testers use professionally. Learning how to use these tools effectively can make sure that the applications you are using are strong and secure from all sorts of malicious attacks. The Burp Suite community edition has much fewer features than the professional and enterprise versions, but it’s good enough that if you master the community edition then you have gained a powerful set of skills.
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/30.jpg
@@ -25,7 +25,7 @@ Penetration and Vulnerability Testing Using Burp Suite
 
 O&O ShutUp10++ - A Way of Hardening Windows OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you would like to block Window’s sussy spyware then definitely use this software. It works for Windows 11 too just in case you made the big mistake of “upgrading” to 11 or higher.
+If you would like to block Window’s suspect spyware then definitely use this software. It works for Windows 11 too just in case you made the big mistake of “upgrading” to 11 or higher.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/140.jpg
    :width: 51%
@@ -74,7 +74,7 @@ Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebu
     
     *Open-source Git tree* 
     
-    *Filesystem Hierarchy Standard*  
+    *File System Hierarchy Standard*  
     
     *Wide-ranging wireless device support* 
     
@@ -97,7 +97,7 @@ Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebu
 
 .. Note::
 
-The site is well orginized as well to aid with using on any compatible computer. There are also helpful help forums and faq's to troubleshoot possible issues. 
+The site is well organized as well to aid with using on any compatible computer. There are also helpful help forums and FAQ's to troubleshoot possible issues.
 
  
 **Step 1: Open Oracle Virtual Machine and install Kali Linux (Easy Image Guide)**
