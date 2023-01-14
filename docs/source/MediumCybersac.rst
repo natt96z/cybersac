@@ -66,7 +66,7 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
    :width: 50%
    :align: center
 
-**Software security NOTE:** It's always smart to regularly install security updates for Windows through its Windows security applet. This can also be done with other 3rd party security suites as well. Windows Defender is preinstalled on most computers these days and offers comprehensive tools to keep your PC safe. 3rd party alternatives like BitDefender and Malware Bytes do a great job as well.
+**Software Security NOTE:** It's always smart to regularly install security updates for Windows through its Windows security applet. This can also be done with other 3rd party security suites as well. Windows Defender is preinstalled on most computers these days and offers comprehensive tools to keep your PC safe. 3rd party alternatives like BitDefender and Malware Bytes do a great job as well.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/8.jpg
    :width: 50%
@@ -93,7 +93,21 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 
 **Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault.
 
-Using Ubuntu OS/Why Linux is so secure over Windows!
+Using and Securing Ubuntu Linux OS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ubuntumaxresdefault.jpg
+   :width: 62%
+   :align: center
+   
+**Core Knowledge:** Ubuntu is an open-source operating system (OS) built on the Debian GNU/Linux distribution. Ubuntu offers a more secure and private operating system. The main benefit of using Ubuntu is that we can get the extra security and privacy that we need without using any third-party solutions.
+By using this Linux distribution, the risk of hackers breaking into our PC's servers and especially virtual machines is minimal to almost non-exsistant with certian useful techniques.
+
+**Software Security NOTE:** 
+
+
+
+Why Linux OS is so secure over Microsoft Windows! (Comparison)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/13.jpg
@@ -130,6 +144,7 @@ A user can easily run a program as administrator on Windows, while on Linux you 
  **Linux Can’t Get Viruses AS EASY as Windows OS can...BUT**
  
 **★Core Knowledge★ -** Users typically utilize the internet to search for an EXE or MSI file, download it, and install software on Windows. Due to the uncertainty surrounding this source's reliability, there is a significant security risk. On the other hand, Linux makes use of a tool called a package manager. Simply defined, a package manager oversees obtaining the packages you require from reliable sources known as repositories. Most of the time, the community manages repositories, and the verification and acceptance process for packages is laborious. They also simplify things for the user because there is no need to browse the internet or look up files to download; all you need to do is type a short command. 
+
 
 
 Setting up Proton VPN on Windows OS
