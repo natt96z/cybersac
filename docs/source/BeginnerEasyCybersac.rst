@@ -45,7 +45,7 @@ EasyPatriot - Online Safety and Virus Protection!
    :align: center
  
  
-.. Note:: These images above are perfect examples of sketchy online websites that not secure at all and is offering a "free" download of a game. It will lead you to a website that is trying to trick you into collecting personal information disguised as a fake account request.
+.. Note:: These images above are perfect examples of sketchy online websites that are not secure at all and is offering a "free" download of a game. It will lead you to a website that is trying to trick you into collecting personal information disguised as a fake account request.
  
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/6.jpg
@@ -57,13 +57,13 @@ EasyPatriot - Online Safety and Virus Protection!
 **Types of Dangerous Viruses and How to Protect Yourself**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. Note:: Viruses, a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
+.. Note:: Viruses - a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
 
-A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
+A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes a malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
 
-A **browser hijacker** is a malware program that modifies web browser settings without the user's permission and redirects the user to websites the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
+A **browser hijacker** is a malware program that modifies web browser settings without the user's permission and redirects the user to websites, the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
 
-A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are typically embedded in otherwise legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
+A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are typically embedded in, otherwise, legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
 
 A **file-infecting virus** is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. 
 
@@ -71,9 +71,9 @@ A **macro virus** is written in the same macro language used to create software 
 
 A **multipartite virus** is a fast-moving virus that uses file infectors or boot infectors to attack the boot sector and executable files simultaneously. Most viruses either affect the boot sector, the system, or the program files. 
 
-An **overwriting virus** is a malicious program which, after infection, will effectively destroy the original program code, typically by overwriting data in the system's memory. 
+An **overwriting virus** is a malicious program which, after infection, will effectively destroy the original program code, typically, by overwriting data in the system's memory. 
 
-**Polymorphic viruses** are complex file infectors that can create modified versions of itself to avoid detection yet retain the same basic routines after every infection. To vary their physical file makeup during each infection, polymorphic viruses encrypt their codes and use different encryption keys every time. 
+**Polymorphic viruses** are complex file infectors that can create modified versions of itself to avoid detection, yet, retain the same basic routines after every infection. To vary their physical file makeup, during each infection, polymorphic viruses encrypt their codes and use different encryption keys every time. 
 
 A **resident virus** is a kind of computer virus that hides and stores itself within the computer memory, which then allows it to infect any file that is run by the computer, depending on the virus' programming. 
 
