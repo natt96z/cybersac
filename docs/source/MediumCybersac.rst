@@ -6,14 +6,24 @@ IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 .. raw:: html
 
   <a href="https://drive.google.com/file/d/17epBEakP_2YQmCgrYzjiV5aEfP0AuQfz/view?usp=sharing" target="_blank">Open Unit 3: CyberEthics - </a> 
+  
+  
 
   <a href="https://drive.google.com/file/d/1a1RFDD5A7ku_NpjBDFYlEHgYkgbLz9FP/view?usp=sharing" target="_blank">Open Unit 5 Learning Material - </a>
   
+  
+  
   <a href="https://drive.google.com/file/d/1JZZN64VKm9sZQzKMTkahdJPDwFIGPtei/view?usp=sharing" target="_blank">Open Unit 7 Learning Material - </a>
   
+  
+  
   <a href="https://drive.google.com/file/d/1icdybiGKYgMkBduwsUgON5L73c_ltPxP/view?usp=sharing" target="_blank">Open Unit 9 Learning Material - </a>
+  
+  
 
   <a href="<a href="https://drive.google.com/file/d/18Klu1aoiCSOajHX5ExFQHiM0zHCJ-VRL/view?usp=sharing" target="_blank">Open Unit 10 Learning Material</a>
+  
+  
    
 
 
