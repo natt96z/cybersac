@@ -3,18 +3,15 @@ IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 
 .. Note:: ★IMPORTANT (Start Here!)★ This page is based on unit 3, 5, 7, 9 and 10 of the official CyberPatriot learning material. 
 
-
-<select onChange="window.location.href=this.value"> 
-    <option value="www.dheerajverma.in">A</option> 
-    <option value="www.prontowebsolution.com">B</option> 
-</select
-
-
-
-
-
-
 .. raw:: html
+
+
+<iframe src="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+
+
+
 
   <a href="https://drive.google.com/file/d/17epBEakP_2YQmCgrYzjiV5aEfP0AuQfz/view?usp=sharing" target="_blank">Open Unit 3: CyberEthics - </a> 
   
