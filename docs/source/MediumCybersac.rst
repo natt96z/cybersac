@@ -101,8 +101,6 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 
 
 
-**Software security Recommendation:**
-
 
 Using and Securing Ubuntu Linux OS (On a Virtual Machine)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
