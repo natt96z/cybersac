@@ -1,7 +1,7 @@
 IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 =============================================================
 
-.. Note:: ★ This page is based on unit 3, 5, 7, 9 and 10 of the official CyberPatriot learning material ★
+.. Note:: ★ This page is based on unit 3, 7, 8, 9 and 10 of the official CyberPatriot learning material ★
 
 
 **CyberVideo: Privacy and Security in Technology (Courtesy: Chris Titus Tech)**
@@ -93,6 +93,11 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 
 **Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault. 
 
+.. raw:: html
+
+   <iframe src="https://drive.google.com/file/d/1JZZN64VKm9sZQzKMTkahdJPDwFIGPtei/preview" width="640" height="480" allow="autoplay"></iframe>
+   
+   <iframe src="https://drive.google.com/file/d/1t-t-2BQntuWXbY1W3jhkM_JCL8f-Kfng/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 
