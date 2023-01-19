@@ -99,7 +99,7 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 **Software security Recommendation:**
 
 
-Using and Securing Ubuntu Linux OS
+Using and Securing Ubuntu Linux OS (On a Virtual Machine)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ubuntumaxresdefault.jpg
