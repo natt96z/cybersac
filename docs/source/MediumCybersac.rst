@@ -55,16 +55,17 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 
 **Software Security NOTE:** It's always smart to regularly install security updates for Windows through its Windows security applet. This can also be done with other 3rd party security suites as well. Windows Defender is preinstalled on most computers these days and offers comprehensive tools to keep your PC safe. 3rd party alternatives like BitDefender and Malware Bytes do a great job as well.
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/8.jpg
-   :width: 50%
-   :align: center
-   
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/wdav-protection-settings-wdsc.png
    :width: 60%
    :align: center
 
 **Software security Recommendation:** As a built-in malware scanner for Microsoft Windows, Microsoft Defender Antivirus will look for any files or programs on your computer that could harm it as part of the Windows Security suite. Defender scans email, apps, the cloud, and the web for software threats including viruses and other malware. It's also constantly updating with new securitry definitions to fix critical Windows exploits.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/8.jpg
+   :width: 50%
+   :align: center
+   
    
 **★Core Knowledge★ -** Ophcrack is a common software boot cracking tool that can hack Windows passwords. The program includes the ability to import the hashes from a variety of formats, including dumping directly from the SAM files of Windows. On most computers, ophcrack can crack most passwords within minutes, maybe even seconds.
 
