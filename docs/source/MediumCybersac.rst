@@ -52,6 +52,11 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/7.jpg
    :width: 50%
    :align: center
+   
+ 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/01fjk76Hzv5cska2LPEyhog-24.fit_lim.size_1152x.png
+   :width: 50%
+   :align: center
 
 **Software Security NOTE:** It's always smart to regularly install security updates for Windows through its Windows security applet. This can also be done with other 3rd party security suites as well. Windows Defender is preinstalled on most computers these days and offers comprehensive tools to keep your PC safe. 3rd party alternatives like BitDefender and Malware Bytes do a great job as well.
 
