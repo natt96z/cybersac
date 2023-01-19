@@ -59,6 +59,13 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
    :width: 50%
    :align: center
    
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/wdav-protection-settings-wdsc.png
+   :width: 60%
+   :align: center
+
+**Software security Recommendation:** As a built-in malware scanner for Microsoft Windows, Microsoft Defender Antivirus will look for any files or programs on your computer that could harm it as part of the Windows Security suite. Defender scans email, apps, the cloud, and the web for software threats including viruses and other malware. It's also constantly updating with new securitry definitions to fix critical Windows exploits.
+   
 **★Core Knowledge★ -** Ophcrack is a common software boot cracking tool that can hack Windows passwords. The program includes the ability to import the hashes from a variety of formats, including dumping directly from the SAM files of Windows. On most computers, ophcrack can crack most passwords within minutes, maybe even seconds.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/9.jpg
@@ -78,7 +85,13 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
    :width: 60%
    :align: center
 
-**Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault.
+**Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault. 
+
+
+
+
+**Software security Recommendation:**
+
 
 Using and Securing Ubuntu Linux OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
