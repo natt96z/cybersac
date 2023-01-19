@@ -1,13 +1,7 @@
 IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 =============================================================
 
-.. Note:: ★IMPORTANT (Start Here!)★ This page is based on unit 3, 5, 7, 9 and 10 of the official CyberPatriot learning material. 
-
-.. raw:: html
-
-   <iframe src="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/preview" width="640" height="480" allow="autoplay"></iframe>
-
-
+.. Note:: ★ This page is based on unit 3, 5, 7, 9 and 10 of the official CyberPatriot learning material ★
 
 
 **CyberVideo: Privacy and Security in Technology (Courtesy: Chris Titus Tech)**
@@ -41,6 +35,11 @@ CyberEthics - Doing the right thing with computer technology!
 -Never use a computer to illegally copy licensed software (Software you haven't subbed or purchased)
 
 -Never use a computer's resources without the correct permissions from authority. (Always ask first)
+
+.. raw:: html
+
+<iframe src="https://drive.google.com/file/d/17epBEakP_2YQmCgrYzjiV5aEfP0AuQfz/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 
 Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
