@@ -102,7 +102,9 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 
 
 
-Using and Securing Ubuntu Linux OS (On a Virtual Machine)
+
+
+Setting Up Ubuntu Linux OS (On a Virtual Machine)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ubuntumaxresdefault.jpg
@@ -112,9 +114,36 @@ Using and Securing Ubuntu Linux OS (On a Virtual Machine)
 **Core Knowledge:** Ubuntu is an open-source operating system (OS) built on the Debian GNU/Linux distribution. Ubuntu offers a more secure and private operating system. The main benefit of using Ubuntu is that we can get the extra security and privacy that we need without using any third-party solutions.
 By using this Linux distribution, the risk of hackers breaking into our PC's servers and especially virtual machines is minimal to almost non-exsistant with certian useful techniques.
 
-**Software Security NOTE:** 
+**Installing Ubuntu OS Onto VMWare (Creating a Virtual Machine)**
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ubuntuonvmware.jpg
+   :width: 65%
+   :align: center
 
 
+*Step 1:* Download the Ubuntu OS iso file from the appropriate official web page. 
+
+**Ubuntu Linux Download (Operating System):** https://ubuntu.com/download
+
+*Step 2:* Download and Install the VMWare Player application on your PC/Linux Machine.
+
+**VMWare Player (Virtual Machine Software):**  https://www.vmware.com/products/workstation-player.html 
+
+*Step 3:* Click the Player -> File -> New Virtual Machine OR Create a New Virtual Machine Link then choose the option, "I will install the operating system later"
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/2-t24x7-ubuntu-vmware-add-virtual-machine.png
+   :width: 65%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/3-t24x7-ubuntu-vmware-add-vm-welcome.png
+   :width: 65%
+   :align: center
+
+*Step 4:* Click the Next Button to choose the Operating System
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/4-t24x7-ubuntu-vmware-add-vm-welcome.png
+   :width: 65%
+   :align: center
 
 Why Linux OS is so secure over Microsoft Windows! (Comparison)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
