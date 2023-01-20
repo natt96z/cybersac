@@ -101,9 +101,6 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 
 
 
-
-
-
 Setting Up Ubuntu Linux OS (On a Virtual Machine)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -139,11 +136,26 @@ By using this Linux distribution, the risk of hackers breaking into our PC's ser
    :width: 65%
    :align: center
 
-*Step 4:* Click the Next Button to choose the Operating System
+*Step 4:* Click the Next Button to choose the Operating System (Linux and Version: Ubuntu)
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/4-t24x7-ubuntu-vmware-add-vm-welcome.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/4-t24x7-ubuntu-vmware-select-guest-os.png
    :width: 65%
    :align: center
+
+*Step 5:* Now click the Next Button to configure virtual machine name and installation path.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/5-t24x7-ubuntu-vmware-vm-configure.png
+   :width: 65%
+   :align: center
+
+*Step 6:* Click the Next Button to configure the disk and allocate space, make sure its not less than 15GB.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/6-t24x7-ubuntu-vmware-vm-configure.png
+   :width: 65%
+   :align: center
+   
+*Step 7:* 
+
 
 Why Linux OS is so secure over Microsoft Windows! (Comparison)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
