@@ -162,7 +162,7 @@ By using this Linux distribution, the risk of hackers breaking into our PC's ser
 
 *Step 8:* Select the Ubuntu Linux ISO downloaded on your PC
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/docs/img/Screenshot 2023-01-20 073111.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot%202023-01-20%20073111.png
    :width: 65%
    :align: center
 
