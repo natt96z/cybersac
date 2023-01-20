@@ -57,7 +57,7 @@ EasyPatriot - Online Safety and Virus Protection!
 **Types of Dangerous Viruses and How to Protect Yourself**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. Note:: Viruses - a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
+.. Note:: **Viruses** - a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
 
 A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes a malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
 
