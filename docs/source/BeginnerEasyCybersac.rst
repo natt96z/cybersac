@@ -5,7 +5,7 @@ EasyPatriot - Online Safety and Virus Protection!
    :width: 80%
    :align: center
 
-.. Note:: ★IMPORTANT: This page is based on unit 1 and 2 of the official CyberPatriot learning material.★
+.. Note:: ★This page is based on unit 1 and 2 of the official CyberPatriot learning material.★
 
    
 **Visiting Malicious Websites – Sites to Avoid**
