@@ -154,7 +154,18 @@ By using this Linux distribution, the risk of hackers breaking into our PC's ser
    :width: 65%
    :align: center
    
-*Step 7:* 
+*Step 7:* For this next step go ahead and click "finish" button to finish setting up your VM.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/7-t24x7-ubuntu-vmware-vm-settings.png
+   :width: 65%
+   :align: center
+
+*Step 8:* Select the Ubuntu Linux ISO downloaded on your PC
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/docs/img/Screenshot 2023-01-20 073111.png
+   :width: 65%
+   :align: center
+
 
 
 Why Linux OS is so secure over Microsoft Windows! (Comparison)
