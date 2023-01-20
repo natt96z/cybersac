@@ -111,6 +111,12 @@ Setting Up Ubuntu Linux OS (On a Virtual Machine)
 **Core Knowledge:** Ubuntu is an open-source operating system (OS) built on the Debian GNU/Linux distribution. Ubuntu offers a more secure and private operating system. The main benefit of using Ubuntu is that we can get the extra security and privacy that we need without using any third-party solutions.
 By using this Linux distribution, the risk of hackers breaking into our PC's servers and especially virtual machines is minimal to almost non-exsistant with certian useful techniques.
 
+
+.. raw:: html
+
+      <iframe src="https://drive.google.com/file/d/1icdybiGKYgMkBduwsUgON5L73c_ltPxP/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 **Installing Ubuntu OS Onto VMWare (Creating a Virtual Machine)**
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ubuntuonvmware.jpg
