@@ -172,6 +172,11 @@ By using this Linux distribution, the risk of hackers breaking into our PC's ser
    :width: 65%
    :align: center
 
+*Step 9:* Press the green play button to finish and boot Ubuntu OS (You should see the logo for the OS. 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/10-t24x7-ubuntu-vmware-vm-play.png
+   :width: 65%
+   :align: center
 
 
 Why Linux OS is so secure over Microsoft Windows! (Comparison)
