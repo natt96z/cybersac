@@ -5,18 +5,7 @@ EasyPatriot - Online Safety and Virus Protection!
    :width: 80%
    :align: center
 
-.. Note:: ★IMPORTANT (Start Here!)★ This page is based on unit 1 and 2 of the official CyberPatriot learning material. 
-
-.. raw:: html
-
-   <a href="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/view?usp=sharing" target="_blank">Open Unit 1 Learning Material - </a> 
-
-
-.. raw:: html
-
-   <a href="https://drive.google.com/file/d/12tzzx0Wt9kGN8_T94E4kUEJcQ0cfHXNd/view?usp=sharing" target="_blank">Open Unit 2 Learning Material</a> 
-
-
+.. Note:: ★IMPORTANT: This page is based on unit 1 and 2 of the official CyberPatriot learning material.★
 
    
 **Visiting Malicious Websites – Sites to Avoid**
@@ -57,7 +46,7 @@ EasyPatriot - Online Safety and Virus Protection!
 **Types of Dangerous Viruses and How to Protect Yourself**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. Note:: **Viruses** - a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
+.. Note:: Viruses - a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
 
 A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes a malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
 
@@ -171,6 +160,9 @@ In social engineering attempts, hackers aim to manipulate individuals -via in-pe
 
 Exploit attacks take advantage of security holes in popular applications, using the security vulnerability to take control. Even if you keep your operating system and programs patched, there's always a window when the vulnerability is known, but not yet patched. Malwarebytes shields several dozen popular applications against attack. This is a generalized protection against exploit behaviors, not protection against specific exploits. 
 
+
+
+
 **Online Safety– Phishing and avoiding malware**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -226,4 +218,9 @@ Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click 
 
 .. _Check Out Daniel Miessller's SEC List on GitHub: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
+.. raw:: html
+
+   <iframe src="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/preview" width="640" height="480" allow="autoplay"></iframe>
+   
+   <iframe src="https://drive.google.com/file/d/12tzzx0Wt9kGN8_T94E4kUEJcQ0cfHXNd/preview" width="640" height="480" allow="autoplay"></iframe>
 
