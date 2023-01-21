@@ -44,7 +44,7 @@ Safing Portmaster - An Easy To Use Firewall For Your Computer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If you would like to block all incoming connections on your computer and any unnecessary programs pinging the world outside, this is a fantastic piece of software.
 
-All you need to do is flick the switch and all those nasty connections coming from Adobe Creative Cloud is all gone.
+All you need to do is flick the switch and all those nasty connections coming from Adobe Creative Cloud are all gone.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/image.png
    :width: 51%
