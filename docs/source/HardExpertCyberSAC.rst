@@ -32,17 +32,20 @@ If you would like to block Window’s suspect spyware then definitely use this s
    :align: center
 
 
-.. Note::
-   
-   There are many many settings that help you increase your privacy, security, and Quality of Life (QOL)  
+.. Note: There are many many settings that help you increase your privacy, security, and Quality of Life (QOL)  
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/141.jpg
    :width: 50%
    :align: center
    
-.. Note::
-   
-   Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
+.. Note: Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
+
+Safing Portmaster - An Easy To Use Firewall For Your Computer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you would like to block all incoming connections on your computer and any unnecessary programs pinging the world outside, this is a fantastic piece of software.
+.. video:: https://assets.safing.io/video/landing_page/portmaster_tour.webm
+   :width: 51%
+   :align: center
 
 **CyberVideo: Best Hacking Operating System! (Courtesy: zSecurity)**
 
