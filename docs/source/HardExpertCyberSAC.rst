@@ -43,7 +43,7 @@ If you would like to block Window’s suspect spyware then definitely use this s
 Safing Portmaster - An Easy To Use Firewall For Your Computer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If you would like to block all incoming connections on your computer and any unnecessary programs pinging the world outside, this is a fantastic piece of software.
-.. video:: https://assets.safing.io/video/landing_page/portmaster_tour.webm
+.. image:: https://assets.safing.io/video/landing_page/portmaster_tour.webm
    :width: 51%
    :align: center
 
