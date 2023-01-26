@@ -56,7 +56,20 @@ All you need to do is flick the switch and all those nasty connections coming fr
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/lAnQzVqx9s4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
+
+
+Haredening Ubuntu Linux OS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Disabling Root Access:** While the average user can use Linux without ever using the terminal, it is nevertheless a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access" in Linux refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/pasted%20image%200.png
+   :width: 65%
+   :align: center
    
+.. Note::
+
+To lock root access behind a password, open the terminal and enter “sudo -i.”  When the next line, a # prompt, appears, enter “password.”  This will give you the prompt for setting a root password.
 
 What is Kali Linux? - Detailed Computer Penetration Testing (Setup Image Guide)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
