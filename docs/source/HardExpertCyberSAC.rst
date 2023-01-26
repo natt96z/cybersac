@@ -66,10 +66,12 @@ Haredening Ubuntu Linux OS
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/pasted%20image%200.png
    :width: 65%
    :align: center
-   
+  
 .. Note::
 
 To lock root access behind a password, open the terminal and enter “sudo -i.”  When the next line, a # prompt, appears, enter “password.”  This will give you the prompt for setting a root password.
+
+
 
 What is Kali Linux? - Detailed Computer Penetration Testing (Setup Image Guide)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
