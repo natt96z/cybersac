@@ -46,7 +46,7 @@ If you would like to block all incoming connections on your computer and any unn
 
 All you need to do is flick the switch and all those nasty connections coming from Adobe Creative Cloud are all gone.
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/image.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/6c4d4fe8fc7a511a7b5609a0f53ae1e194d2f009/docs/img/image.png
    :width: 51%
    :align: center
 
