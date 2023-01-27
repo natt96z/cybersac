@@ -7,7 +7,7 @@
    :align: center
 
 
-**CyberPatriot Authors/Contributors**
+**Santa Ana College CyberPatriot Authors/Contributors**
 =====================================================
 
 *Nathaniel Clay*
