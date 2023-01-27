@@ -94,7 +94,8 @@ https://askubuntu.com/questions/248196/how-to-password-protect-grub-menu-entry
    :align: center
 
    
-   Tip: if a physical security threat is a concern, you should really consider encrypting the device from the start.
+Tip: if a physical security threat is a concern, you should really consider encrypting the device from the start.
+
 
 
 Hardening Ubuntu Linux OS
