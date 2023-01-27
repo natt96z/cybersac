@@ -105,7 +105,9 @@ https://askubuntu.com/questions/248196/how-to-password-protect-grub-menu-entry
 Tip: if a physical security threat is a concern, you should really consider encrypting the device from the start.
 
 
-**Disabling Root Access:** While the average user can use Linux without ever using the terminal, it is nevertheless a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access" in Linux refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
+**Disabling Root Access** 
+
+While the average user can use Linux without ever using the terminal, it is nevertheless a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access" in Linux refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/pasted%20image%200.png
    :width: 65%
@@ -114,6 +116,11 @@ Tip: if a physical security threat is a concern, you should really consider encr
 .. Note::
 
 To lock root access behind a password, open the terminal and enter “sudo -i.”  When the next line, a # prompt, appears, enter “password.”  This will give you the prompt for setting a root password.
+
+**Installing SSH on Ubuntu**
+
+
+
 
 
 **CyberVideo: Best Hacking Operating System! (Courtesy: zSecurity)**
