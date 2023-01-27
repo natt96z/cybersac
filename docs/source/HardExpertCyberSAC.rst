@@ -76,12 +76,22 @@ Source: https://itsfoss.com/how-to-hack-ubuntu-password/
    :width: 51%
    :align: center
 
+Disable Ubuntu Recovery Password
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After performing the password recovery on Ubuntu you can probably tell it's a huge security vulernability in the case that someone physically gets your computer and wants to access everything inside. To protect yourself from this threat, all you have to do is delete one line in your configuration files and change your grub menu password.
 
+Sources: https://askubuntu.com/questions/321115/how-to-remove-password-recovery-reset
+https://askubuntu.com/questions/248196/how-to-password-protect-grub-menu-entry
 
-.. raw:: html
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Disable%20Ubuntu%20Recovery%20Password.PNG
+   :width: 51%
+   :align: center
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/lAnQzVqx9s4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Change%20Grub%20Menu%20Password.PNG
+   :width: 51%
+   :align: center
    
+   Tip: if a physical security threat is a concern, you should really consider encrypting the device from the start.
 
 
 Haredening Ubuntu Linux OS
@@ -98,11 +108,14 @@ Haredening Ubuntu Linux OS
 To lock root access behind a password, open the terminal and enter “sudo -i.”  When the next line, a # prompt, appears, enter “password.”  This will give you the prompt for setting a root password.
 
 
+**CyberVideo: Best Hacking Operating System! (Courtesy: zSecurity)**
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/lAnQzVqx9s4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What is Kali Linux? - Detailed Computer Penetration Testing (Setup Image Guide)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**CyberVideo: Best Hacking Operating System! (Courtesy: zSecurity)**
 
 **Core Knowledge:** Kali Linux (Formerly known as BackTrack Linux) Is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks, such as Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
 
