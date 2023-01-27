@@ -170,6 +170,9 @@ Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebu
 
 The site is well organized as well to aid with using on any compatible computer. There are also helpful help forums and FAQ's to troubleshoot possible issues.
 
+
+How to Set Up Kali Linux OS (Virtual Box)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 **Step 1: Open Oracle Virtual Machine and install Kali Linux (Easy Image Guide)**
 
