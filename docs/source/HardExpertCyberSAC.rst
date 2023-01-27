@@ -50,6 +50,31 @@ All you need to do is flick the switch and all those nasty connections coming fr
    :width: 51%
    :align: center
 
+Recover Ubuntu Password
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are times when we create a new Ubuntu machine and just forget the password. Instead of spending all of that time doing the guessing game, you can easily make a new password and recover your machine in just a couple minutes.
+
+.. image:: https://github.com/natt96z/cybersac/blob/main/docs/img/Capture.PNG?raw=true
+   :width: 51%
+   :align: center
+
+.. image:: https://github.com/natt96z/cybersac/blob/main/docs/img/Capture%201.PNG?raw=true
+   :width: 51%
+   :align: center
+
+.. image:: https://github.com/natt96z/cybersac/blob/main/docs/img/Capture%202.PNG?raw=true
+   :width: 51%
+   :align: center
+
+.. image:: https://github.com/natt96z/cybersac/blob/main/docs/img/Capture%203.PNG?raw=true
+   :width: 51%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Capture%204.PNG
+   :width: 51%
+   :align: center
+
+
 **CyberVideo: Best Hacking Operating System! (Courtesy: zSecurity)**
 
 .. raw:: html
