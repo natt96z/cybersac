@@ -34,7 +34,7 @@ Useful Online Video Material
 
 https://www.youtube.com/watch?v=ZFVvjgJX1wk - What is Cyber Security? | Cyber Security Explained
 
-https://www.youtube.com/watch?v=Q2W_nNdReXM - What Is Cybersecurity: How It Works? |Cyber Security In 2 Minutes | Cyber Security | Simplilearn
+https://www.youtube.com/watch?v=Q2W_nNdReXM - What Is Cybersecurity: How It Works? 
 
 https://youtu.be/6K-tTaxLqJQ - Privacy and Security in Technology
 
