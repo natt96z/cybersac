@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Documentation Hub Ver: 2.5.1'
+project = 'Documentation Hub Ver: 2.5.3'
 copyright = '2023, Santa Ana College & CyberPatriot Authors/Contributors'
 author = 'Nathaniel Clay'
 
 release = '2.5'
-version = '2.5.1'
+version = '2.5.3'
 
 # -- General configuration
 
