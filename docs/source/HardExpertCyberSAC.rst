@@ -54,6 +54,8 @@ Recover Ubuntu Password
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 There are times when we create a new Ubuntu machine and just forget the password. Instead of spending all of that time doing the guessing game, you can easily make a new password and recover your machine in just a couple minutes.
 
+Source: https://itsfoss.com/how-to-hack-ubuntu-password/
+
 .. image:: https://github.com/natt96z/cybersac/blob/main/docs/img/Capture.PNG?raw=true
    :width: 51%
    :align: center
