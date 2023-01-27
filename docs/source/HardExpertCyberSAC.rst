@@ -75,7 +75,6 @@ There are times when we create a new Ubuntu machine and just forget the password
    :align: center
 
 
-**CyberVideo: Best Hacking Operating System! (Courtesy: zSecurity)**
 
 .. raw:: html
 
@@ -100,6 +99,8 @@ To lock root access behind a password, open the terminal and enter â€œsudo -i.â€
 
 What is Kali Linux? - Detailed Computer Penetration Testing (Setup Image Guide)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**CyberVideo: Best Hacking Operating System! (Courtesy: zSecurity)**
 
 **Core Knowledge:** Kali Linux (Formerly known as BackTrack Linux) Is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks, such as Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
 
