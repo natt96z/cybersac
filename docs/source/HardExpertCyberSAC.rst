@@ -117,9 +117,52 @@ While the average user can use Linux without ever using the terminal, it is neve
 
 To lock root access behind a password, open the terminal and enter “sudo -i.”  When the next line, a # prompt, appears, enter “password.”  This will give you the prompt for setting a root password.
 
-**Installing SSH on Ubuntu**
+**Installing SSH on Ubuntu:** Just type the following apt command/apt-get command:
+
+.. hint::
+   | sudo apt-get update
+   | 
+   | sudo apt-get upgrade
+   |
+   | sudo apt-get install openssh-client
+
+**Disable root Login:** This configuration will limit SSH only to users other than root. Find and ensure the line for “PermitRootLogin” exists and looks like the one below:
+
+PermitRootLogin no
+
+**Allow Specific Users:** This line will allow you to specify which users can log into the SSH service:
+
+AllowUsers accountName
+
+**Change Default Port From 22:** This line will specify which port to host the SSH service on.
+
+Port 22222
+
+**Disable Empty Passwords:** This line ensures that no users can login with an empty password.
+
+PermitEmptyPasswords no
+
+**Restart Service** As always, after making changes to a service be sure to restart it!
+
+service ssh restart
+
+**BONUS: Using RKHunter - The Rootkit Hunter project**
 
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/install-and-configure-rkhunter-with-tightened-security-variables-rkhunter-logo.png
+   :width: 65%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/rkhunter-results.png
+   :width: 65%
+   :align: center
+
+
+The package “rkhunter” is useful for doing a quick scan of your system for any known rootkits:
+
+apt-get install rkhunter
+
+rkhunter -C
 
 
 
