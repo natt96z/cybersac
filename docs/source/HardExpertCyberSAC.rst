@@ -92,7 +92,7 @@ https://askubuntu.com/questions/248196/how-to-password-protect-grub-menu-entry
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Change%20Grub%20Menu%20Password.PNG
    :width: 51%
    :align: center
-   
+
    
    Tip: if a physical security threat is a concern, you should really consider encrypting the device from the start.
 
