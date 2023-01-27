@@ -32,16 +32,20 @@ If you would like to block Window’s suspect spyware then definitely use this s
    :align: center
 
 
-.. Note: There are many many settings that help you increase your privacy, security, and Quality of Life (QOL)  
+.. Note::
+
+There are many many settings that help you increase your privacy, security, and Quality of Life (QOL)  
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/141.jpg
    :width: 50%
    :align: center
    
-.. Note: Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
+.. Note::
 
-Safing Portmaster - An Easy To Use Firewall For Your Computer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
+
+**Safing Portmaster - An Easy To Use Firewall For Your Computer**
+
 If you would like to block all incoming connections on your computer and any unnecessary programs pinging the world outside, this is a fantastic piece of software.
 
 All you need to do is flick the switch and all those nasty connections coming from Adobe Creative Cloud are all gone.
@@ -49,9 +53,12 @@ All you need to do is flick the switch and all those nasty connections coming fr
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/6c4d4fe8fc7a511a7b5609a0f53ae1e194d2f009/docs/img/image.png
    :width: 51%
    :align: center
+   
+Security and Hardening with Ubuntu Linux OS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Recover Ubuntu Password
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Recover Ubuntu Password**
+
 There are times when we create a new Ubuntu machine and just forget the password. Instead of spending all of that time doing the guessing game, you can easily make a new password and recover your machine in just a couple minutes.
 
 Source: https://itsfoss.com/how-to-hack-ubuntu-password/
@@ -76,8 +83,8 @@ Source: https://itsfoss.com/how-to-hack-ubuntu-password/
    :width: 51%
    :align: center
 
-Disable Ubuntu Recovery Password
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Disable Ubuntu Recovery Password**
+
 After performing the password recovery on Ubuntu you can probably tell it's a huge security vulernability in the case that someone physically gets your computer and wants to access everything inside. To protect yourself from this threat, all you have to do is delete one line in your configuration files and change your grub menu password.
 
 Sources: https://askubuntu.com/questions/321115/how-to-remove-password-recovery-reset
@@ -93,13 +100,10 @@ https://askubuntu.com/questions/248196/how-to-password-protect-grub-menu-entry
    :width: 51%
    :align: center
 
-   
+.. Note::   
+
 Tip: if a physical security threat is a concern, you should really consider encrypting the device from the start.
 
-
-
-Hardening Ubuntu Linux OS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Disabling Root Access:** While the average user can use Linux without ever using the terminal, it is nevertheless a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access" in Linux refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
 
