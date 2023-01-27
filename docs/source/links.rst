@@ -26,7 +26,7 @@ Software Resource Material (Download)
   <a href="https://drive.google.com/drive/folders/1OSgeOJkm7d3tgpXJZDgo66usUqQ6AcN7?usp=share_link" target="_blank">Download Resource Software (Windows) </a> 
 
 
-Useful Online Video Material
+Useful Online Video Material (External)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/video-camera-icon-set-in-black-and-white-colors-movie-symbol-illustration-vector.jpg
