@@ -81,20 +81,23 @@ Disable Ubuntu Recovery Password
 After performing the password recovery on Ubuntu you can probably tell it's a huge security vulernability in the case that someone physically gets your computer and wants to access everything inside. To protect yourself from this threat, all you have to do is delete one line in your configuration files and change your grub menu password.
 
 Sources: https://askubuntu.com/questions/321115/how-to-remove-password-recovery-reset
+
 https://askubuntu.com/questions/248196/how-to-password-protect-grub-menu-entry
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Disable%20Ubuntu%20Recovery%20Password.PNG
    :width: 51%
    :align: center
 
+
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Change%20Grub%20Menu%20Password.PNG
    :width: 51%
    :align: center
    
+   
    Tip: if a physical security threat is a concern, you should really consider encrypting the device from the start.
 
 
-Haredening Ubuntu Linux OS
+Hardening Ubuntu Linux OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Disabling Root Access:** While the average user can use Linux without ever using the terminal, it is nevertheless a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access" in Linux refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
