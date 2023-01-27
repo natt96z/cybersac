@@ -125,8 +125,10 @@ To lock root access behind a password, open the terminal and enter “sudo -i.�
    | sudo apt-get upgrade
    |
    | sudo apt-get install openssh-client
+   
+   
 
-**Disable root Login:** This configuration will limit SSH only to users other than root. Find and ensure the line for “PermitRootLogin” exists and looks like the one below:
+**Disable root Login:** This configuration will limit SSH only to users other than root.
 
 PermitRootLogin no
 
