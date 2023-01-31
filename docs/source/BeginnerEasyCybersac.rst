@@ -53,7 +53,7 @@ EasyPatriot - Online Safety and Virus Protection!
    :width: 50%
    :align: center
    
-**★Core Knowledge★ -** This site security pop-out bubble found on every site online means that your credit card details, passwords, address, and any personal information and perosnal data not encrypted and will be vulnerable to attacks and could be stolen and sold on dark market sites. In these cases, we suggest that you don’t enter sensitive details on insecure websites.
+**★Core Knowledge★ -** This site security pop-out bubble, found on every site, online means that your credit card details, passwords, address, and any personal information and personal data not encrypted and will be vulnerable to attacks and could be stolen and sold on dark market sites. In these cases, we suggest that you don’t enter sensitive details on insecure websites.
 
 **Types of Dangerous Viruses and How to Protect Yourself**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
