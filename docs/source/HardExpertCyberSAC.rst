@@ -365,6 +365,6 @@ The website will provide you with a live Ubuntu virtual machine and easy to foll
    :width: 70%
    :align: center
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/140.jpg
-   :width: 70%
-   :align: center
+As you can see, I successfully initiated a bank transfer from the dummy users account. This website also has an Android application that allows you to practice hacking on the go.  This short example basically shows how easy it can be for a hacker to gather personal information. 
+
+ 
