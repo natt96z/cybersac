@@ -63,8 +63,11 @@ https://hak5.org - Buy ethical hacking tools 
 
 https://haveibeenpwned.com Check if emails compromised 
 
-https://kahoot.it Convenient quiz website 
+https://pastebin.com Copy/paste tool
 
-https://virustotal.com scan suspicious files easily
+https://upload.io File tranfer and upload tool
 
-https://jitsi.org/ Free online video conferencing
+https://transfer.sh File trasnfer tool
+
+https://virustotal.com Online virus scanner
+     
