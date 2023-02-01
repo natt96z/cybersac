@@ -335,6 +335,6 @@ How to Set Up Kali Linux OS (Virtual Box)
 TryHackMe – Website for Learning Cyber Security
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/137.jpg
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/134.jpg
    :width: 65%
    :align: center
