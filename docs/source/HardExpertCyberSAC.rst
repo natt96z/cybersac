@@ -335,6 +335,26 @@ How to Set Up Kali Linux OS (Virtual Box)
 TryHackMe – Website for Learning Cyber Security
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/134.jpg
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/135.jpg
+   :width: 67%
+   :align: center
+   
+**Core Knowledge:** TryHackMe is a CTF website that uses an interactive virtual lab to teach cybersecurity. Whether you are an expert or a beginner, you will learn about theoretical and practical security features utilizing a virtual room architecture. It's an intuitive cybersecurity tool that tests individuals in a range of virtual machine rooms to find solutions to computer security issues and capture or defend computer systems.
+
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/136.jpg
    :width: 65%
+   :align: center
+   
+.. Note::
+
+Once you create a FREE account on the website you will be able to choose from 3 learning paths. I went ahead and chose the first, which is the basics of hacking for newcomers. I've found that most of the content on the website is free so far.
+
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/137.jpg
+   :width: 70%
+   :align: center
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/138.jpg
+   :width: 70%
    :align: center
