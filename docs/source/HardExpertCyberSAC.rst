@@ -358,3 +358,13 @@ Once you create a FREE account on the website you will be able to choose from 3 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/138.jpg
    :width: 70%
    :align: center
+
+The website will provide you with a live Ubuntu virtual machine and easy to follow steps on the side to accompany the hacking demonstration. In this lesson you are learning how to hack a dummy bank account website to explore its hidden directories.  
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/139.jpg
+   :width: 70%
+   :align: center
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/140.jpg
+   :width: 70%
+   :align: center
