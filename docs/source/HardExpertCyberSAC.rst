@@ -155,8 +155,11 @@ service ssh restart
 
 
 **Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems**
+
 Source: https://github.com/CISOfy/lynis
-Video follow along: 
+
+Video follow along:
+
 .. raw:: html
 
    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=fUIpJJn6YaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
