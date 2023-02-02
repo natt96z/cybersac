@@ -154,6 +154,7 @@ PermitEmptyPasswords no
 service ssh restart
 
 
+
 **Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems**
 
 Source: https://github.com/CISOfy/lynis
