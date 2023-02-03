@@ -14,6 +14,7 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
    <iframe width="560" height="315" src="https://www.youtube.com/embed/Eh9P8dutn4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+.. Note:: ★This page is based on Section 2 and Unit 2 of the official CyberPatriot learning material★
 
 
 **Video: What is Cyber Security? | Cyber Security Explained - By: IT Governance Ltd**
@@ -22,8 +23,6 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFVvjgJX1wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-.. Note:: ★This page is based on Section 2 and Unit 2 of the official CyberPatriot learning material★
 
 .. raw:: html
 
