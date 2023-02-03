@@ -22,7 +22,7 @@ __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
 <a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
 </a>
-![alt text](https://img.shields.io/badge/College-Santa%20Ana%20College-brightgreen)
+![alt text](https://img.shields.io/badge/Engine-Sphinx-brightgreen)
 
 CyberPatriot SAC Documentation GitHub
 =======================================
