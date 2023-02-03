@@ -4,6 +4,14 @@ IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 .. Note:: ★ This page is based on unit 3, 7, 8, 9 and 10 of the official CyberPatriot learning material ★
 
 
+IntermediatePatriot Welcome Tutorial - CyberSAC Site Tour
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/YYcQNoWAh9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 **CyberVideo: Privacy and Security in Technology (Courtesy: Chris Titus Tech)**
 
 .. raw:: html
