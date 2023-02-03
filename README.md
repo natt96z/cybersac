@@ -23,6 +23,7 @@ __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
     <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
 </a>
 
+https://img.shields.io/badge/Version-3.0.0-red
 
 CyberPatriot SAC Documentation GitHub
 =======================================
