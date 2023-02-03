@@ -18,8 +18,8 @@ __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
 
 **CyberSAC Site Status**
 ===================================
-
 ![alt text](https://img.shields.io/badge/Status-Active-red)
+![alt text](https://img.shields.io/badge/College-Santa%20Ana%20College-brightgreen)
 <a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
 </a>
