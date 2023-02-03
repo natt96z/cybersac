@@ -16,7 +16,7 @@ __Hung Dao: hd66544@student.sac.edu (Alt E-Mail: hungdaophone@gmail.com)__
 
 __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
 
-**CyberSAC Site Status**
+**CyberSAC Documentation Site Status**
 ===================================
 ![alt text](https://img.shields.io/badge/Status-Active-red)
 <a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
