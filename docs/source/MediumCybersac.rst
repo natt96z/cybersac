@@ -1,7 +1,7 @@
 IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 =============================================================
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/giphy%20(1).gif
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ezgif-1-599eaa3342.gif
    :width: 84%
    :align: center
 
