@@ -9,6 +9,7 @@
 <a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
 </a>
+![alt text](https://img.shields.io/badge/Theme-Lumache-yellow)
 ![alt text](https://img.shields.io/badge/Engine-Sphinx-blueviolet)
 
 
