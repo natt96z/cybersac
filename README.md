@@ -19,11 +19,13 @@ __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
 **CyberSAC Site Status**
 ===================================
 
+![alt text](https://img.shields.io/badge/Status-Active-red)
+
+
 <a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
 </a>
 
-![alt text](https://img.shields.io/badge/Status-Active-red)
 
 
 CyberPatriot SAC Documentation GitHub
