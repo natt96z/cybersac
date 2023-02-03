@@ -3,6 +3,14 @@
 ![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/2023CPalllasasacogos.png)
 
 
+**CyberSAC Documentation Site Status**
+===================================
+![alt text](https://img.shields.io/badge/Status-Active-red)
+<a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
+</a>
+![alt text](https://img.shields.io/badge/Engine-Sphinx-blueviolet)
+
 
 **Project Contributor's:**
 ======================================
@@ -15,14 +23,6 @@ __Teairra McCoy: teamccoy@proton.me (Alt E-Mail: tmccoythompson@gmail.com)__
 __Hung Dao: hd66544@student.sac.edu (Alt E-Mail: hungdaophone@gmail.com)__
 
 __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
-
-**CyberSAC Documentation Site Status**
-===================================
-![alt text](https://img.shields.io/badge/Status-Active-red)
-<a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
-</a>
-![alt text](https://img.shields.io/badge/Engine-Sphinx-blueviolet)
 
 CyberPatriot SAC Documentation GitHub
 =======================================
