@@ -3,9 +3,6 @@
 ![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/2023CPalllasasacogos.png)
 
 
-<a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
-</a>
 
 **Project Contributor's:**
 ======================================
@@ -18,6 +15,13 @@ __Teairra McCoy: teamccoy@proton.me (Alt E-Mail: tmccoythompson@gmail.com)__
 __Hung Dao: hd66544@student.sac.edu (Alt E-Mail: hungdaophone@gmail.com)__
 
 __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
+
+**CyberSAC Site Status**
+===================================
+
+<a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
+</a>
 
 
 CyberPatriot SAC Documentation GitHub
