@@ -13,7 +13,6 @@
 ![alt text](https://img.shields.io/badge/Engine-Sphinx-blueviolet)
 
 
-
 **Project Contributor's:**
 ======================================
 __Nathaniel Clay: npclay@proton.me, (Alt E-Mail: natclay96@gmail.com)__
