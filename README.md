@@ -2,6 +2,11 @@
 ![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/Reasearch_1.jpg) 
 ![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/2023CPalllasasacogos.png)
 
+
+<a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
+</a>
+
 **Project Contributor's:**
 ======================================
 __Nathaniel Clay: npclay@proton.me, (Alt E-Mail: natclay96@gmail.com)__
@@ -14,10 +19,6 @@ __Hung Dao: hd66544@student.sac.edu (Alt E-Mail: hungdaophone@gmail.com)__
 
 __Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
 
-
-<a href='https://cybersac.readthedocs.io/en/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/cybersac/badge/?version=latest' alt='Documentation Status' />
-</a>
 
 CyberPatriot SAC Documentation GitHub
 =======================================
