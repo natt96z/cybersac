@@ -1,6 +1,17 @@
 ProPatriot - Hardening Software and Security Penetration Techniques 
 =======================================================================
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ezgif-1-415fb4tttttttt69f1.gif
+   :width: 80%
+   :align: center
+
+
+ProPatriot Welcome Tutorial - CyberSAC Site Tour
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
 **CyberVideo: 5 Most Used Hacking Os's (Courtesy: Tech Koder)**
 
 .. raw:: html
