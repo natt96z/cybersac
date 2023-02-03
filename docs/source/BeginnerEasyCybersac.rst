@@ -5,7 +5,10 @@ EasyPatriot - Online Safety and Virus Protection!
    :width: 80%
    :align: center
    
-   
+
+.. Note:: ★This page is based on Section 2 and Unit 2 of the official CyberPatriot learning material★
+
+
 EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -14,7 +17,9 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
    <iframe width="560" height="315" src="https://www.youtube.com/embed/Eh9P8dutn4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-.. Note:: ★This page is based on Section 2 and Unit 2 of the official CyberPatriot learning material★
+.. raw:: html
+
+        <iframe src="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 **Video: What is Cyber Security? | Cyber Security Explained - By: IT Governance Ltd**
@@ -23,10 +28,6 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFVvjgJX1wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-.. raw:: html
-
-        <iframe src="https://drive.google.com/file/d/1zi67tDVoSFbnODvH4ebx5iNOf6MotPNi/preview" width="640" height="480" allow="autoplay"></iframe>
    
    
 **Visiting Malicious Websites – Sites to Avoid**
