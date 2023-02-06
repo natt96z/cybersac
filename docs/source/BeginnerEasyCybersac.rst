@@ -50,11 +50,11 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
    
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/4.jpg
- :width: 90%
- :align: center
+   :width: 50%
+   :align: center
  
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/5.jpg
-   :width: 90%
+   :width: 60%
    :align: center
  
  
