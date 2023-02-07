@@ -285,7 +285,6 @@ Using Cisco Packet Tracer Software
    :width: 60%
    :align: center
 
-
 **★Core Knowledge★ -** What is Cisco Packet Tracer? (8.1.1) 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/43.jpg
