@@ -32,7 +32,7 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 html_logo = '_img/logo.png'
 html_theme_options = {
-    "logo_only": True,
+    "logo_only": false,
     "display_version": True,
 }
 
