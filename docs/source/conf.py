@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 html_logo = '_img/logo.png'
 html_theme_options = {
     "logo_only": false,
-    "display_version": True,
+    "display_version": false,
 }
 
 
