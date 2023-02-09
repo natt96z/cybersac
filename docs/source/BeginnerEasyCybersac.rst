@@ -43,9 +43,8 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 **★Core Knowledge★ -** For secured websites online: HTTPS is HTTP with encryption. The only difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses. As a result, HTTPS is far more secure than HTTP. A website that uses HTTP has http:// in its URL, while a website that uses HTTPS has https:// in its url. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/3.jpg
-   :width: 50%
-   :align: center
-   
+  
+  
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/4.jpg
    :width: 50%
    :align: center
