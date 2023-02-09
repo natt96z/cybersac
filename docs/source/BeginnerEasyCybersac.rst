@@ -36,9 +36,7 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/2.png
-   :width: 50%
-   :align: center
-   
+
 .. Note:: This is a prime example of how a web browser handles visiting malicious web pages with a content block warning screen.
 
 
