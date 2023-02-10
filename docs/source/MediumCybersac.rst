@@ -325,3 +325,10 @@ A picture containing graphical user interface
 **Service Plane** - subset of data plane traffic, requires high touch handling by the device 
 
 **Control Plane** Routing protocols and routers that talk with one another. Where the device learns what action to take on the data. No data moves until the control and this plane makes a decision on the best path to deliver the data.
+
+IntermediatePatriot CyberQuiz (Beta)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="involveme_embed" data-project="new-project-47ba"><script src="https://cybersac.involve.me/embed"></script></div>
