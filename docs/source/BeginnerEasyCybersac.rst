@@ -245,6 +245,22 @@ Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click 
 .. _Check Out Daniel Miessller's SEC List on GitHub: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
 
+**Bitwarden Password Manager: Test Password Strength, Create Strong Passwords, and Store Passwords!**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bitwarden is a free and open source (FOSS) password manager. Their website allows us to test our passwords and generate passwords for us to see what their tool does. I highly recommend Bitwarden for an end-to-end encrypted (E2EE) password manager for all devices.
+
+Bitwarden Password Strength Testing: https://bitwarden.com/password-strength/
+Bitwarden Strong Password Generator: https://bitwarden.com/password-generator/
+Bitwarden Sign Up: https://vault.bitwarden.com/#/register?layout=default
+
+Video Follow Through:
+
+.. raw:: html 
+
+   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=OVxY7mn0yL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 **EasyPatriot CyberQuiz (Beta)**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
