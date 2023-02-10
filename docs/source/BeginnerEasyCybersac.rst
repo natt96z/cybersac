@@ -245,6 +245,10 @@ Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click 
 .. _Check Out Daniel Miessller's SEC List on GitHub: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
 
-   
-   
+**EasyPatriot CyberQuiz**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="involveme_embed" data-project="new-project-3849"><script src="https://cybersac.involve.me/embed"></script></div>
   
