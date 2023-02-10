@@ -263,6 +263,14 @@ Video Follow Through:
    <iframe width="560" height="315" src="https://www.youtube.com/embed/OVxY7mn0yL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+Self Hosting Bitwarden:
+
+.. raw:: html 
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/SSLGa0LjTrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 **EasyPatriot CyberQuiz (Beta)**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
