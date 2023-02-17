@@ -42,6 +42,8 @@ https://www.youtube.com/watch?v=0Bo5NYCspPA - 5 Most Used Hacking Os 2022 | Anon
 
 https://youtu.be/K0JPAZumUMI - How to Install Ubuntu 22.04 LTS on VMware Workstation Player
 
+https://www.youtube.com/watch?v=Kx4y9c7w2JQ - Getting Into Cyber Security: 5 Skills You NEED to Learncybersecurity 
+
 
 
 Other  Various Useful Websites (Links)
