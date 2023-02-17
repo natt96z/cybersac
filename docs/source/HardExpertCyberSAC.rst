@@ -394,6 +394,10 @@ The website will provide you with a live Ubuntu virtual machine and easy to foll
 
 As you can see, I successfully initiated a bank transfer from the dummy users account. This website also has an Android application that allows you to practice hacking on the go.  This short example basically shows how easy it can be for a hacker to gather personal information. 
 
+
+**ProPatriot CyberQuiz (Beta)**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. raw:: html
 
    <div class="involveme_embed" data-project="new-project-e48d"><script src="https://cybersac.involve.me/embed"></script></div>
