@@ -75,13 +75,13 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 
 A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes a malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
 
-A **browser hijacker** is a malware program that modifies web browser settings without the user's permission and redirects the user to websites, the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
+A **browser hijacker** is a malware program, that modifies web browser settings, without the user's permission and redirects the user to websites the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
 
-A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are typically embedded in, otherwise, legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
+A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are, typically, embedded in, otherwise, legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
 
 A **file-infecting virus** is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. 
 
-A **macro virus** is written in the same macro language used to create software programs such as Microsoft Excel or Word. It centers on software applications and does not depend on the operating system (OS). As a result, it can infect any computer running any kind of OS, including Windows, macOS and Linux. 
+A **macro virus** is written in the same macro language, used to create software programs, such as Microsoft Excel or Word. It centers on software applications and does not depend on the operating system (OS). As a result, it can infect any computer running any kind of OS, including Windows, macOS and Linux. 
 
 A **multipartite virus** is a fast-moving virus that uses file infectors or boot infectors to attack the boot sector and executable files simultaneously. Most viruses either affect the boot sector, the system, or the program files. 
 
@@ -105,17 +105,17 @@ Clop is one of the most recent and most dangerous ransomware threats to emerge. 
 
 **Windows OS Ransomware** 
 
-In recent months, hackers have distributed emails instructing targets to quickly install an urgent Windows OS update. When users start to download the supposed update, ransomware ‘.exe’ files make their way onto the device. Email security controls and a comprehensive consolidated security solution can help stop these types of malware events. 
+In recent months, hackers have distributed emails instructing targets to quickly install an urgent Windows OS update. When users start to download the supposed update, ransomware ‘.exe’, files make their way onto the device. Email security controls and a comprehensive consolidated security solution can help stop these types of malware events. 
 
 **Zeus Gameover** 
 
-This malware type is part of the “Zeus” family of malware. Zeus Gameover is a Trojan – a malware disguised as something legitimate- that aims to obtain financial information, with which to steal whatever is in a bank account 
+This malware type is part of the “Zeus” family of malware. Zeus Gameover is a Trojan – a malware disguised as something legitimate- that aims to obtain financial information, with which to steal whatever is in a bank account. 
 
-Experts state that the most difficult aspect of this malware is the fact that it doesn’t require a centralized “command and control” server to complete transactions, making it challenging for investigators and law enforcement to identify the criminals behind these hacks. Zeus Gameover effectively bypasses centralized servers, creating independent servers with which to share data. In short, it’s nearly impossible to determine where stolen data has gone. 
+Experts state that the most difficult aspect of this malware is the fact that it doesn’t require a centralized “command and control” server to complete transactions, making it challenging for investigators and law enforcement to identify the criminals behind these hacks. Zeus Gameover, effectively, bypasses centralized servers, creating independent servers with which to share data. In short, it’s nearly impossible to determine where stolen data has gone. 
 
 **Shlayer malware** 
 
-This type of malware plagues macOS devices and relies on Flash updates and social engineering tactics in order to dupe victims into installing the malware on devices. Initially, hackers used a specific zero-day vulnerability to launch this threat. However, hackers are coming up with new schemes to get this malware onto computers that largely hinge on social engineering tactics. 
+This type of malware plagues macOS devices, relies on Flash updates and social engineering tactics, in order to dupe victims into installing the malware on devices. Initially, hackers used a specific zero-day vulnerability to launch this threat. However, hackers are coming up with new schemes to get this malware onto computers that largely hinge on social engineering tactics. 
 
 **Agent Tesla** 
 
@@ -127,7 +127,7 @@ Ransomware-as-a-Service (RaaS) has gained extensive popularity among ransomware 
 
 **Fleeceware** 
 
-Although individuals may delete certain apps from their phones, Fleeceware continues to charge app users significant sums of money. According to recent research, more than 600 million Android users have unintentionally downloaded “Fleeceware” onto devices across the past few years. While Fleeceware does not represent a major security threat to privacy or data, Fleeceware is still remarkably common. It’s a shady practice that app developers engage in. 
+Although individuals may delete certain apps from their phones, Fleeceware continues to charge app users significant sums of money. According to recent research, more than 600 million Android users have, unintentionally, downloaded “Fleeceware” onto devices across the past few years. While Fleeceware does not represent a major security threat to privacy or data, Fleeceware is still remarkably common. It’s a shady practice that app developers engage in. 
 
 **IoT device attacks** 
 
@@ -139,7 +139,7 @@ Cryptojacking represents a security threat that is entirely unique to cryptocurr
 
 **Social engineering** 
 
-In social engineering attempts, hackers aim to manipulate individuals -via in-person or electronic interactions- into divulging corporate or personal information. Although social engineering isn’t a type of malware per-se, it does provide hackers with an avenue through which to distribute malware, and it can result in high-profile malware attacks.
+In social engineering attempts, hackers aim to manipulate individuals, -via in-person or electronic interactions-, into divulging corporate or personal information. Although social engineering isn’t a type of malware per-se, it does provide hackers with an avenue through which to distribute malware, and it can result in high-profile malware attacks.
 
 **Best Virus Software for Increased System Security**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
@@ -148,7 +148,7 @@ In social engineering attempts, hackers aim to manipulate individuals -via in-pe
    :width: 65%
    :align: center
 
-**Bitdefender:** packs a huge collection of security-centric features, among them password management, enhanced security for online transactions, ransomware protection, Active Do Not Track, and even a VPN. The default Quick Actions lets you launch a quick system, or vulnerability scan, open the VPN, and configure Safepay online protection. You can configure the product to add a feature such as the File Shredder or Wallet password manager in the main display, and you can swap out features you do not use much.
+**Bitdefender:** packs a huge collection of security-centric features, among them password management, enhanced security for online transactions, ransomware protection, Active Do Not Track, and even a VPN. The default Quick Actions lets you launch a quick system, or vulnerability scan, open the VPN, and configure Safepay online protection. You can configure the product to add a feature, such as, the File Shredder or Wallet password manager in the main display, and you can swap out features you do not use much.
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/19.jpg
@@ -159,7 +159,7 @@ In social engineering attempts, hackers aim to manipulate individuals -via in-pe
    :width: 40%
    :align: center
    
-**Webroot:** When it encounters an unknown app, it runs it in a bubble, preventing the app from making any permanent system changes until its cloud-based intelligence reaches a conclusion about the program. If it’s malicious, the tiny local Webroot program wipes out the attacker and reverses its actions. WEBROOT has a Near-perfect score in our malware protection and phishing protection tests. It is light on system resources, has fast scan capabilities, is tiny in size, and can remediate ransomware damage. 
+**Webroot:** When it encounters an unknown app, it runs it in a bubble, preventing the app from making any permanent system changes, until its cloud-based intelligence reaches a conclusion about the program. If it’s malicious, the tiny local Webroot program wipes out the attacker and reverses its actions. WEBROOT has a Near-perfect score in our malware protection and phishing protection tests. It is light on system resources, has fast scan capabilities, is tiny in size, and can remediate ransomware damage. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/21.jpg
    :width: 33%
