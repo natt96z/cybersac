@@ -183,12 +183,12 @@ In social engineering attempts, hackers aim to manipulate individuals, -via in-p
    :width: 50%
    :align: center
 
-Exploit attacks take advantage of security holes in popular applications, using the security vulnerability to take control. Even if you keep your operating system and programs patched, there's always a window when the vulnerability is known, but not yet patched. Malwarebytes shields several dozen popular applications against attack. This is a generalized protection against exploit behaviors, not protection against specific exploits. 
+Exploit attacks take advantage of security holes in popular applications using the security vulnerability to take control. Even if you keep your operating system and programs patched, there's always a window when the vulnerability is known, but not yet patched. Malwarebytes shields several dozen popular applications against attack. This is a generalized protection against exploit behaviors, not protection against specific exploits. 
 
 
 
 
-**Online Safety– Phishing and avoiding malware**
+**Online Safety – Phishing and avoiding malware**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/40.jpg
@@ -211,7 +211,7 @@ Exploit attacks take advantage of security holes in popular applications, using 
    :width: 58%
    :align: center
 
-**Lets test out Phishing Box's Phishing Test!:** This online test will see if you can tell the difference between an phishing attempt and  alegitimate form of communication through email and or other messaging platforms. Spam emails and even ones that hit our regular inbox are secretly set up to scrape important user data from us with clone like tactics, such as password recovery and bank statements that seem real but arent. 
+**Lets test out Phishing Box's Phishing Test!:** This online test will see if you can tell the difference between a phishing attempt and a legitimate form of communication through email and or other messaging platforms. Spam emails and even ones that hit our regular inbox are secretly set up to scrape important user data from us with clone like tactics, such as password recovery and bank statements that seem real but arent. 
 
 
 Take the phishing test online now `Click or Tap to Begin Test`_.
@@ -219,14 +219,14 @@ Take the phishing test online now `Click or Tap to Begin Test`_.
 .. _Click or Tap to Begin Test: https://www.phishingbox.com/phishing-test/
 
 .. Note:: 
-Use uBlock Origin to avoid incorrect download button and malicious pop ups. he uBlock Origin is a cross-platform, free and open-source browser extension for content filtering that is primarily intended to counteract privacy invasion in an effective and user-friendly way. Blocking annoying full screen ads, removing fake download buttons and preventing sketchy pop-ups can keep your web surfing safe!
+Use uBlock Origin to avoid incorrect download button and malicious pop ups. The uBlock Origin is a cross-platform, free and open-source browser extension, for content filtering, that is primarily intended to counteract privacy invasion in an effective and user-friendly way. Blocking annoying full screen ads, removing fake download buttons and preventing sketchy pop-ups can keep your web surfing safe!
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/42.jpg
    :width: 50%
    :align: center
    
 
-Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click Here`_.
+Check out uBlock Origin. It works on most popular web browsers (Desktop):`Click Here`_.
 
 .. _Click Here: https://ublockorigin.com/
 
@@ -244,7 +244,7 @@ Check out uBlock Origin, it works on most popular web browsers (Desktop):`Click 
    :width: 68%
    :align: center
   
-**Core Knowledge:** This is a masive example of a complete repository of leaked user passwords from past years, this is proof that having a strong password matters! First line of security against unwanted access to your computer and personal information is provided by passwords. Your computer and online data will be more secure from hackers and bad malware if your password is strong. A good password usually has at least 12 characters long (the longer, the better). Has a combination of upper and lowercase letters, numbers, punctuation, and special symbols. Random and unique is the way to go!  `Check Out Daniel Miessller's SEC List on GitHub`_.
+**Core Knowledge:** This is a massive example of a complete repository, for leaked user passwords, from past years and proof that having a strong password matters! The first line of security against unwanted access to your computer and personal information is provided by passwords. Your computer and online data will be more secure from hackers and bad malware if your password is strong. A good password, usually, has at least 12 characters long, (the longer, the better), and has a combination of upper and lowercase letters, numbers, punctuation, and special symbols. Random and unique is the way to go!  `Check Out Daniel Miessller's SEC List on GitHub`_.
 
 .. _Check Out Daniel Miessller's SEC List on GitHub: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
