@@ -255,10 +255,19 @@ Check out uBlock Origin. It works on most popular web browsers (Desktop):`Click 
 Black hat hackers and white hat hackers both employ the same hacking methods and tools, especially when conducting external penetration tests (pen tests).
 White hat hackers, however, want to assist a company in strengthening its security. White hack hackers will allow the company to see possible bugs in typical hardware and software and are important parts in hardening the technology we use everyday. They even regularly partipipate in bounty hacking competitions to earn easy income on there skills. Anyone should safely aim to be this kind of hacker as they even ask company permission as well.
 
+**Grey Hat Hacker (The Slightly Bad)**
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Linux_on_ps4.png
+   :width: 60%
+   :align: center
+   
+
+Gray hat hackers are there between white and black hackers. Black hat and white hat hacking tactics are combined by gray hat hackers. Gray hat hackers frequently scan systems for vulnerabilities without the owner's knowledge or consent. If problems are discovered in hardware and sofrware, they notify the owner and may occasionally demand a modest fee to have the issue resolved, but not by force. Usually bugs and exploits also get leaked into public spaces by this type of hacker, thing such as smartphone jailbreaking and game console exploits are common with these hackers. 
+
+
 **Black Hat Hacker (The Ugly)**
 
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/blACK HACKER.jpg
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/blACK%20HACKER.jpg
    :width: 60%
    :align: center
 
