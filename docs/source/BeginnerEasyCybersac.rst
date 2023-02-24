@@ -256,7 +256,11 @@ Black hat hackers and white hat hackers both employ the same hacking methods and
 White hat hackers, however, want to assist a company in strengthening its security. White hack hackers will allow the company to see possible bugs in typical hardware and software and are important parts in hardening the technology we use everyday. They even regularly partipipate in bounty hacking competitions to earn easy income on there skills. Anyone should safely aim to be this kind of hacker as they even ask company permission as well.
 
 **Black Hat Hacker (The Ugly)**
-blACK HACKER.jpg
+
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/blACK HACKER.jpg
+   :width: 60%
+   :align: center
 
 Black Hat hackers are crooks that intentionally breach computer networks. They might also disseminate malware that steals passwords, credit card numbers, and other private data, damages files, or seizes control of systems. They are famous for creating software that holds user data hostage as well in demand for money for information not to end up on the dark web. These hackers also work in large groups, pirating and forming warez groups to spready illegally downloaded material.
 
