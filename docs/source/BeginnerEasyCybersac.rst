@@ -234,8 +234,31 @@ Check out uBlock Origin. It works on most popular web browsers (Desktop):`Click 
 .. raw:: html
 
       <iframe src="https://drive.google.com/file/d/12tzzx0Wt9kGN8_T94E4kUEJcQ0cfHXNd/preview" width="640" height="480" allow="autoplay"></iframe>
+      
 
 
+**3 Types of Hackers: The Good, The Slighlty Bad, and The Ugly**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/security-white_gray_black_hat.png
+   :width: 60%
+   :align: center
+
+
+**White Hat Hacker (The Good)** 
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Nintendo_Switch_hardware_glitch_derrek.png
+   :width: 60%
+   :align: center
+   
+
+Black hat hackers and white hat hackers both employ the same hacking methods and tools, especially when conducting external penetration tests (pen tests).
+White hat hackers, however, want to assist a company in strengthening its security. White hack hackers will allow the company to see possible bugs in typical hardware and software and are important parts in hardening the technology we use everyday. They even regularly partipipate in bounty hacking competitions to earn easy income on there skills. Anyone should safely aim to be this kind of hacker as they even ask company permission as well.
+
+**Black Hat Hacker (The Ugly)**
+blACK HACKER.jpg
+
+Black Hat hackers are crooks that intentionally breach computer networks. They might also disseminate malware that steals passwords, credit card numbers, and other private data, damages files, or seizes control of systems. They are famous for creating software that holds user data hostage as well in demand for money for information not to end up on the dark web. These hackers also work in large groups, pirating and forming warez groups to spready illegally downloaded material.
 
 **One of Many Password Lists – Why Using a Strong Password Matters!**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
