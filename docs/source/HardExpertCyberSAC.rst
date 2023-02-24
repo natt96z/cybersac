@@ -396,7 +396,7 @@ As you can see, I successfully initiated a bank transfer from the dummy users ac
 
 
 **ProPatriot CyberQuiz (Beta)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
