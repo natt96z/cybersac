@@ -1,6 +1,4 @@
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cyberpatriot-logo-1.png
-   :width: 100%
-   :align: center
+
 
 Welcome to the Official Santa Ana College CyberPatriot Documentation Hub!
 ================================================
