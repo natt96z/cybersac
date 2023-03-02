@@ -7,7 +7,7 @@
    :align: center
 
 
-**Santa Ana College CyberPatriot Authors/Contributors**
+**Santa Ana College CyberPatriot Authors/Contributors (CyberCenter)**
 =====================================================
 
 *Nathaniel Clay*
@@ -19,6 +19,10 @@
 *Hung Dao*
 
 *Patrice Terrell*
+
+*Hugh Nguyen*
+
+*Jason Sim*
 
 
 *All contributors or authors have contributed, gathering and creating useful cyber security based hands-on virtual material. Understandably, CyberPatriot already has a base template and exercise material, but for this circumstance, we will be making extra in-depth material that goes beyond what the program offers. Programming is completely done in python and through the use of ReadTheDocs and the Sphinx engine. New content added to this project are frequent and well adjusting to the current state of the cyber security world.*
