@@ -5,6 +5,11 @@
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/people-meeting-online-via-video-conference-flat-illustration-cartoon-group-colleagues-virtual-collective-chat-during-lockdown_74855-14136.png
    :width: 80%
    :align: center
+   
+   
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/SAC%20Cyber%20Center_preview_rev_3.png
+   :width: 100%
+   :align: center  
 
 
 **Santa Ana College CyberPatriot Authors/Contributors (CyberCenter)**
