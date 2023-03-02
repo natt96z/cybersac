@@ -7,7 +7,7 @@
    :align: center
    
    
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/SAC%20Cyber%20Center_preview_rev_3.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot%202023-03-02%20014755.png
    :width: 50%
    :align: center  
 
