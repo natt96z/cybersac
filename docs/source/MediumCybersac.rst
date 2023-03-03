@@ -33,7 +33,7 @@ CyberEthics - Doing the right thing with computer technology!
    :width: 50%
    :align: center
    
-**★Core Knowledge★ -** We need computer ethics to differentiate from what's right and wrong. The technology we used today can be easily misused and can become an easy security threat for not just people, but entire network infrastructures as well. The tools we use should always be used for good, to help others with task like safe data recovery, basic computer repair, network organization and security hardening. Also, if you see something, say something, it could be a life altering issue that needs to be handled correctly. Be more of a White Hat hacker over a black hat one, bring peace not war!(More information can be found above in the Unit 3 learning material section of this page)
+**★Core Knowledge★ -** We need computer ethics to differentiate from what's right and wrong. The technology we used today can be easily misused and can become an easy security threat for not just people, but entire network infrastructures as well. The tools we utilize should always be used for good, to help others with tasks like safe data recovery, basic computer repair, network organization and security hardening. Also, if you see something, say something, it could be a life altering issue that needs to be handled correctly. Be more of a White Hat hacker over a black hat one, bring peace not war!(More information can be found above in the Unit 3 learning material section of this page)
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/istockphoto-941665020-612x612.jpg
    :width: 50%
@@ -42,11 +42,11 @@ CyberEthics - Doing the right thing with computer technology!
 **Things you should never do: (4 Major Nevers)**
 
 
-1) Never use a computer to steal from others (Stealing bank details, scamming through emails)
+1) Never use a computer to steal from others. (Stealing bank details, scamming through emails)
 
-2) Never use a computer to harm others (Either it is on a personal level or damaging another person's hardware)
+2) Never use a computer to harm others (Whether it is on a personal level or damaging another person's hardware)
 
-3) Never use a computer to illegally copy licensed software (Software you haven't subbed or purchased)
+3) Never use a computer to illegally copy licensed software. (Software you haven't subbed or purchased)
 
 4) Never use a computer's resources without the correct permissions from authority. (Always ask first)
 
@@ -92,7 +92,7 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
    :width: 90%
    :align: center
    
-**★Core Knowledge★ -** This bootable OS has great cracking tools as well as software diagnostics software specifically for Windows OS's. This bootable USB os should be used at your own risk and can have damage on Windows OS with incorrect use.
+**★Core Knowledge★ -** This bootable OS has great cracking tools as well as software diagnostics software specifically for Windows OS's. This bootable USB OS should be used at your own risk and can have damage on Windows OS with incorrect use.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/10.jpg
    :width: 50%
@@ -123,7 +123,7 @@ Setting Up Ubuntu Linux OS (On a Virtual Machine)
    :align: center
    
 **Core Knowledge:** Ubuntu is an open-source operating system (OS) built on the Debian GNU/Linux distribution. Ubuntu offers a more secure and private operating system. The main benefit of using Ubuntu is that we can get the extra security and privacy that we need without using any third-party solutions.
-By using this Linux distribution, the risk of hackers breaking into our PC's servers and especially virtual machines is minimal to almost non-exsistant with certian useful techniques.
+By using this Linux distribution, the risk of hackers breaking into our PC's servers and especially virtual machines, is minimal to almost non-exsistant with certian useful techniques.
 
 
 .. raw:: html
@@ -138,7 +138,7 @@ By using this Linux distribution, the risk of hackers breaking into our PC's ser
    :align: center
 
 
-*Step 1:* Download the Ubuntu OS iso file from the appropriate official web page. 
+*Step 1:* Download the Ubuntu OS ISO file from the appropriate official web page. 
 
 **Ubuntu Linux Download (Operating System):** https://ubuntu.com/download
 
@@ -174,7 +174,7 @@ By using this Linux distribution, the risk of hackers breaking into our PC's ser
    :width: 65%
    :align: center
    
-*Step 7:* For this next step go ahead and click "finish" button to finish setting up your VM.
+*Step 7:* For this next step go ahead and click the "finish" button to finish setting up your VM.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/7-t24x7-ubuntu-vmware-vm-settings.png
    :width: 65%
@@ -186,7 +186,7 @@ By using this Linux distribution, the risk of hackers breaking into our PC's ser
    :width: 65%
    :align: center
 
-*Step 9:* Press the green play button to finish and boot Ubuntu OS (You should see the logo for the OS. 
+*Step 9:* Press the green play button to finish and boot Ubuntu OS. (You should see the logo for the OS)
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/10-t24x7-ubuntu-vmware-vm-play.png
    :width: 65%
@@ -202,9 +202,9 @@ Why Linux OS is so secure over Microsoft Windows! (Comparison)
    
 **Windows Security Always Has User Error, Linux Can HELP!**
 
-**★Core Knowledge★ -** Windows will generate an administrator account for you when you install it, giving you complete control to do pretty much whatever you want with the operating system by using the mysterious "Run as administrator" options. On the other hand, Linux does not permit such permissions by default; you are free to use your home directory, but you must enter the root password each time you want to perform a system-level activity. Here's the thing: With the right configuration, Windows can be just as safe as Linux. However, for decades, Windows' default installation has handled user permissions incorrectly and at risk. 
+**★Core Knowledge★ -** Windows will generate an administrator account for you when you install it, giving you complete control to do pretty much whatever you want, with the operating system, by using the mysterious "Run as administrator" options. On the other hand, Linux does not permit such permissions by default; you are free to use your home directory, but you must enter the root password each time you want to perform a system-level activity. Here's the thing: With the right configuration, Windows can be just as safe as Linux. However, for decades, Windows' default installation has handled user permissions incorrectly and at risk. 
 
-A user can easily run a program as administrator on Windows, while on Linux you have to enter the root password whenever you want to do so, this way you can notice when a script or a program tries to do something system-wide.
+A user can easily run a program as administrator on Windows, while on Linux, you have to enter the root password whenever you want to do so, this way you can notice when a script or a program tries to do something system-wide.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/14.jpg
    :width: 60%
@@ -229,7 +229,7 @@ A user can easily run a program as administrator on Windows, while on Linux you 
    
  **Linux Can’t Get Viruses AS EASY as Windows OS can...BUT**
  
-**★Core Knowledge★ -** Users typically utilize the internet to search for an EXE or MSI file, download it, and install software on Windows. Due to the uncertainty surrounding this source's reliability, there is a significant security risk. On the other hand, Linux makes use of a tool called a package manager. Simply defined, a package manager oversees obtaining the packages you require from reliable sources known as repositories. Most of the time, the community manages repositories, and the verification and acceptance process for packages is laborious. They also simplify things for the user because there is no need to browse the internet or look up files to download; all you need to do is type a short command. 
+**★Core Knowledge★ -** Users, typically, utilize the internet to search for an EXE or MSI file, download it, and install software on Windows. Due to the uncertainty surrounding this source's reliability, there is a significant security risk. On the other hand, Linux makes use of a tool called a package manager. Simply defined, a package manager oversees obtaining the packages you require from reliable sources known as repositories. Most of the time, the community manages repositories, and the verification and acceptance process for packages is laborious. They also simplify things for the user because there is no need to browse the internet or look up files to download; all you need to do is type a short command. 
 
 
 
@@ -237,7 +237,7 @@ Setting up Proton VPN on Windows OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **★Core Knowledge★ -** What is Proton VPN? Your Internet connection is encrypted while you browse the internet with Proton VPN.
-The robust security features of Proton VPN make sure that an intruder cannot eavesdrop on your connection by routing it through encrypted tunnels.
+The robust security features of Proton VPN ensures that an intruder cannot eavesdrop on your connection by routing it through encrypted tunnels.
 Additionally, it enables you to visit websites that may be restricted in your region.
 
 
@@ -305,7 +305,7 @@ A picture containing graphical user interface
    :align: center
 
 
-.. Note:: When dealing with networking devices, there are three planes: the management, control, and data planes
+.. Note:: When dealing with networking devices, there are three planes: the management, control, and data planes.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/48.jpg
    :width: 50%
@@ -316,15 +316,15 @@ A picture containing graphical user interface
    :align: center
 
 
-**Management Plane** The connection between the workstation and the device Where the administrator monitors and configures services 
+**Management Plane** - The connection between the workstation and the device Where the administrator monitors and configures services.
 
-**Protocols** telnet, NTP, Secure FTP, SNMP, and, SSH and we work with the management plane either in-band using a shared management interface or out-of-band 
+**Protocols** - telnet, NTP, Secure FTP, SNMP, and SSH; we work with the management plane either in-band using a shared management interface or out-of-band.
 
-**Data Plane or Forwarding Plane**, The actual movement of data based on what the device learned from the control plane and processes and moves user traffic 
+**Data Plane or Forwarding Plane** - The actual movement of data based on what the device learned from the control plane and processes and moves user traffic. 
 
-**Service Plane** - subset of data plane traffic, requires high touch handling by the device 
+**Service Plane** - subset of data plane traffic, requires high touch handling by the device. 
 
-**Control Plane** Routing protocols and routers that talk with one another. Where the device learns what action to take on the data. No data moves until the control and this plane makes a decision on the best path to deliver the data.
+**Control Plane** - Routing protocols and routers that talk with one another. Where the device learns what action to take on the data. No data moves until the control and this plane makes a decision on the best path to deliver the data.
 
 IntermediatePatriot CyberQuiz (Beta)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
