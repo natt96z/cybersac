@@ -24,7 +24,7 @@ ProPatriot Welcome Tutorial - CyberSAC Site Tour
 Penetration and Vulnerability Testing Using Burp Suite
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Core Knowledge:** A Burp suite is a powerful tool that many penetration testers use professionally. Learning how to use these tools effectively can make sure that the applications you are using are strong and secure from all sorts of malicious attacks. The Burp Suite community edition has much fewer features than the professional and enterprise versions, but it’s good enough that if you master the community edition then you have gained a powerful set of skills.
+**Core Knowledge:** A Burp suite is a powerful tool that many penetration testers use professionally. Learning how to use these tools, effectively, can make sure that the applications you are using are strong and secure, from all sorts of malicious attacks. The Burp Suite community edition has much fewer features than the professional and enterprise versions, but it’s good enough that, if you master the community edition, then you have gained a powerful set of skills.
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/30.jpg
@@ -38,7 +38,7 @@ Penetration and Vulnerability Testing Using Burp Suite
 
 O&O ShutUp10++ - A Way of Hardening Windows OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you would like to block Window’s suspect spyware then definitely use this software. It works for Windows 11 too just in case you made the big mistake of “upgrading” to 11 or higher.
+If you would like to block Window’s suspect spyware, then definitely use this software. It also works for Windows 11 just in case you made the big mistake of “upgrading” to 11 or higher.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/140.jpg
    :width: 51%
@@ -47,7 +47,7 @@ If you would like to block Window’s suspect spyware then definitely use this s
 
 .. Note::
 
-There are many many settings that help you increase your privacy, security, and Quality of Life (QOL)  
+There are so many settings that help you increase your privacy, security, and Quality of Life (QOL)  
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/141.jpg
    :width: 50%
@@ -55,7 +55,7 @@ There are many many settings that help you increase your privacy, security, and 
    
 .. Note::
 
-Eliminate advertising ID by Windows along with sending clipboard data to Windows’s servers along with other weird stuff. 
+Eliminate advertising ID by Windows, along with sending clipboard data to Windows’s servers, along with other weird stuff. 
 
 Chris Titus Tech's Windows Utility
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ Video follow along:
 
 **Safing Portmaster - An Easy To Use Firewall For Your Computer**
 
-If you would like to block all incoming connections on your computer and any unnecessary programs pinging the world outside, this is a fantastic piece of software.
+If you would like to block all incoming connections on your computer and any unnecessary programs, pinging the world outside, this is a fantastic piece of software.
 
 All you need to do is flick the switch and all those nasty connections coming from Adobe Creative Cloud are all gone.
 
@@ -109,7 +109,7 @@ Source: https://itsfoss.com/how-to-hack-ubuntu-password/
 
 **Disable Ubuntu Recovery Password**
 
-After performing the password recovery on Ubuntu you can probably tell it's a huge security vulernability in the case that someone physically gets your computer and wants to access everything inside. To protect yourself from this threat, all you have to do is delete one line in your configuration files and change your grub menu password.
+After performing the password recovery on Ubuntu, you can probably tell it's a huge security vulernability, in the case that someone physically gets your computer and wants to access everything inside. To protect yourself, from this threat, all you have to do is delete one line in your configuration files and change your grub menu password.
 
 Sources: https://askubuntu.com/questions/321115/how-to-remove-password-recovery-reset
 
@@ -131,7 +131,7 @@ Tip: if a physical security threat is a concern, you should really consider encr
 
 **Disabling Root Access** 
 
-While the average user can use Linux without ever using the terminal, it is nevertheless a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access" in Linux refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
+While the average user can use Linux without ever using the terminal, it is nevertheless, a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access" in Linux refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/pasted%20image%200.png
    :width: 65%
@@ -221,7 +221,7 @@ What is Kali Linux? - Detailed Computer Penetration Testing (Setup Image Guide)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-**Core Knowledge:** Kali Linux (Formerly known as BackTrack Linux) Is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks, such as Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
+**Core Knowledge:** Kali Linux, (Formerly known as BackTrack Linux), Is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks. Such as Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
 
 .. Note::
 
@@ -263,7 +263,7 @@ Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebu
 
 .. Note::
 
-The site is well organized as well to aid with using on any compatible computer. There are also helpful help forums and FAQ's to troubleshoot possible issues.
+The site is well organized as well to aid with using on any compatible computer. There are also helpful "Help" forums and FAQ's to troubleshoot possible issues.
 
 
 How to Set Up Kali Linux OS (Virtual Box)
@@ -377,7 +377,7 @@ TryHackMe – Website for Learning Cyber Security
    :width: 67%
    :align: center
    
-**Core Knowledge:** TryHackMe is a CTF website that uses an interactive virtual lab to teach cybersecurity. Whether you are an expert or a beginner, you will learn about theoretical and practical security features utilizing a virtual room architecture. It's an intuitive cybersecurity tool that tests individuals in a range of virtual machine rooms to find solutions to computer security issues and capture or defend computer systems.
+**Core Knowledge:** TryHackMe is a CTF website that uses an interactive virtual lab to teach cybersecurity. Whether you are an expert or a beginner, you will learn about theoretical and practical security features, utilizing a virtual room architecture. It's an intuitive cybersecurity tool that tests individuals, in a range of virtual machine rooms, to find solutions to computer security issues and capture or defend computer systems.
 
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/136.jpg
@@ -386,7 +386,7 @@ TryHackMe – Website for Learning Cyber Security
    
 .. Note::
 
-Once you create a FREE account on the website you will be able to choose from 3 learning paths. I went ahead and chose the first, which is the basics of hacking for newcomers. I've found that most of the content on the website is free so far.
+Once you create a FREE account on the website, you will be able to choose from 3 learning paths. I went ahead and chose the first, which is the basics of hacking for newcomers. I've found that most of the content on the website is free so far.
 
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/137.jpg
@@ -397,13 +397,13 @@ Once you create a FREE account on the website you will be able to choose from 3 
    :width: 70%
    :align: center
 
-The website will provide you with a live Ubuntu virtual machine and easy to follow steps on the side to accompany the hacking demonstration. In this lesson you are learning how to hack a dummy bank account website to explore its hidden directories.  
+The website will provide you with a live Ubuntu virtual machine and easy to follow steps on the side to accompany the hacking demonstration. In this lesson, you are learning how to hack a dummy bank account website, to explore its hidden directories.  
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/139.jpg
    :width: 70%
    :align: center
 
-As you can see, I successfully initiated a bank transfer from the dummy users account. This website also has an Android application that allows you to practice hacking on the go.  This short example basically shows how easy it can be for a hacker to gather personal information. 
+As you can see, I, successfully, initiated a bank transfer from the dummy users account. This website also has an Android application that allows you to practice hacking on the go.  This short example basically shows how easy it can be for a hacker to gather personal information. 
 
 
 **ProPatriot CyberQuiz (Beta)**
