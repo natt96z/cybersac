@@ -44,7 +44,7 @@ CyberEthics - Doing the right thing with computer technology!
 
 1) Never use a computer to steal from others. (Stealing bank details, scamming through emails)
 
-2) Never use a computer to harm others (Whether it is on a personal level or damaging another person's hardware)
+2) Never use a computer to harm others. (Whether it is on a personal level or damaging another person's hardware)
 
 3) Never use a computer to illegally copy licensed software. (Software you haven't subbed or purchased)
 
