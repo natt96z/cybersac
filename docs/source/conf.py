@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Documentation Hub Ver: 3.0.9'
+project = 'Documentation Hub Ver: 3.1.0'
 copyright = '2023, Santa Ana College & CyberPatriot Authors/Contributors'
 author = 'Nathaniel Clay'
 
 release = '3.0'
-version = '3.0.9'
+version = '3.1.0'
 
 # -- General configuration
 
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_rtd_dark_mode',
 ]
 
 intersphinx_mapping = {
