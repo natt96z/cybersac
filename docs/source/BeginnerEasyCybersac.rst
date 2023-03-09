@@ -290,15 +290,8 @@ Black Hat hackers are crooks that intentionally breach computer networks. They m
 
 Bitwarden is a free and open source (FOSS) password manager. Their website allows us to test our passwords and generate passwords for us to see what their tool does. I highly recommend Bitwarden for an end-to-end encrypted (E2EE) password manager for all devices.
 
-*Bitwarden Password Strength Testing:*
-
-
-.. raw:: html
-
-   <iframe src=" https://bitwarden.com/password-strength/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
-   
-   
-
+Bitwarden Password Strength Testing: https://bitwarden.com/password-strength/
+    
 Bitwarden Strong Password Generator: https://bitwarden.com/password-generator/
 
 Bitwarden Sign Up: https://vault.bitwarden.com/#/register?layout=default
