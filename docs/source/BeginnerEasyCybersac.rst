@@ -296,6 +296,8 @@ Bitwarden is a free and open source (FOSS) password manager. Their website allow
 .. raw:: html 
 
    <iframe src="https://bitwarden.com/password-strength/" name="Test Password Strength" scrolling="auto" style="border: solid #160eb6;"></iframe>
+   
+   
 
 Bitwarden Strong Password Generator: https://bitwarden.com/password-generator/
 
