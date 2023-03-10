@@ -17,7 +17,7 @@ Official CyberPatriot Training Material (All Sections)
  
  
  
- 
+ -
  
  
 .. raw:: html
