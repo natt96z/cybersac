@@ -64,9 +64,9 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
    
 **★Core Knowledge★ -** This site security pop-out bubble, found on every site, online means that your credit card details, passwords, address, and any personal information and personal data not encrypted and will be vulnerable to attacks and could be stolen and sold on dark market sites. In these cases, we suggest that you don’t enter sensitive details on insecure websites.
 
-**★Core Knowledge★ -** Don't visit any unknown and trusted links (even if it has https and looks clean). Attackers can easily use a legitimate website hosting site and embed their hacking tools in there.
+**★Core Knowledge★ -** Don't visit any unknown and trusted links (even if it has https and looks clean). Attackers can, easily, use a legitimate website hosting site and embed their hacking tools in there.
 
-**★Core Knowledge★ -** Don't plug any unknown and untrusted devices into your computer. Once a device is in, it can wreak all sorts of havoc from running scripts to redirecting to dangerous websites on its own which can do anything from accessing your webcam, deleting your files, to downloading spyware, the only limit is the attacker's imagination.
+**★Core Knowledge★ -** Don't plug any unknown and untrusted devices into your computer. Once a device is in, it can wreak all sorts of havoc from running scripts to redirecting to dangerous websites on its own, which can do anything from accessing your webcam, deleting your files, to downloading spyware, the only limit is the attacker's imagination.
 
 **Types of Dangerous Viruses and How to Protect Yourself**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
