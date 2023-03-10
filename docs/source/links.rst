@@ -15,6 +15,8 @@ Official CyberPatriot Training Material (All Sections)
 
   <a href="https://drive.google.com/drive/folders/1BsNoljXXMoefJZo5dlee4wuzFmiNcxIN?usp=share_link" target="_blank">View Official Training Material!</a> 
   
+.. raw:: html
+ 
   <a href="https://drive.google.com/file/d/1wqTU6946gHhOHw5Nzj791wghtyRt0nw3/view?usp=sharing" target="_blank">View Official CyberSAC Flyer!</a> 
 
 
