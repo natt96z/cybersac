@@ -1,4 +1,4 @@
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cyberpatriot-logo-1.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cyberpatriot-logo-1.pn
    :width: 100%
    :align: center
 
