@@ -11,6 +11,7 @@
 </a>
 ![alt text](https://img.shields.io/badge/Theme-Lumache-yellow)
 ![alt text](https://img.shields.io/badge/Engine-Sphinx-blueviolet)
+![alt text](https://img.shields.io/badge/PDF-Unavaliable%20-blue)
 
 
 **Project Contributor's:**
