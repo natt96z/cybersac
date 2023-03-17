@@ -48,6 +48,7 @@ Hands-On Virtual Material Table of Contents/Glossary:
    HardExpertCyberSAC.rst
    AuthorsContributors.rst
    OfficialPatriot.rsT
+   cybernews.rst
    Events.rst
    links.rst
    feedback.rst
