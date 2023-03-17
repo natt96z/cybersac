@@ -6,12 +6,14 @@ CyberNews Feed
    :align: center
 
 **Cyber Security News Courtesy of ★The Hacker News★ (RSS)**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
       <script src="//rss.bloople.net/?url=https%3A%2F%2Ffeeds.feedburner.com%2FTheHackersNews%3Fformat%3Dxml&limit=2&showtitle=false&type=js"></script>
 
-**Sign Up For CyberPatriot's CyberCentinel**
+**Sign Up For ★CyberPatriot's CyberCentinel!★**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cybersent.png
    :width: 85%
