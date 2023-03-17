@@ -41,7 +41,7 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 .. Note:: This is a prime example of how a web browser handles visiting malicious web pages with a content block warning screen.
 
 
-**★Core Knowledge★ -** For secured websites online: HTTPS is HTTP with encryption. The only difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses. As a result, HTTPS is far more secure than HTTP. A website that uses HTTP has http:// in its URL, while a website that uses HTTPS has https:// in its url. 
+**★Core Knowledge★ -** For secured websites online: HTTPS is HTTP with encryption. The only difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses. As a result, HTTPS is far more secure than HTTP. A website that uses HTTP, has http:// in its URL, while a website that uses HTTPS, has https:// in its url. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/3.jpg
    :align: center
@@ -62,9 +62,9 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
    :width: 50%
    :align: center
    
-**★Core Knowledge★ -** This site security pop-out bubble, found on every site, online means that your credit card details, passwords, address, and any personal information and personal data not encrypted and will be vulnerable to attacks and could be stolen and sold on dark market sites. In these cases, we suggest that you don’t enter sensitive details on insecure websites.
+**★Core Knowledge★ -** This site security pop-out bubble, found on every site, online means that your credit card details, passwords, address, and any personal information and personal data not encrypted, will be vulnerable to attacks and could be stolen and sold on dark market sites. In these cases, we suggest that you don’t enter sensitive details on insecure websites.
 
-**★Core Knowledge★ -** Don't visit any unknown and trusted links (even if it has https and looks clean). Attackers can, easily, use a legitimate website hosting site and embed their hacking tools in there.
+**★Core Knowledge★ -** Don't visit any unknown and trusted links (even if it has https and looks clean). Attackers can, easily, use a legitimate website hosting site and embed their hacking tools in there. 
 
 **★Core Knowledge★ -** Don't plug any unknown and untrusted devices into your computer. Once a device is in, it can wreak all sorts of havoc from running scripts to redirecting to dangerous websites on its own, which can do anything from accessing your webcam, deleting your files, to downloading spyware, the only limit is the attacker's imagination.
 
@@ -75,7 +75,7 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 
 A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes a malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
 
-A **browser hijacker** is a malware program, that modifies web browser settings, without the user's permission and redirects the user to websites the user had not intended to visit. It is often called a browser redirect virus because it redirects the browser to other, usually malicious, websites. 
+A **browser hijacker** is a malware program, that modifies web browser settings, without the user's permission and redirects the user to websites the user had not intended to visit. It is often called, a browser redirect virus, because it redirects the browser to other, usually, malicious websites. 
 
 A **direct action computer virus** is a class of self-replicating malware that is attached to an executable file. They are, typically, embedded in, otherwise, legitimate programs that require execution to run. After downloading and executing an infected program, the direct action computer virus will spread. 
 
@@ -87,9 +87,9 @@ A **multipartite virus** is a fast-moving virus that uses file infectors or boot
 
 An **overwriting virus** is a malicious program which, after infection, will effectively destroy the original program code, typically, by overwriting data in the system's memory. 
 
-**Polymorphic viruses** are complex file infectors that can create modified versions of itself to avoid detection, yet, retain the same basic routines after every infection. To vary their physical file makeup, during each infection, polymorphic viruses encrypt their codes and use different encryption keys every time. 
+**Polymorphic viruses** are complex file infectors, that can create modified versions of itself, to avoid detection, yet, retain the same basic routines after every infection. To vary their physical file makeup, during each infection, polymorphic viruses encrypt their codes and use different encryption keys every time. 
 
-A **resident virus** is a kind of computer virus that hides and stores itself within the computer memory, which then allows it to infect any file that is run by the computer, depending on the virus' programming. 
+A **resident virus** is a kind of computer virus that hides and stores itself within the computer memory, which then allows it to infect any file, that is run by the computer, depending on the virus' programming. 
 
 **Web Scripting Virus** is malware that has the capacity to breach web browser security. When it breaches the web browser security, it injects some malicious code to take over the web browser and alter some settings. This type of malware spreads like any other computer virus. 
 
@@ -105,13 +105,13 @@ Clop is one of the most recent and most dangerous ransomware threats to emerge. 
 
 **Windows OS Ransomware** 
 
-In recent months, hackers have distributed emails instructing targets to quickly install an urgent Windows OS update. When users start to download the supposed update, ransomware ‘.exe’, files make their way onto the device. Email security controls and a comprehensive consolidated security solution can help stop these types of malware events. 
+In recent months, hackers have distributed emails, instructing targets to quickly install an urgent Windows OS update. When users start to download the supposed update, ransomware ‘.exe’, files make their way onto the device. Email security controls and a comprehensive consolidated security solution can help stop these types of malware events. 
 
 **Zeus Gameover** 
 
-This malware type is part of the “Zeus” family of malware. Zeus Gameover is a Trojan – a malware disguised as something legitimate- that aims to obtain financial information, with which to steal whatever is in a bank account. 
+This malware type is part of the “Zeus” family of malware. Zeus Gameover is a Trojan – a malware disguised as something legitimate - that aims to obtain financial information, which steals whatever is in a bank account. 
 
-Experts state that the most difficult aspect of this malware is the fact that it doesn’t require a centralized “command and control” server to complete transactions, making it challenging for investigators and law enforcement to identify the criminals behind these hacks. Zeus Gameover, effectively, bypasses centralized servers, creating independent servers with which to share data. In short, it’s nearly impossible to determine where stolen data has gone. 
+Experts state that, the most difficult aspect of this malware is the fact that, it doesn’t require a centralized “command and control” server to complete transactions, making it challenging for investigators and law enforcement to identify the criminals behind these hacks. Zeus Gameover, effectively, bypasses centralized servers, creating independent servers with which to share data. In short, it’s nearly impossible to determine where stolen data has gone. 
 
 **Shlayer malware** 
 
@@ -135,7 +135,7 @@ Did you recently install a smart doorbell, or get smart speakers? Hackers are lo
 
 **Cryptojacking** 
 
-Cryptojacking represents a security threat that is entirely unique to cryptocurrencies. Crypto-malware effectively saves hackers large overheads, as it allows them to “mine” cryptocurrencies without paying for expensive mining hardware or racking up large electricity bills. Once cryptocurrencies have been mined, they are sent to crypto-wallets that are controlled by malware operators. 
+Cryptojacking represents a security threat that is entirely unique to cryptocurrencies. Crypto-malware, effectively, saves hackers large overheads, as it allows them to “mine” cryptocurrencies without paying for expensive mining hardware or racking up large electricity bills. Once cryptocurrencies have been mined, they are sent to crypto-wallets that are controlled by malware operators. 
 
 **Social engineering** 
 
@@ -148,7 +148,7 @@ In social engineering attempts, hackers aim to manipulate individuals, -via in-p
    :width: 65%
    :align: center
 
-**Bitdefender:** packs a huge collection of security-centric features, among them password management, enhanced security for online transactions, ransomware protection, Active Do Not Track, and even a VPN. The default Quick Actions lets you launch a quick system, or vulnerability scan, open the VPN, and configure Safepay online protection. You can configure the product to add a feature, such as, the File Shredder or Wallet password manager in the main display, and you can swap out features you do not use much.
+**Bitdefender:** packs a huge collection of security-centric features, among them password management, enhanced security for online transactions, ransomware protection, Active Do Not Track, and even a VPN. The default Quick Actions lets you launch a quick system, or vulnerability scan, open the VPN, and configure Safepay online protection. You can configure the product to add a feature, such as, the File Shredder or Wallet password manager, in the main display, and you can swap out features you do not use much.
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/19.jpg
@@ -173,7 +173,7 @@ In social engineering attempts, hackers aim to manipulate individuals, -via in-p
    :width: 50%
    :align: center
 
-**Malwarebytes:** includes limited signature-based detection as one of its many layers, but relies heavily on more modern forms of detection. Web protection blocks traffic to known dangerous addresses, whether by the browser or by a malicious application. Ransomware protection watches for the behaviors that occur when an unknown program is getting ready to encrypt your files. It should catch even a zero-day ransomware attack, with no need to recognize anything but behaviors that suggest ransomware. 
+**Malwarebytes:** includes limited signature-based detection as one of its many layers, but relies heavily on more modern forms of detection. Web protection blocks traffic to known dangerous addresses, whether by the browser or by a malicious application. Ransomware protection watches for the behaviors that occur when an unknown program is getting ready to encrypt your files. It should catch even a zero-day ransomware attack, with no need to recognize anything, but behaviors that suggest ransomware. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/25.jpg
    :width: 33%
@@ -183,7 +183,7 @@ In social engineering attempts, hackers aim to manipulate individuals, -via in-p
    :width: 50%
    :align: center
 
-Exploit attacks take advantage of security holes in popular applications using the security vulnerability to take control. Even if you keep your operating system and programs patched, there's always a window when the vulnerability is known, but not yet patched. Malwarebytes shields several dozen popular applications against attack. This is a generalized protection against exploit behaviors, not protection against specific exploits. 
+Exploit attacks take advantage of security holes, in popular applications, using the security vulnerability to take control. Even if you keep your operating system and programs patched, there's always a window when the vulnerability is known, but not yet patched. Malwarebytes shields several dozen popular applications against attack. This is a generalized protection against exploit behaviors, not protection, against specific exploits. 
 
 
 
@@ -211,7 +211,7 @@ Exploit attacks take advantage of security holes in popular applications using t
    :width: 58%
    :align: center
 
-**Lets test out Phishing Box's Phishing Test!:** This online test will see if you can tell the difference between a phishing attempt and a legitimate form of communication through email and or other messaging platforms. Spam emails and even ones that hit our regular inbox are secretly set up to scrape important user data from us with clone like tactics, such as password recovery and bank statements that seem real but arent. 
+**Lets test out Phishing Box's Phishing Test!:** This online test will see if you can tell the difference, between a phishing attempt and a legitimate form of communication, through email and or other messaging platforms. Spam emails, and even ones that hit our regular inbox, are secretly set up to scrape important user data from us with clone like tactics, such as password recovery and bank statements that seem real but arent. 
 
 
 Take the phishing test online now `Click or Tap to Begin Test`_.
@@ -252,8 +252,8 @@ Check out uBlock Origin. It works on most popular web browsers (Desktop):`Click 
    :align: center
    
 
-Black hat hackers and white hat hackers both employ the same hacking methods and tools, especially when conducting external penetration tests (pen tests).
-White hat hackers, however, want to assist a company in strengthening its security. White hack hackers will allow the company to see possible bugs in typical hardware and software and are important parts in hardening the technology we use everyday. They even regularly partipipate in bounty hacking competitions to earn easy income on there skills. Anyone should safely aim to be this kind of hacker as they even ask company permission as well.
+Black hat hackers and white hat hackers both employ the same hacking methods and tools, especially, when conducting external penetration tests (pen tests).
+White hat hackers, however, want to assist a company in strengthening its security. White hat hackers will allow the company to see possible bugs in typical hardware and software and are important parts in hardening the technology we use everyday. They even, regularly, partipipate in bounty hacking competitions to earn easy income on there skills. Anyone should safely aim to be this kind of hacker as they even ask company permission as well.
 
 **Grey Hat Hacker (The Slightly Bad)**
 
@@ -262,7 +262,7 @@ White hat hackers, however, want to assist a company in strengthening its securi
    :align: center
    
 
-Gray hat hackers are there between white and black hackers. Black hat and white hat hacking tactics are combined by gray hat hackers. Gray hat hackers frequently scan systems for vulnerabilities without the owner's knowledge or consent. If problems are discovered in hardware and sofrware, they notify the owner and may occasionally demand a modest fee to have the issue resolved, but not by force. Usually bugs and exploits also get leaked into public spaces by this type of hacker, thing such as smartphone jailbreaking and game console exploits are common with these hackers. 
+Gray hat hackers are there between white and black hackers. Black hat and white hat hacking tactics are combined by gray hat hackers. Gray hat hackers, frequently, scan systems for vulnerabilities without the owner's knowledge or consent. If problems are discovered in hardware and sofrware, they notify the owner and may, occasionally, demand a modest fee to have the issue resolved, but not by force. Usually, bugs and exploits also get leaked into public spaces by this type of hacker, thing, such as smartphone jailbreaking and game console exploits are common with these hackers. 
 
 
 **Black Hat Hacker (The Ugly)**
@@ -271,7 +271,7 @@ Gray hat hackers are there between white and black hackers. Black hat and white 
    :width: 60%
    :align: center
 
-Black Hat hackers are crooks that intentionally breach computer networks. They might also disseminate malware that steals passwords, credit card numbers, and other private data, damages files, or seizes control of systems. They are famous for creating software that holds user data hostage as well in demand for money for information not to end up on the dark web. These hackers also work in large groups, pirating and forming warez groups to spready illegally downloaded material.
+Black Hat hackers are crooks that, intentionally, breach computer networks. They might also disseminate malware that steals passwords, credit card numbers, and other private data, damages files, or seizes control of systems. They are famous for creating software that holds user data hostage, as well, in demand for money and for information, not to end up on the dark web. These hackers also work in large groups, pirating and forming warez groups to spreading illegally downloaded material.
 
 **One of Many Password Lists – Why Using a Strong Password Matters!**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
