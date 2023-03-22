@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'SAC Cyberpatriot's Ver: 3.2.1'
+project = 'SAC Cyberpatriots Ver: 3.2.1'
 copyright = '2023, Santa Ana College & CyberPatriot Authors/Contributors'
 author = 'Nathaniel Clay'
 
