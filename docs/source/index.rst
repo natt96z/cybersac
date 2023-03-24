@@ -1,4 +1,4 @@
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cyberSAC Top banner v2.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cyberSACTopbannerv23.png
    :width: 100%
    :align: center
 
