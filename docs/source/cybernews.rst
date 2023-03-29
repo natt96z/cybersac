@@ -20,7 +20,7 @@
 
       <script src="//rss.bloople.net/?url=https%3A%2F%2Ffeeds.feedburner.com%2FTheHackersNews%3Fformat%3Dxml&limit=4&showtitle=false&type=js"></script>
       
-**Vurnerability Watch**
+**Cyber Secuity Vurnerability Watch**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *More info coming soon...*
