@@ -23,7 +23,10 @@
 **Cyber Secuity Vurnerability Watch**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*More info coming soon...*
+
+.. raw:: html
+
+      <iframe src="https://www.mysitemapgenerator.com/embed/rss/0/2934ef940a1a32f390f03ab18b4f29b6" width="100%" height="580" frameborder=0 onload="this.style.height=this.contentWindow.document.body.scrollHeight+'px';"></iframe>
 
 **Sign Up For ★CyberPatriot's CyberCentinel!★**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
