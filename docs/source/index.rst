@@ -6,7 +6,7 @@
    
 
 
-Welcome to the Official Santa Ana College CyberPatriot Documentation Hub!
+Welcome to the Official SAC CyberPatriot Documentation Hub!
 ================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Don-Bot3.gif
