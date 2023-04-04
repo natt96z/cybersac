@@ -3,7 +3,9 @@
    :align: center
    
    
-   
+.. raw:: html
+
+<iframe src="https://chat.openai.com" title="ChatGPT"></iframe>
 
 
 Welcome to the Official SAC CyberPatriot Documentation Hub!
