@@ -313,7 +313,7 @@ Self Hosting Bitwarden:
 
 .. raw:: html 
 
-   <iframe src="https://www.passwordmonster.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px" allowfullscreen></iframe>
+   <iframe src="https://www.passwordmonster.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="700px" allowfullscreen></iframe>
 
 **EasyPatriot CyberQuiz (Beta)**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
