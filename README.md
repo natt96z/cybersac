@@ -14,10 +14,10 @@
 ![alt text](https://img.shields.io/badge/PDF-Unavaliable%20-blue)
 
 
-**Project Contributor's:**
+**All Our Project Contributor's:**
 ======================================
 
-_The CyberSAC Team: Nathaniel Clay, Albert Huynh, Teairra McCoy, Hung Dao, Patrice Terrell_
+_The Santa Ana College CyberSAC Team: Nathaniel Clay, Albert Huynh, Teairra McCoy, Hung Dao, Patrice Terrell_
 
 
 CyberPatriot SAC Documentation GitHub
