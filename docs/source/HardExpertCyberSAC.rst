@@ -38,7 +38,7 @@ Penetration and Vulnerability Testing Using Burp Suite
 
 O&O ShutUp10++ - A Way of Hardening Windows OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you would like to block Window’s suspect spyware, then definitely use this software. It also works for Windows 11 just in case you made the big mistake of “upgrading” to 11 or higher.
+If you would like to block Window’s suspect spyware, then, definitely, use this software. It also works for Windows 11 just in case you made the big mistake of “upgrading” to 11 or higher.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/140.jpg
    :width: 51%
@@ -117,7 +117,7 @@ Source: https://itsfoss.com/how-to-hack-ubuntu-password/
 
 **Disable Ubuntu Recovery Password**
 
-After performing the password recovery on Ubuntu, you can probably tell it's a huge security vulernability, in the case that someone physically gets your computer and wants to access everything inside. To protect yourself, from this threat, all you have to do is delete one line in your configuration files and change your grub menu password.
+After performing the password recovery on Ubuntu, you can probably tell it's a huge security vulernability, in the case that someone, physically, gets your computer and wants to access everything inside. To protect yourself, from this threat, all you have to do is delete one line in your configuration files and change your grub menu password.
 
 Sources: https://askubuntu.com/questions/321115/how-to-remove-password-recovery-reset
 
@@ -139,7 +139,7 @@ Tip: if a physical security threat is a concern, you should really consider encr
 
 **Disabling Root Access** 
 
-While the average user can use Linux without ever using the terminal, it is nevertheless, a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access" in Linux refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
+While the average user can use Linux without ever using the terminal, it is nevertheless, a powerful tool that has the ability to grant attackers full access to a computer. Linux is a command-heavy operating system. "Root access", in Linux, refers to the unrestricted power to execute any command. It can be safely removed because it often comes in handy. Root access can always be guarded by a password. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/pasted%20image%200.png
    :width: 65%
@@ -229,7 +229,7 @@ What is Kali Linux? - Detailed Computer Penetration Testing (Setup Image Guide)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-**Core Knowledge:** Kali Linux, (Formerly known as BackTrack Linux), Is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks. Such as Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
+**Core Knowledge:** Kali Linux, (Formerly known as BackTrack Linux), is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted toward various information security tasks. Such as, Penetration Testing, Security Research, Computer Forensics, and Reverse Engineering. Kali Linux is a multi-platform solution, accessible, and freely available to information security professionals and hobbyists.
 
 .. Note::
 
@@ -405,13 +405,13 @@ Once you create a FREE account on the website, you will be able to choose from 3
    :width: 70%
    :align: center
 
-The website will provide you with a live Ubuntu virtual machine and easy to follow steps on the side to accompany the hacking demonstration. In this lesson, you are learning how to hack a dummy bank account website, to explore its hidden directories.  
+The website will provide you with a live Ubuntu virtual machine and easy to follow steps, on the side, to accompany the hacking demonstration. In this lesson, you are learning how to hack a dummy bank account website, to explore its hidden directories.  
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/139.jpg
    :width: 70%
    :align: center
 
-As you can see, I, successfully, initiated a bank transfer from the dummy users account. This website also has an Android application that allows you to practice hacking on the go.  This short example basically shows how easy it can be for a hacker to gather personal information. 
+As you can see, I, successfully, initiated a bank transfer from the dummy users account. This website, also, has an Android application that allows you to practice hacking on the go.  This short example, basically, shows how easy it can be for a hacker to gather personal information. 
 
 
 **ProPatriot CyberQuiz (Beta)**
