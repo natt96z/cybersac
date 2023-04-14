@@ -309,7 +309,7 @@ Self Hosting Bitwarden:
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/SSLGa0LjTrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Password Checker: Test the strengths of your passwords!**
+**Password Checker: Test the strengths of your passwords! (Password Monster)**
 
 .. raw:: html 
 
