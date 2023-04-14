@@ -309,12 +309,11 @@ Self Hosting Bitwarden:
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/SSLGa0LjTrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Password Checker: Test the strengths of your passwords with this tool!**
+**Password Checker: Test the strengths of your passwords!**
 
 .. raw:: html 
 
-    <iframe src="https://www.passwordmonster.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
-
+   <iframe src="https://www.passwordmonster.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px" allowfullscreen></iframe>
 
 **EasyPatriot CyberQuiz (Beta)**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
