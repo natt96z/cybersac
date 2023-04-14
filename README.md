@@ -16,15 +16,9 @@
 
 **Project Contributor's:**
 ======================================
-__Nathaniel Clay: npclay@proton.me, (Alt E-Mail: natclay96@gmail.com)__
 
-__Albert Huynh: alberth03@proton.me (Alt E-Mail: ah61195@student.sac.edu)__
+__The CyberSAC Team: Nathaniel Clay, Albert Huynh, Teairra McCoy, Hung Dao, Patrice Terrell_
 
-__Teairra McCoy: teamccoy@proton.me (Alt E-Mail: tmccoythompson@gmail.com)__
-
-__Hung Dao: hd66544@student.sac.edu (Alt E-Mail: hungdaophone@gmail.com)__
-
-__Patrice Terrell: pt14063@student.sac.edu (Alt E-Mail: bluerain402@gmail.com)__
 
 CyberPatriot SAC Documentation GitHub
 =======================================
