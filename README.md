@@ -17,7 +17,7 @@
 **Project Contributor's:**
 ======================================
 
-__The CyberSAC Team: Nathaniel Clay, Albert Huynh, Teairra McCoy, Hung Dao, Patrice Terrell_
+_The CyberSAC Team: Nathaniel Clay, Albert Huynh, Teairra McCoy, Hung Dao, Patrice Terrell_
 
 
 CyberPatriot SAC Documentation GitHub
