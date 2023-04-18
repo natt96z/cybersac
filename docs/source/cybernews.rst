@@ -23,7 +23,6 @@
 **Cyber Secuity Vurnerability Watch (Interactive)**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
 .. raw:: html
 
      <rssapp-wall id="dp6ywvr3h8mDZeec"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
