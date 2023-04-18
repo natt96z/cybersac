@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'SAC Cyberpatriots Ver: 3.3.1'
-copyright = '2023, Santa Ana College & CyberPatriot Authors/Contributors'
+project = 'SAC Cyberpatriots Ver: 4.0.0'
+copyright = 'Ver. 4.0.1 - 2023, Santa Ana College & CyberPatriot Authors/Contributors'
 author = 'Nathaniel Clay'
 
 release = '4.0'
-version = '4.0.0'
+version = '4.0.1'
 
 # -- General configuration
 
