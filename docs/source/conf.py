@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'SAC Cyberpatriots Ver: 4.0.0'
-copyright = 'Ver. 4.0.1 - 2023, Santa Ana College & CyberPatriot Authors/Contributors'
+copyright = '2023, Santa Ana College & CyberPatriot Authors/Contributors - Ver. 4.0.1'
 author = 'Nathaniel Clay'
 
 release = '4.0'
