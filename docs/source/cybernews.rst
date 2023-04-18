@@ -26,8 +26,8 @@
 
 .. raw:: html
 
-      <iframe src="https://www.mysitemapgenerator.com/embed/rss/0/2934ef940a1a32f390f03ab18b4f29b6" width="100%" height="580" frameborder=0 onload="this.style.height=this.contentWindow.document.body.scrollHeight+'px';"></iframe>
-
+     <rssapp-wall id="dp6ywvr3h8mDZeec"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+     
 **Sign Up For ★CyberPatriot's CyberCentinel!★**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
