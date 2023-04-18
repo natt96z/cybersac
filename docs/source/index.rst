@@ -54,8 +54,8 @@ Hands-On Virtual Material Table of Contents/Glossary:
    MediumCybersac.rst
    HardExpertCyberSAC.rst
    AuthorsContributors.rst
-   OfficialPatriot.rsT
    Events.rst
+   OfficialPatriot.rst
    cybernews.rst
    links.rst
    Contact.rst
