@@ -12,7 +12,7 @@
    :align: center  
 
 
-**Authors/Contributors (SAC CyberCenter)**
+**Authors & Contributors**
 =====================================================
 
 *Nathaniel Clay*
