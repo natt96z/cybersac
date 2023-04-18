@@ -53,9 +53,9 @@ Hands-On Virtual Material Table of Contents/Glossary:
    BeginnerEasyCybersac.rst
    MediumCybersac.rst
    HardExpertCyberSAC.rst
-   AuthorsContributors.rst
-   Events.rst
    OfficialPatriot.rst
+   Events.rst
+   AuthorsContributors.rst
    cybernews.rst
    links.rst
    Contact.rst
