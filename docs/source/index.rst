@@ -58,6 +58,7 @@ Hands-On Virtual Material Table of Contents/Glossary:
    Events.rst
    cybernews.rst
    links.rst
+   Contact.rst
    feedback.rst
    DMCARequest.rst
    
