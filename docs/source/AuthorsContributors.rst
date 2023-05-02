@@ -29,9 +29,10 @@
 
 Email: alberth03@protonmail.com
 
+.. role:: raw-html(raw)
+    :format: html
 
-| *Angel Dzul*
-
+*Angel Dzul*
 
 *Hung Dao*
 
