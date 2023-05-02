@@ -17,24 +17,35 @@
 
 *Nathaniel Clay*
 
+> Email: TBA
+
 *Patrice Terrell*
+
+> Email: TBA
 
 *Teairra McCoy*
 
-*Hugh Nguyen*
-
-*Jason Sim*
+> Email: TBA
 
 *Albert Huynh*
 
-Email: alberth03@protonmail.com
-
-.. role:: raw-html(raw)
-    :format: html
+> Email: alberth03@protonmail.com
 
 *Angel Dzul*
 
+> Email: TBA
+
 *Hung Dao*
+
+> Email: TBA
+
+*Hugh Nguyen*
+
+> Email: TBA
+
+*Jason Sim*
+
+> Email: TBA
 
 
 
