@@ -26,7 +26,6 @@
 *Jason Sim*
 
 *Albert Huynh*
-
 Email: alberth03@protonmail.com
 
 
