@@ -29,7 +29,7 @@
 
 *Albert Huynh*
 
-> Email: alberth03@protonmail.com
+'>' Email: alberth03@protonmail.com
 
 *Angel Dzul*
 
