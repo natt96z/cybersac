@@ -28,7 +28,7 @@
 *Albert Huynh*
 
 Email: alberth03@protonmail.com
-<br/>
+|
 
 *Angel Dzul*
 
