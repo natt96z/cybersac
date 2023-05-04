@@ -49,8 +49,7 @@ The **ProPatriot** difficulty is based on of the official CyberPatriot education
             <script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
+}</script>
 
 Hands-On Virtual Material Table of Contents/Glossary:
 *******************************************************
