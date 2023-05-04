@@ -338,10 +338,13 @@ First things first, if you ever do feel stuck or don't know what command to use,
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/AD1.png
    :width: 50%
    :align: left
-^The image above shows commands avaible at EXEC mode. 
+^The image above shows commands avaible at EXEC mode.
 
 
 
+
+
+(TEST TO CHECK SPACING)
 
 
 IntermediatePatriot CyberQuiz (Beta)
