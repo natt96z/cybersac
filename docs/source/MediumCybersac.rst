@@ -335,16 +335,23 @@ When it comes to using Cisco IOS on routers and switches, don't stress. With eno
 
 First things first, if you ever do feel stuck or don't know what command to use, just type in **?** into the CLI. This will give you a list of commands that are avaible at your disposel!
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/AD1.png
-   :width: 50%
-   :align: left
-^The image above shows commands avaible at EXEC mode.
++-------------------------------------------------------------------------------------+----------+
+| ROUTER>?                                                                            |          |
+|   EXEC commands:                                                                    |          |
+|      <1-99>                                                                         |          |
+|                                                                                     |          |
+|      **connect**    Open a terminal connection                                      |          |
+|                                                                                     |          |
+|      **disable**    Turn off privileged commands                                    |          |
+|                                                                                     |          |
+|      **disconnect**    Disconnect an existing network connection                    |          |
+|                                                                                     |          |
++-------------------------------------------------------------------------------------+----------+
 
 
+^ The table above shows an example of input and output using **"?"** on the CLI
 
 
-
-(TEST TO CHECK SPACING)
 
 
 IntermediatePatriot CyberQuiz (Beta)
