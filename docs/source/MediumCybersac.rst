@@ -337,8 +337,9 @@ First things first, if you ever do feel stuck or don't know what command to use,
 
 +-------------------------------------------------------------------------------------+-----------------------------+
 | ROUTER>?                                                                            |The colume to the left shows |
+|                                                                                     |                             |
 |   EXEC commands:                                                                    |the input of **"?"** into the|
-|      <1-99>                                                                         |CLI interface which has an   |
+|       **<1-99>**                                                                    |CLI interface which has an   |
 |                                                                                     |output of EXEC commands      | 
 |      **connect**    Open a terminal connection                                      |available                    |
 |                                                                                     |                             |
