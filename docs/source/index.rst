@@ -50,9 +50,9 @@ The **ProPatriot** difficulty is based on of the official CyberPatriot education
             <html lang="en-US">
 <body>
 
-<div id="google_translate_element"></div>
+            <div id="google_translate_element"></div>
 
-<script type="text/javascript">
+            <script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 }
