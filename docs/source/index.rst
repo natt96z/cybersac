@@ -44,6 +44,24 @@ The **IntermediatePatriot** difficulty is based on of the official CyberPatriot 
    
 The **ProPatriot** difficulty is based on of the official CyberPatriot education program's learning structure. This focuses on hardening computer software as well as setting up virtual machines. You will also be able to learn how to safely test penetration applications as well. (In an ethical hacking sort of way).
 
+
+.. raw:: html
+
+<html lang="en-US">
+<body>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+
 Hands-On Virtual Material Table of Contents/Glossary:
 *******************************************************
   
