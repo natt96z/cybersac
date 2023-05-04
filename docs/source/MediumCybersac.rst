@@ -331,13 +331,18 @@ Cisco Packet Tracer Exercise
 
 When it comes to using Cisco IOS on routers and switches, don't stress. With enough time and pratice, you'll get the hang of using the **Command Line Interface (CLI)**! Below we'll help you get started. 
 
-**INTRO!**: 
-First things first, if you ever do feel stuck or don't know what command to use, just type in **?** into the CLI. This will give you a list of commands that are avaible to your disposel!
+**INTRO!**:
+
+First things first, if you ever do feel stuck or don't know what command to use, just type in **?** into the CLI. This will give you a list of commands that are avaible at your disposel!
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/AD1.png
    :width: 50%
    :align: left
-^Image above shows at commands avaible at EXEC mode. 
+^The image above shows commands avaible at EXEC mode. 
+
+
+
+
 
 IntermediatePatriot CyberQuiz (Beta)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
