@@ -49,7 +49,6 @@ The **ProPatriot** difficulty is based on of the official CyberPatriot education
 
             <html lang="en-US">
 <body>
-
             <div id="google_translate_element"></div>
 
             <script type="text/javascript">
