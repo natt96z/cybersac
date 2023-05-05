@@ -336,7 +336,7 @@ When it comes to using Cisco IOS on routers and switches, don't stress. With eno
 First things first, if you ever do feel stuck or don't know what command to use, just type in **?** into the CLI. This will give you a list of commands that are avaible at your disposel!
 
 +-------------------------------------------------------------------------------------+-----------------------------+
-| ROUTER>**?**                                                                        |The colume to the left shows |
+| ROUTER> **?**                                                                       |The colume to the left shows |
 |                                                                                     |                             |
 |   EXEC commands:                                                                    |the input of **"?"** into the|
 |                                                                                     |                             |
@@ -363,13 +363,13 @@ First things first, if you ever do feel stuck or don't know what command to use,
 |                                                                                     |                             |
 |      **show** Show running system information                                       |                             |
 |                                                                                     |                             |
-|      **ssh** Open a sercure sheel client connection                                 |                             |
+|      **ssh** Open a sercure shell client connection                                 |                             |
 |                                                                                     |                             |
 |      **telnet** Open a telnet connection                                            |                             |
 |                                                                                     |                             |
 |      **terminal** Set terminal line parameters                                      |                             |
 |                                                                                     |                             |
-|      **tracerroute** Trace route to destination                                     |                             |
+|      **tracerroute** Traceroute to destination                                      |                             |
 |                                                                                     |                             |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
