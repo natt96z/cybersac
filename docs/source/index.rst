@@ -62,11 +62,4 @@ Hands-On Virtual Material Table of Contents/Glossary:
    Contact.rst
    feedback.rst
    DMCARequest.rst
-  
-.. raw:: html
-
-            <script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
-}
-</script>
+ 
