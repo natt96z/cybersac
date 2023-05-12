@@ -381,6 +381,29 @@ In this demonstration, we will be creating a network that has one switch and two
 
 3. We will need to select a cable to allow the computers to physically send data to each other. Within the [Connections] category we will choose the Copper Straight-Through cable.
 
+4. Once the Copper Straight-Through cable is selected, click on any of the two computers and select FastEthernet0. (In terms of a real word scenario, we are currently connecting an ethernet cable into an available ethernet port on a computer)
+
+5. Now move the mouse towards the switch and click on the switch. You will now see a lot more options to pick from. Options would include FastEthernet0/1 all the way through FastEthernet0/24. There are also options to connect to GigabitEthernet ports. In this demonstration we will be connecting the end of the cable into port FastEthernet0/1.
+
+6. Now repeat Step 3, 4, and 5 for the other computer you didn’t select at first. Now this time instead of selecting FastEthernet0/1 for a port on the switch, select FastEthernet0/2.
+
+As it stands the computers and switches are all physically prepared. Now we must head into the computers and configure them logically. (These next steps will all be done through the graphical interface that CISCO PACKET TRACER provides.)
+
+The next few steps have us configuring a computer’s IP Address. One analogy that an IP Address can be thought of as, is just simply a name. Every computer must be given a “name” (IP) so it can communicate in the network. (You need a name so the envelope can be sent to them)
+
+7. Click on any of the two computers we set up. A pop up window will appear with the Physical tab opened up. We will skip over this Physical tab and click the tab right of it, Config.
+
+8. The Config tab will display two sub-categories. GLOBAL and INTERFACE. We will be heading into the INTERFACE category and select FastEthernet0.
+
+9. Now within the FastEthernet0 tab, we will be implementing a static IPv4 Address along side a Subnet Mask. Under IP Configuration, type 192.168.10.15  into the text field of IPv4 Address.
+
+10. Type 255.255.255.0  into the text field of Subnet Mask which is still located under IP Configuration.
+
+There you go. Now we have logically configured one computer to be able to talk in the network. Now we will have to the same for the other computer you didn’t select at first.
+
+11. Repeat steps 7-10. This time instead of using  192.168.10.15 for the IPv4 Address, type 192.168.10.16.
+
+
 IntermediatePatriot CyberQuiz (Beta)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
