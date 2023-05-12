@@ -373,9 +373,13 @@ First things first, if you ever do feel stuck or don't know what command to use,
 |                                                                                     |                             |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
+In this demonstration, we will be creating a network that has one switch and two client computers. Our goal would be for the two computers to be able to communicate with each other. **Open a new Cisco Packet Tracer File**
 
+1. First we will be dragging out two computers from the [End Devices] category. This category can be found in the button left of the screen.
 
+2. Once that is done, we will drag out a switch from [Network devices] → [Switches] category. The [Switches] is a subcategory of the [Network Devices] category. In this demonstration, we will be using the 2950T-24 for the switch selected
 
+3. We will need to select a cable to allow the computers to physically send data to each other. Within the [Connections] category we will choose the Copper Straight-Through cable.
 
 IntermediatePatriot CyberQuiz (Beta)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
