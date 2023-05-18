@@ -398,6 +398,7 @@ The next few steps have us configuring a computer’s IP Address. One analogy th
 9. Now within the FastEthernet0 tab, we will be implementing a static IPv4 Address along side a Subnet Mask. Under IP Configuration, type 192.168.10.15  into the text field of the IPv4 Address.
 
 10. Type 255.255.255.0  into the text field of Subnet Mask, which is still located under IP Configuration. (In most cases it’ll automatically be configured as 255.255.255.0 without even typing it)
+
 There you go. We have logically configured one of the computers to be able to talk in the network. Now we will have to the same for the other computer you didn’t select at first. 
 
 11. Close out of the first pop-up tab and repeat steps 7-10. This time instead of using  192.168.10.15 for the IPv4 Address, type 192.168.10.16.
