@@ -349,6 +349,7 @@ In this demonstration, we will be creating a network that has one switch and two
 |
 |
 |
+|
 
 2. Once that is done, we will drag out a switch from **[Network devices]** → **[Switches]** category. The **[Switches]** is a subcategory of the **[Network Devices]** category. In this demonstration, we will be using the **2950T-24** for the switch selected
 
