@@ -375,6 +375,14 @@ There you go. We have logically configured one of the computers to be able to ta
 11. Close out of the first pop-up tab and repeat steps 7-10. This time instead of using  **192.168.10.15** for the **IPv4 Address**, type **192.168.10.16**.
 
 
+.. raw:: html
+
+    <style> .red {color:red} </style>
+
+.. role:: red
+
+:red:`test - this text should be red`
+
 Cisco Packet Tracer Exercise 2 (CLI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
