@@ -330,7 +330,7 @@ A picture containing graphical user interface
 
     <style> .blue {color:blue} </style>
 
-.. role:: blue
+.. role:: stlye1
 
 
 .. raw:: html
@@ -343,7 +343,7 @@ A picture containing graphical user interface
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **INTRO!**:
 
-:blue:`In this demonstration, we will be creating a network that has`  :red:`one switch and two client computers`. :blue:`Our goal would be for the two computers to be able to communicate with each other. We'll just be using the` :red:`graphical user interface` (:red:`GUI`) :blue:`for this example.` :red:`Open a new Cisco Packet Tracer File`
+:stlye1:`In this demonstration, we will be creating a network that has`  :red:`one switch and two client computers`. :stlye1:`Our goal would be for the two computers to be able to communicate with each other. We'll just be using the` :red:`graphical user interface` (:red:`GUI`) :stlye1:`for this example.` :stlye1:`Open a new Cisco Packet Tracer File`
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG1.png
    :width: 35%
