@@ -345,12 +345,7 @@ Cisco Packet Tracer Exercise 1 (GUI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **INTRO!**:
 
-:blue:`In this demonstration, we will be creating a network that has`  :red:`one switch and two client computers`. :blue:`Our goal would be for the two computers to be able to communicate with each other. We'll just be using the` :red:`graphical user interface` (:red:`GUI`) :blue:`for this example. Open a new Cisco Packet Tracer File`
-
-
-
-
-
+:blue:`In this demonstration, we will be creating a network that has`  :red:`one switch and two client computers`. :blue:`Our goal would be for the two computers to be able to communicate with each other. We'll just be using the` :red:`graphical user interface` (:red:`GUI`) :blue:`for this example.` :red:`Open a new Cisco Packet Tracer File`
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG1.png
    :width: 35%
@@ -363,19 +358,31 @@ Cisco Packet Tracer Exercise 1 (GUI)
 |
 |
 
-
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG2.png
    :width: 35%
    :align: right
    
 2. Once that is done, we will drag out a switch from **[Network devices]** → **[Switches]** category. The **[Switches]** is a subcategory of the **[Network Devices]** category. In this demonstration, we will be using the **2950T-24** for the switch selected
 
+|
 
 3. We will need to select a cable to allow the computers to physically send data to each other. Within the **[Connections]** category we will choose the **Copper Straight-Through** cable.
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG3.png
+   :width: 35%
+   :align: right
+
 4. Once the **Copper Straight-Through** cable is selected, click on any of the two computers and select **FastEthernet0**. (In terms of a real word scenario, we are currently connecting an ethernet cable into an available ethernet port on a computer) 
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG4.png
+   :width: 35%
+   :align: right
+
 5. Now move the mouse towards the switch and click on the switch. You will now see a lot more options to pick from. Options would include **FastEthernet0/1** all the way through **FastEthernet0/24**. There are also options to connect to **GigabitEthernet** ports. In this demonstration we will be connecting the end of the cable into port **FastEthernet0/1**.
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG4.png
+   :width: 35%
+   :align: right
 
 6. Now repeat Step 3, 4, and 5 for the other computer you didn’t select at first. Now this time instead of selecting **FastEthernet0/1** for a port on the switch, select **FastEthernet0/2**.
 
