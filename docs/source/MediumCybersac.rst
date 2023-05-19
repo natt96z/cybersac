@@ -332,13 +332,17 @@ A picture containing graphical user interface
 
 .. role:: blue
 
-:blue:`test - this text should be blue`
+    <style> .red {color:red} </style>
+
+.. role:: red
+
+:red:`test - this text should be red`
 
 Cisco Packet Tracer Exercise 1 (GUI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **INTRO!**:
 
-:blue:`In this demonstration, we will be creating a network that has **one switch and two client computers**. Our goal would be for the two computers to be able to communicate with each other. We'll just be using the **graphical user interface** (**GUI**) for this example. **Open a new Cisco Packet Tracer File**`
+:blue:`In this demonstration, we will be creating a network that has` **one switch and two client computers**. Our goal would be for the two computers to be able to communicate with each other. We'll just be using the **graphical user interface** (**GUI**) for this example. **Open a new Cisco Packet Tracer File**`
 
 
 
