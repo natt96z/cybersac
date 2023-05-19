@@ -362,7 +362,7 @@ Cisco Packet Tracer Exercise 1 (GUI)
    :width: 35%
    :align: right
    
-:blue:`2. Once that is done, we will drag out a switch from **[Network devices]** → **[Switches]** category. The **[Switches]** is a subcategory of the **[Network Devices]** category. In this demonstration, we will be using the **2950T-24** for the switch selected`
+:blue:`2. Once that is done, we will drag out a switch from` :red:`[Network devices]` :blue:` →` :red:`[Switches]` :blue:`category. The` :red:`[Switches]` is a subcategory of the :red:`[Network Devices]` category. In this demonstration, we will be using the :red:`2950T-24` for the switch selected
 
 |
 
