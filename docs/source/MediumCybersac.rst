@@ -467,11 +467,11 @@ A picture containing graphical user interface
 
 This next exercise will consist of configuring a router with the help of CISCO's :red:`Command Line Interface` !
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG6.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG11.png
    :width: 35%
    :align: right
 
-You'll should already have a network similiar to the one towards the right.
+You'll should already have a network similiar to the one towards the right. You'll have to repeat that exersice in order to add 
 
 |
 |
@@ -530,17 +530,17 @@ Output will be marked :blue:`blue`
 +-------------------------------------------------------------------------------------+-----------------------------+
 
 +-------------------------------------------------------------------------------------+-----------------------------+
-| Router# :red:`configure terminal`                                                                                 |
+| Router :blue:`#` :red:`configure terminal`                                                                                 |
 |                                                                                                                   |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
 +-------------------------------------------------------------------------------------+-----------------------------+
-| Router(config)# :red:`interface FastEthernet0/0`                                                                  |
+| Router :blue:`(config)`# :red:`interface FastEthernet0/0`                                                                  |
 |                                                                                                                   |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
 +-------------------------------------------------------------------------------------+-----------------------------+
-| Router(config-if)# :red:`ip address 192.168.10.1 255.255.255.0`                                                   |
+| Router(config :blue:`-if`)# :red:`ip address 192.168.10.1 255.255.255.0`                                                   |
 |                                                                                                                   |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
@@ -555,12 +555,12 @@ Output will be marked :blue:`blue`
 +-------------------------------------------------------------------------------------+-----------------------------+
 
 +-------------------------------------------------------------------------------------+-----------------------------+
-| Router(config)# :red:`interface FastEthernet0/1`                                                                  |
+| Router :blue:`(config)`# :red:`interface FastEthernet0/1`                                                                  |
 |                                                                                                                   |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
 +-------------------------------------------------------------------------------------+-----------------------------+
-| Router(config-if)# :red:`ip address 192.168.20.1 255.255.255.0`                                                   |
+| Router(config :blue:`-if`)# :red:`ip address 192.168.20.1 255.255.255.0`                                                   |
 |                                                                                                                   |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
