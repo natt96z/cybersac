@@ -372,15 +372,13 @@ Cisco Packet Tracer Exercise 1 (GUI)
 
 3. We will need to select a cable to allow the computers to physically send data to each other. Within the **[Connections]** category we will choose the **Copper Straight-Through** cable.
 
-|
-|
-
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG12.png
    :width: 35%
    :align: right
    
 4. Once the **Copper Straight-Through** cable is selected, click on any of the two computers and select **FastEthernet0**. (In terms of a real word scenario, we are currently connecting an ethernet cable into an available ethernet port on a computer) 
 
+|
 |
 
 5. Now move the mouse towards the switch and click on the switch. You will now see a lot more options to pick from. Options would include **FastEthernet0/1** all the way through **FastEthernet0/24**. There are also options to connect to **GigabitEthernet** ports. In this demonstration we will be connecting the end of the cable into port **FastEthernet0/1**.
