@@ -341,7 +341,7 @@ A picture containing graphical user interface
 
 :red:`Cisco Packet Tracer Exercise 1 (GUI)`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-**INTRO!**:
+:blue:`INTRO!:`
 
 :blue:`In this demonstration, we will be creating a network that has`  :red:`one switch and two client computers`. :blue:`Our goal would be for the two computers to be able to communicate with each other. We'll just be using the` :red:`graphical user interface` (:red:`GUI`) :blue:`for this example.` :blue:`Open a new Cisco Packet Tracer File`
 
