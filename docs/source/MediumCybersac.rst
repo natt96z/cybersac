@@ -357,7 +357,7 @@ Cisco Packet Tracer Exercise 1 (GUI)
 |
 
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG1.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG2.png
    :width: 35%
    :align: right
    
