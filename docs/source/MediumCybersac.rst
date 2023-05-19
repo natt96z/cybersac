@@ -335,7 +335,7 @@ A picture containing graphical user interface
 
 .. raw:: html
 
-    <style> .red {color:#aa0060; font-weight:bold; font-size:16px} </style>
+    <style> .red {color:red; font-weight:bold} </style>
 
 .. role:: red
 
@@ -369,6 +369,8 @@ Cisco Packet Tracer Exercise 1 (GUI)
    :align: right
    
 2. Once that is done, we will drag out a switch from **[Network devices]** → **[Switches]** category. The **[Switches]** is a subcategory of the **[Network Devices]** category. In this demonstration, we will be using the **2950T-24** for the switch selected
+
+|
 
 3. We will need to select a cable to allow the computers to physically send data to each other. Within the **[Connections]** category we will choose the **Copper Straight-Through** cable.
 
