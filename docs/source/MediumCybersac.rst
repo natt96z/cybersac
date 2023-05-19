@@ -332,7 +332,14 @@ Cisco Packet Tracer Exercise 1 (GUI)
 
 In this demonstration, we will be creating a network that has one switch and two client computers. Our goal would be for the two computers to be able to communicate with each other. We'll just be using the **graphical user interface** (**GUI**) for this example. **Open a new Cisco Packet Tracer File**
 
-1. First we will be dragging out two computers from the **[End Devices]** category. This category can be found in the button left of the screen.
+
+
+
+1. First we will be dragging out two computers from the **[End Devices]** category. This category can be found in the button left of the screen
+
+.. image:: https://github.com/natt96z/cybersac/blob/main/docs/img/GG1.png
+   :width: 25%
+   :align: left
 
 2. Once that is done, we will drag out a switch from **[Network devices]** → **[Switches]** category. The **[Switches]** is a subcategory of the **[Network Devices]** category. In this demonstration, we will be using the **2950T-24** for the switch selected
 
