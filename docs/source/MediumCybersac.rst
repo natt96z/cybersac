@@ -465,7 +465,17 @@ A picture containing graphical user interface
 :red:`Cisco Packet Tracer Exercise 2 (CLI)`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This next exercise will consist of configuring a switch and router with the help of CISCO's :red:`Command Line Interface` !
+This next exercise will consist of configuring a router with the help of CISCO's :red:`Command Line Interface` !
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG6.png
+   :width: 35%
+   :align: right
+
+You'll should already have a network similiar to the network towards the right.
+
+|
+|
+|
 
 When it comes to using Cisco IOS on routers and switches, don't stress. With enough time and pratice, you'll get the hang of using the :red:`Command Line Interface (CLI)`! Below we'll help you get started! 
 
