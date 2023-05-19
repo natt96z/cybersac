@@ -475,7 +475,7 @@ First things first, if you ever do feel stuck or don't know what command to use,
 +-------------------------------------------------------------------------------------+-----------------------------+
 | ROUTER> :red:`?`                                                                    |The colume to the left shows |
 |                                                                                     |                             |
-|   EXEC commands:                                                                    |the input of **"?"** into the|
+|   :red:`EXEC commands` :                                                            |the input of "?" into the    |
 |                                                                                     |                             |
 |      :red:`<1-99>`    Session number to resume                                      |CLI interface which has an   |
 |                                                                                     |                             |
