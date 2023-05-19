@@ -20,6 +20,13 @@ ProPatriot Welcome Tutorial - CyberSAC Site Tour
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/0Bo5NYCspPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Try A Windows 10 21H2 Online Virtual Simulator (Demo/Beta)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <iframe src="https://win10.webjeet.me/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="800px" allowfullscreen></iframe>
+
 
 Penetration and Vulnerability Testing Using Burp Suite
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
