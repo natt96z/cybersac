@@ -328,7 +328,7 @@ A picture containing graphical user interface
 
 .. raw:: html
 
-    <style> .red {color:blue} </style>
+    <style> .blue {color:blue} </style>
 
 .. role:: blue
 
