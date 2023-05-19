@@ -483,6 +483,7 @@ When it comes to using Cisco IOS on routers and switches, don't stress. With eno
 First things first, if you ever do feel stuck or don't know what command to use, just type in **?** into the CLI. This will give you a list of commands that are avaible at your disposel!
 
 Input commands will be marked :red:`red`
+
 Output will be marked :blue:`blue`
 
 +-------------------------------------------------------------------------------------+-----------------------------+
@@ -490,36 +491,36 @@ Output will be marked :blue:`blue`
 |                                                                                     |                             |
 |   :blue:`EXEC commands` :                                                           |the input of "?" into the    |
 |                                                                                     |                             |
-|      :blue:`<1-99>`    Session number to resume                                     |CLI interface which has an   |
+|      :blue:`<1-99>    Session number to resume`                                     |CLI interface which has an   |
 |                                                                                     |                             |
 |                                                                                     |output of EXEC commands      |
 |                                                                                     |                             |
-|      :blue:`connect`    Open a terminal connection                                  |available!                   |
+|      :blue:`connect    Open a terminal connection`                                  |available!                   |
 |                                                                                     |                             |
 |                                                                                     |                             |
-|      :blue:`disable`    Turn off privileged commands                                |                             |
+|      :blue:`disable    Turn off privileged commands`                                |                             |
 |                                                                                     |                             |
-|      :blue:`disconnect` Disconnect an existing network connection                   |                             |
+|      :blue:`disconnect Disconnect an existing network connection`                   |                             |
 |                                                                                     |                             |
-|      :blue:`enable` Turn on privileged commands                                     |                             |
+|      :blue:`enable Turn on privileged commands`                                     |                             |
 |                                                                                     |                             |
-|      :blue:`exit` Exit from the EXEC                                                |                             |
+|      :blue:`exit Exit from the EXEC`                                                |                             |
 |                                                                                     |                             |
-|      :blue:`logout` Exit from the EXEC                                              |                             |
+|      :blue:`logout Exit from the EXEC`                                              |                             |
 |                                                                                     |                             |
-|      :blue:`ping` Send echo messages                                                |                             |
+|      :blue:`ping Send echo messages`                                                |                             |
 |                                                                                     |                             |
-|      :blue:`resume` Resume an active network connection                             |                             |
+|      :blue:`resume Resume an active network connection`                             |                             |
 |                                                                                     |                             |
-|      :blue:`show` Show running system information                                   |                             |
+|      :blue:`show Show running system information`                                   |                             |
 |                                                                                     |                             |
-|      :blue:`ssh` Open a sercure shell client connection                             |                             |
+|      :blue:`ssh Open a sercure shell client connection`                             |                             |
 |                                                                                     |                             |
-|      :blue:`telnet` Open a telnet connection                                        |                             |
+|      :blue:`telnet Open a telnet connection`                                        |                             |
 |                                                                                     |                             |
-|      :blue:`terminal` Set terminal line parameters                                  |                             |
+|      :blue:`terminal Set terminal line parameters`                                  |                             |
 |                                                                                     |                             |
-|      :blue:`tracerroute` Traceroute to destination                                  |                             |
+|      :blue:`tracerroute Traceroute to destination`                                  |                             |
 |                                                                                     |                             |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
