@@ -339,7 +339,7 @@ A picture containing graphical user interface
 
 .. role:: red
 
-Cisco Packet Tracer Exercise 1 (GUI)
+:red:`Cisco Packet Tracer Exercise 1 (GUI)`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **INTRO!**:
 
