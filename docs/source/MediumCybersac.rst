@@ -374,7 +374,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
    
-4. Once the **Copper Straight-Through** cable is selected, click on any of the two computers and select **FastEthernet0**. (In terms of a real word scenario, we are currently connecting an ethernet cable into an available ethernet port on a computer) 
+:blue:`4. Once the` **Copper Straight-Through** :blue:`cable is selected, click on any of the two computers and select` **FastEthernet0** :blue:`. (In terms of a real word scenario, we are currently connecting an ethernet cable into an available ethernet port on a computer) `
 
 |
 |
