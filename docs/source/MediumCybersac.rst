@@ -459,7 +459,7 @@ There you go. We have logically configured one of the computers to be able to ta
 |
 
 
-Cisco Packet Tracer Exercise 2 (CLI)
+:red:`Cisco Packet Tracer Exercise 2 (CLI)`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This next exercise will consist of configuring a switch and router with the help of **CISCO's Command Line Interface**!
