@@ -374,7 +374,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
    
-:blue:`4. Once the` **Copper Straight-Through** :blue:`cable is selected, click on any of the two computers and select` **FastEthernet0** :blue:`.(In terms of a real word scenario, we are currently connecting an ethernet cable into an available ethernet port on a computer)`
+:blue:`4. Once the` :red:`Copper Straight-Through` :blue:`cable is selected, click on any of the two computers and select` :red:`FastEthernet0` :blue:`.(In terms of a real word scenario, we are currently connecting an ethernet cable into an available ethernet port on a computer)`
 
 |
 |
@@ -383,7 +383,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-5. Now move the mouse towards the switch and click on the switch. You will now see a lot more options to pick from. Options would include **FastEthernet0/1** all the way through **FastEthernet0/24**. There are also options to connect to **GigabitEthernet** ports. In this demonstration we will be connecting the end of the cable into port **FastEthernet0/1**.
+5. Now move the mouse towards the switch and click on the switch. You will now see a lot more options to pick from. Options would include :red:`FastEthernet0/1` all the way through :red:`FastEthernet0/24`. There are also options to connect to :red:`GigabitEthernet` ports. In this demonstration we will be connecting the end of the cable into port :red:`FastEthernet0/1`.
 
 |
 |
