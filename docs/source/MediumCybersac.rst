@@ -447,7 +447,16 @@ The next few steps have us configuring a computer’s **IP Address**. One analog
 
 There you go. We have logically configured one of the computers to be able to talk in the network. Now we will have to the same for the other computer you didn’t select at first. 
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG7.png
+   :width: 35%
+   :align: right
+
 11. Close out of the first pop-up tab and repeat steps 7-10. This time instead of using  **192.168.10.15** for the **IPv4 Address**, type **192.168.10.16**.
+
+|
+|
+|
+|
 
 
 Cisco Packet Tracer Exercise 2 (CLI)
