@@ -465,15 +465,15 @@ A picture containing graphical user interface
 :red:`Cisco Packet Tracer Exercise 2 (CLI)`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This next exercise will consist of configuring a switch and router with the help of CISCO's Command Line Interface**!
+This next exercise will consist of configuring a switch and router with the help of CISCO's :red:`Command Line Interface` !
 
-When it comes to using Cisco IOS on routers and switches, don't stress. With enough time and pratice, you'll get the hang of using the **Command Line Interface (CLI)**! Below we'll help you get started! 
+When it comes to using Cisco IOS on routers and switches, don't stress. With enough time and pratice, you'll get the hang of using the :red:`Command Line Interface (CLI)`! Below we'll help you get started! 
 
 
 First things first, if you ever do feel stuck or don't know what command to use, just type in **?** into the CLI. This will give you a list of commands that are avaible at your disposel!
 
 +-------------------------------------------------------------------------------------+-----------------------------+
-| ROUTER> **?**                                                                       |The colume to the left shows |
+| ROUTER> :red:`?`                                                                    |The colume to the left shows |
 |                                                                                     |                             |
 |   EXEC commands:                                                                    |the input of **"?"** into the|
 |                                                                                     |                             |
