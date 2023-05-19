@@ -341,7 +341,7 @@ In this demonstration, we will be creating a network that has **one switch and t
    :width: 35%
    :align: right
    
-1. First we will be dragging out two computers from the **[End Devices]** category. This category can be found in the button left of the screen
+1. First we will be dragging out two computers from the **[End Devices]** category. This category can be found in the plane, bottum left of the screen
 
 |
 |
