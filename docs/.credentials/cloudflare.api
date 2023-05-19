@@ -1,4 +1,4 @@
-echo '{ "query":
+echo '{ "RTD":
   "query ListFirewallEvents($zoneTag: string, $filter: FirewallEventsAdaptiveFilter_InputObject) {
     viewer {
       zones(filter: { zoneTag: $zoneTag }) {
@@ -23,8 +23,8 @@ echo '{ "query":
   "variables": {
     "zoneTag": "CLOUDFLARE_ZONE_ID",
     "filter": {
-      "datetime_geq": "2022-07-24T11:00:00Z",
-      "datetime_leq": "2022-07-24T12:00:00Z"
+      "datetime_geq": "2023-016-24T11:00:00Z",
+      "datetime_leq": "2023-016-24T12:00:00Z"
     }
   }
 }' | tr -d '\n' | curl \
