@@ -330,7 +330,7 @@ Cisco Packet Tracer Exercise 1 (GUI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **INTRO!**:
 
-In this demonstration, we will be creating a network that has one switch and two client computers. Our goal would be for the two computers to be able to communicate with each other. We'll just be using the grapphical user interface for this example. **Open a new Cisco Packet Tracer File**
+In this demonstration, we will be creating a network that has one switch and two client computers. Our goal would be for the two computers to be able to communicate with each other. We'll just be using the **graphical user interface** (**GUI**) for this example. **Open a new Cisco Packet Tracer File**
 
 1. First we will be dragging out two computers from the **[End Devices]** category. This category can be found in the button left of the screen.
 
