@@ -395,14 +395,15 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-6. Now repeat Step 3, 4, and 5 for the other computer you didn’t select at first. Now this time instead of selecting **FastEthernet0/1** for a port on the switch, select **FastEthernet0/2**.
+:blue:`6. Now repeat Step 3, 4, and 5 for the other computer you didn’t select at first. Now this time instead of selecting` **FastEthernet0/1** :blue:`for a port on the switch, select` **FastEthernet0/2**.
 
 |
 |
+|
 
-As it stands the computers and switches are all physically prepared. Now we must head into the computers and configure them logically. (These next steps will all be done through the **graphical interface** that CISCO PACKET TRACER provides.)
+:blue:`As it stands the computers and switches are all physically prepared. Now we must head into the computers and configure them logically. (These next steps will all be done through the` **graphical interface** :blue:`that CISCO PACKET TRACER provides.)`
 
-The next few steps have us configuring a computer’s **IP Address**. One analogy that an **IP Address** can be thought of as, is just simply a name. Every computer must be given a “name” (IP) so it can communicate in the network. (You need a name so the envelope can be sent to them). In this case the computer does not have a IP address automatically configured, so we will have to **statically** configure it.
+:blue:`The next few steps have us configuring a computer’s` **IP Address** :blue:`. One analogy that an` **IP Address** :blue:`can be thought of as, is just simply a name. Every computer must be given a “name” (IP) so it can communicate in the network. (You need a name so the envelope can be sent to them). In this case the computer does not have a IP address automatically configured, so we will have to` **statically** :blue:`configure it.`
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG5.png
    :width: 35%
