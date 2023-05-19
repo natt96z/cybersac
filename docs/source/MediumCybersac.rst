@@ -381,7 +381,16 @@ Cisco Packet Tracer Exercise 1 (GUI)
 |
 |
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG14.png
+   :width: 35%
+   :align: right
+
 5. Now move the mouse towards the switch and click on the switch. You will now see a lot more options to pick from. Options would include **FastEthernet0/1** all the way through **FastEthernet0/24**. There are also options to connect to **GigabitEthernet** ports. In this demonstration we will be connecting the end of the cable into port **FastEthernet0/1**.
+
+|
+|
+|
+|
 
 6. Now repeat Step 3, 4, and 5 for the other computer you didn’t select at first. Now this time instead of selecting **FastEthernet0/1** for a port on the switch, select **FastEthernet0/2**.
 
