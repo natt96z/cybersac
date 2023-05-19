@@ -490,36 +490,36 @@ Output will be marked :blue:`blue`
 |                                                                                     |                             |
 |   :blue:`EXEC commands` :                                                           |the input of "?" into the    |
 |                                                                                     |                             |
-|      :blue:`<1-99>`    Session number to resume                                      |CLI interface which has an   |
+|      :blue:`<1-99>`    Session number to resume                                     |CLI interface which has an   |
 |                                                                                     |                             |
 |                                                                                     |output of EXEC commands      |
 |                                                                                     |                             |
-|      :blue:`connect`    Open a terminal connection                                   |available!                   |
+|      :blue:`connect`    Open a terminal connection                                  |available!                   |
 |                                                                                     |                             |
 |                                                                                     |                             |
-|      :blue:`disable`    Turn off privileged commands                                 |                             |
+|      :blue:`disable`    Turn off privileged commands                                |                             |
 |                                                                                     |                             |
-|      :blue:`disconnect` Disconnect an existing network connection                    |                             |
+|      :blue:`disconnect` Disconnect an existing network connection                   |                             |
 |                                                                                     |                             |
-|      :blue:`enable` Turn on privileged commands                                      |                             |
+|      :blue:`enable` Turn on privileged commands                                     |                             |
 |                                                                                     |                             |
-|      :blue:`exit` Exit from the EXEC                                                 |                             |
+|      :blue:`exit` Exit from the EXEC                                                |                             |
 |                                                                                     |                             |
-|      :red:`logout` Exit from the EXEC                                               |                             |
+|      :blue:`logout` Exit from the EXEC                                              |                             |
 |                                                                                     |                             |
-|      :red:`ping` Send echo messages                                                 |                             |
+|      :blue:`ping` Send echo messages                                                |                             |
 |                                                                                     |                             |
-|      :red:`resume` Resume an active network connection                              |                             |
+|      :blue:`resume` Resume an active network connection                             |                             |
 |                                                                                     |                             |
-|      :red:`show` Show running system information                                    |                             |
+|      :blue:`show` Show running system information                                   |                             |
 |                                                                                     |                             |
-|      :red:`ssh` Open a sercure shell client connection                              |                             |
+|      :blue:`ssh` Open a sercure shell client connection                             |                             |
 |                                                                                     |                             |
-|      :red:`telnet` Open a telnet connection                                         |                             |
+|      :blue:`telnet` Open a telnet connection                                        |                             |
 |                                                                                     |                             |
-|      :red:`terminal` Set terminal line parameters                                   |                             |
+|      :blue:`terminal` Set terminal line parameters                                  |                             |
 |                                                                                     |                             |
-|      :red:`tracerroute` Traceroute to destination                                   |                             |
+|      :blue:`tracerroute` Traceroute to destination                                  |                             |
 |                                                                                     |                             |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
