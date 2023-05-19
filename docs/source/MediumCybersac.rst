@@ -332,12 +332,6 @@ A picture containing graphical user interface
 
 .. role:: blue
 
-    <style> .red {color:red} </style>
-
-.. role:: red
-
-:red:`test - this text should be red`
-
 Cisco Packet Tracer Exercise 1 (GUI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **INTRO!**:
