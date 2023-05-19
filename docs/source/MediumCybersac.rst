@@ -419,7 +419,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-:blue:`8. The Config tab will display two sub-categories.` **GLOBAL** :blue:`and` **INTERFACE**:blue:`. We will be heading into the` **INTERFACE** :blue:`category and select` **FastEthernet0**.
+:blue:`8. The Config tab will display two sub-categories.` **GLOBAL** :blue:`and` **INTERFACE** :blue:`. We will be heading into the` **INTERFACE** :blue:`category and select` **FastEthernet0**.
 
 |
 |
