@@ -409,7 +409,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-7. Click on any of the two computers we set up. A pop up window will appear with the **Physical** tab opened up. We will skip over this **Physical** tab and click the tab right of it, **Config**.
+:blue:`7. Click on any of the two computers we set up. A pop up window will appear with the` **Physical** :blue:`tab opened up. We will skip over this` **Physical** :blue:`tab and click the tab right of it,` **Config**.
 
 |
 |
@@ -419,7 +419,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-8. The Config tab will display two sub-categories. **GLOBAL** and **INTERFACE**. We will be heading into the **INTERFACE** category and select **FastEthernet0**.
+:blue:`8. The Config tab will display two sub-categories.` **GLOBAL** :blue:`and` **INTERFACE**:blue:`. We will be heading into the` **INTERFACE** :blue:`category and select` **FastEthernet0**.
 
 |
 |
