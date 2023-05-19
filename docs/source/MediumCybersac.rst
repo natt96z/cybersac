@@ -413,11 +413,34 @@ The next few steps have us configuring a computer’s **IP Address**. One analog
 |
 |
 
-8. The Config tab will display two sub-categories. **GLOBAL** and **INTERFACE**. We will be heading into the **INTERFACE** category and select **FastEthernet0**. 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG15.png
+   :width: 35%
+   :align: right
+
+8. The Config tab will display two sub-categories. **GLOBAL** and **INTERFACE**. We will be heading into the **INTERFACE** category and select **FastEthernet0**.
+
+|
+|
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG16.png
+   :width: 35%
+   :align: right
 
 9. Now within the **FastEthernet0** tab, we will be implementing a **static IPv4** Address along side a **Subnet Mask**. Under **IP Configuration**, type **192.168.10.15**  into the text field of the **IPv4 Address**.
 
+|
+|
+|
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG6.png
+   :width: 35%
+   :align: right
+
 10. Type **255.255.255.0**  into the text field of Subnet Mask, which is still located under **IP Configuration**. (In most cases it’ll automatically be configured as **255.255.255.0** without even typing it)
+
+|
+|
+|
 
 There you go. We have logically configured one of the computers to be able to talk in the network. Now we will have to the same for the other computer you didn’t select at first. 
 
