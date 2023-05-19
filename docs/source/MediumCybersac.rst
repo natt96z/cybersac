@@ -338,8 +338,8 @@ In this demonstration, we will be creating a network that has one switch and two
 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG1.png
-   :width: 25%
-   :align: left
+   :width: 50%
+   :align: right
    
 1. First we will be dragging out two computers from the **[End Devices]** category. This category can be found in the button left of the screen
 |
