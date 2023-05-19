@@ -477,36 +477,36 @@ First things first, if you ever do feel stuck or don't know what command to use,
 |                                                                                     |                             |
 |   EXEC commands:                                                                    |the input of **"?"** into the|
 |                                                                                     |                             |
-|      **<1-99>**    Session number to resume                                         |CLI interface which has an   |
+|      :red:`<1-99>`    Session number to resume                                      |CLI interface which has an   |
 |                                                                                     |                             |
 |                                                                                     |output of EXEC commands      |
 |                                                                                     |                             |
-|      **connect**    Open a terminal connection                                      |available!                   |
+|      :red:`connect`    Open a terminal connection                                   |available!                   |
 |                                                                                     |                             |
 |                                                                                     |                             |
-|      **disable**    Turn off privileged commands                                    |                             |
+|      :red:`disable`    Turn off privileged commands                                 |                             |
 |                                                                                     |                             |
-|      **disconnect** Disconnect an existing network connection                       |                             |
+|      :red:`disconnect` Disconnect an existing network connection                    |                             |
 |                                                                                     |                             |
-|      **enable** Turn on privileged commands                                         |                             |
+|      :red:`enable` Turn on privileged commands                                      |                             |
 |                                                                                     |                             |
-|      **exit** Exit from the EXEC                                                    |                             |
+|      :red:`exit` Exit from the EXEC                                                 |                             |
 |                                                                                     |                             |
-|      **logout** Exit from the EXEC                                                  |                             |
+|      :red:`logout` Exit from the EXEC                                               |                             |
 |                                                                                     |                             |
-|      **ping** Send echo messages                                                    |                             |
+|      :red:`ping` Send echo messages                                                 |                             |
 |                                                                                     |                             |
-|      **resume** Resume an active network connection                                 |                             |
+|      :red:`resume` Resume an active network connection                              |                             |
 |                                                                                     |                             |
-|      **show** Show running system information                                       |                             |
+|      :red:`show` Show running system information                                    |                             |
 |                                                                                     |                             |
-|      **ssh** Open a sercure shell client connection                                 |                             |
+|      :red:`ssh` Open a sercure shell client connection                              |                             |
 |                                                                                     |                             |
-|      **telnet** Open a telnet connection                                            |                             |
+|      :red:`telnet` Open a telnet connection                                         |                             |
 |                                                                                     |                             |
-|      **terminal** Set terminal line parameters                                      |                             |
+|      :red:`terminal` Set terminal line parameters                                   |                             |
 |                                                                                     |                             |
-|      **tracerroute** Traceroute to destination                                      |                             |
+|      :red:`tracerroute` Traceroute to destination                                   |                             |
 |                                                                                     |                             |
 +-------------------------------------------------------------------------------------+-----------------------------+
 
