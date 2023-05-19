@@ -390,6 +390,7 @@ A picture containing graphical user interface
 |
 |
 |
+|
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG4.png
    :width: 35%
