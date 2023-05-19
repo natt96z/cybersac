@@ -390,7 +390,14 @@ Cisco Packet Tracer Exercise 1 (GUI)
 |
 |
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG4.png
+   :width: 35%
+   :align: right
+
 6. Now repeat Step 3, 4, and 5 for the other computer you didn’t select at first. Now this time instead of selecting **FastEthernet0/1** for a port on the switch, select **FastEthernet0/2**.
+
+|
+|
 
 As it stands the computers and switches are all physically prepared. Now we must head into the computers and configure them logically. (These next steps will all be done through the **graphical interface** that CISCO PACKET TRACER provides.)
 
