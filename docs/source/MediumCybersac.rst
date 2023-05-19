@@ -421,6 +421,9 @@ The next few steps have us configuring a computer’s **IP Address**. One analog
 
 |
 |
+|
+|
+|
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG16.png
    :width: 35%
