@@ -384,7 +384,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-5. :blue:`Now move the mouse towards the switch and click on the switch. You will now see a lot more options to pick from. Options would include` :red:`FastEthernet0/1` :blue:`all the way through` :red:`FastEthernet0/24` :blue:`. There are also options to connect to` :red:`GigabitEthernet` :blue:`ports. In this demonstration we will be connecting the end of the cable into port` :red:`FastEthernet0/1`.
+:blue:`5. Now move the mouse towards the switch and click on the switch. You will now see a lot more options to pick from. Options would include` :red:`FastEthernet0/1` :blue:`all the way through` :red:`FastEthernet0/24` :blue:`. There are also options to connect to` :red:`GigabitEthernet` :blue:`ports. In this demonstration we will be connecting the end of the cable into port` :red:`FastEthernet0/1`.
 
 |
 |
