@@ -326,11 +326,19 @@ A picture containing graphical user interface
 
 **Control Plane** - Routing protocols and routers that talk with one another. Where the device learns what action to take on the data. No data moves until the control and this plane makes a decision on the best path to deliver the data.
 
+.. raw:: html
+
+    <style> .red {color:blue} </style>
+
+.. role:: blue
+
+:blue:`test - this text should be blue`
+
 Cisco Packet Tracer Exercise 1 (GUI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **INTRO!**:
 
-In this demonstration, we will be creating a network that has **one switch and two client computers**. Our goal would be for the two computers to be able to communicate with each other. We'll just be using the **graphical user interface** (**GUI**) for this example. **Open a new Cisco Packet Tracer File**
+:blue:`In this demonstration, we will be creating a network that has **one switch and two client computers**. Our goal would be for the two computers to be able to communicate with each other. We'll just be using the **graphical user interface** (**GUI**) for this example. **Open a new Cisco Packet Tracer File**`
 
 
 
@@ -383,14 +391,6 @@ There you go. We have logically configured one of the computers to be able to ta
 
 11. Close out of the first pop-up tab and repeat steps 7-10. This time instead of using  **192.168.10.15** for the **IPv4 Address**, type **192.168.10.16**.
 
-
-.. raw:: html
-
-    <style> .red {color:red} </style>
-
-.. role:: red
-
-:red:`test - this text should be red`
 
 Cisco Packet Tracer Exercise 2 (CLI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
