@@ -396,21 +396,21 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-:blue:`6. Now repeat Step 3, 4, and 5 for the other computer you didn’t select at first. Now this time instead of selecting` **FastEthernet0/1** :blue:`for a port on the switch, select` **FastEthernet0/2**.
+:blue:`6. Now repeat Step 3, 4, and 5 for the other computer you didn’t select at first. Now this time instead of selecting` :red:`FastEthernet0/1` :blue:`for a port on the switch, select` :red:`FastEthernet0/2.`
 
 |
 |
 |
 
-:blue:`As it stands the computers and switches are all physically prepared. Now we must head into the computers and configure them logically. (These next steps will all be done through the` **graphical interface** :blue:`that CISCO PACKET TRACER provides.)`
+:blue:`As it stands the computers and switches are all physically prepared. Now we must head into the computers and configure them logically. (These next steps will all be done through the` :red:`graphical interface` :blue:`that CISCO PACKET TRACER provides.)`
 
-:blue:`The next few steps have us configuring a computer’s` **IP Address** :blue:`. One analogy that an` **IP Address** :blue:`can be thought of as, is just simply a name. Every computer must be given a “name” (IP) so it can communicate in the network. (You need a name so the envelope can be sent to them). In this case the computer does not have a IP address automatically configured, so we will have to` **statically** :blue:`configure it.`
+:blue:`The next few steps have us configuring a computer’s` :red:`IP Address` :blue:`. One analogy that an` :red:`IP Address` :blue:`can be thought of as, is just simply a name. Every computer must be given a “name” (IP) so it can communicate in the network. (You need a name so the envelope can be sent to them). In this case the computer does not have a IP address automatically configured, so we will have to` :red:`statically` :blue:`configure it.`
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG5.png
    :width: 35%
    :align: right
 
-:blue:`7. Click on any of the two computers we set up. A pop up window will appear with the` **Physical** :blue:`tab opened up. We will skip over this` **Physical** :blue:`tab and click the tab right of it,` **Config**.
+:blue:`7. Click on any of the two computers we set up. A pop up window will appear with the` :red:`Physical` :blue:`tab opened up. We will skip over this` :red:`Physical` :blue:`tab and click the tab right of it,` :red:`Config.`
 
 |
 |
@@ -420,7 +420,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-:blue:`8. The Config tab will display two sub-categories.` **GLOBAL** :blue:`and` **INTERFACE** :blue:`. We will be heading into the` **INTERFACE** :blue:`category and select` **FastEthernet0**.
+:blue:`8. The Config tab will display two sub-categories.` :red:`GLOBAL` :blue:`and` :red:`INTERFACE` :blue:`. We will be heading into the` :red:`INTERFACE` :blue:`category and select` :red:`FastEthernet0.`
 
 |
 |
@@ -432,7 +432,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-:blue:`9. Now within the` **FastEthernet0** :blue:`tab, we will be implementing a` **static IPv4** :blue:`Address along side a` **Subnet Mask** :blue:`. Under` **IP Configuration** :blue:`, type` **192.168.10.15**  :blue:`into the text field of the` **IPv4 Address**.
+:blue:`9. Now within the` :red:`FastEthernet0` :blue:`tab, we will be implementing a` :red:`static IPv4` :blue:`Address along side a` :red:`Subnet Mask` :blue:`. Under` :red:`IP Configuration` :blue:`, type` :red:`192.168.10.15`  :blue:`into the text field of the` :red:`IPv4 Address.`
 
 |
 |
@@ -442,7 +442,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-:blue:`10. Type` **255.255.255.0**  :blue:`into the text field of Subnet Mask, which is still located under` **IP Configuration** :blue:`. (In most cases it’ll automatically be configured as` **255.255.255.0** :blue:`without even typing it)`
+:blue:`10. Type` :red:`255.255.255.0*` :blue:`into the text field of Subnet Mask, which is still located under` :red:`IP Configuration` :blue:`. (In most cases it’ll automatically be configured as` :red:`255.255.255.0` :blue:`without even typing it)`
 
 |
 |
@@ -454,7 +454,7 @@ A picture containing graphical user interface
    :width: 35%
    :align: right
 
-:blue:`11. Close out of the first pop-up tab and repeat steps 7-10. This time instead of using`  **192.168.10.15** :blue:`for the` **IPv4 Address** :blue:`, type` **192.168.10.16**.
+:blue:`11. Close out of the first pop-up tab and repeat steps 7-10. This time instead of using`  :red:`192.168.10.15` :blue:`for the` :red:`IPv4 Address` :blue:`, type` :red:`192.168.10.16.`
 
 |
 |
@@ -465,7 +465,7 @@ A picture containing graphical user interface
 :red:`Cisco Packet Tracer Exercise 2 (CLI)`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This next exercise will consist of configuring a switch and router with the help of **CISCO's Command Line Interface**!
+This next exercise will consist of configuring a switch and router with the help of CISCO's Command Line Interface**!
 
 When it comes to using Cisco IOS on routers and switches, don't stress. With enough time and pratice, you'll get the hang of using the **Command Line Interface (CLI)**! Below we'll help you get started! 
 
