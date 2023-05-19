@@ -471,7 +471,7 @@ This next exercise will consist of configuring a router with the help of CISCO's
    :width: 35%
    :align: right
 
-You'll should already have a network similiar to the network towards the right.
+You'll should already have a network similiar to the one towards the right.
 
 |
 |
@@ -482,25 +482,28 @@ When it comes to using Cisco IOS on routers and switches, don't stress. With eno
 
 First things first, if you ever do feel stuck or don't know what command to use, just type in **?** into the CLI. This will give you a list of commands that are avaible at your disposel!
 
+Input commands will be marked :red:`red`
+Output will be marked :blue:`blue`
+
 +-------------------------------------------------------------------------------------+-----------------------------+
 | ROUTER> :red:`?`                                                                    |The colume to the left shows |
 |                                                                                     |                             |
-|   :red:`EXEC commands` :                                                            |the input of "?" into the    |
+|   :blue:`EXEC commands` :                                                           |the input of "?" into the    |
 |                                                                                     |                             |
-|      :red:`<1-99>`    Session number to resume                                      |CLI interface which has an   |
+|      :blue:`<1-99>`    Session number to resume                                      |CLI interface which has an   |
 |                                                                                     |                             |
 |                                                                                     |output of EXEC commands      |
 |                                                                                     |                             |
-|      :red:`connect`    Open a terminal connection                                   |available!                   |
+|      :blue:`connect`    Open a terminal connection                                   |available!                   |
 |                                                                                     |                             |
 |                                                                                     |                             |
-|      :red:`disable`    Turn off privileged commands                                 |                             |
+|      :blue:`disable`    Turn off privileged commands                                 |                             |
 |                                                                                     |                             |
-|      :red:`disconnect` Disconnect an existing network connection                    |                             |
+|      :blue:`disconnect` Disconnect an existing network connection                    |                             |
 |                                                                                     |                             |
-|      :red:`enable` Turn on privileged commands                                      |                             |
+|      :blue:`enable` Turn on privileged commands                                      |                             |
 |                                                                                     |                             |
-|      :red:`exit` Exit from the EXEC                                                 |                             |
+|      :blue:`exit` Exit from the EXEC                                                 |                             |
 |                                                                                     |                             |
 |      :red:`logout` Exit from the EXEC                                               |                             |
 |                                                                                     |                             |
