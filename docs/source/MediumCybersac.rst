@@ -403,7 +403,15 @@ As it stands the computers and switches are all physically prepared. Now we must
 
 The next few steps have us configuring a computer’s **IP Address**. One analogy that an **IP Address** can be thought of as, is just simply a name. Every computer must be given a “name” (IP) so it can communicate in the network. (You need a name so the envelope can be sent to them). In this case the computer does not have a IP address automatically configured, so we will have to **statically** configure it.
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG5.png
+   :width: 35%
+   :align: right
+
 7. Click on any of the two computers we set up. A pop up window will appear with the **Physical** tab opened up. We will skip over this **Physical** tab and click the tab right of it, **Config**.
+
+|
+|
+|
 
 8. The Config tab will display two sub-categories. **GLOBAL** and **INTERFACE**. We will be heading into the **INTERFACE** category and select **FastEthernet0**. 
 
