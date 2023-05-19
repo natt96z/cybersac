@@ -351,7 +351,7 @@ Cisco Packet Tracer Exercise 1 (GUI)
    :width: 35%
    :align: right
    
-1. First we will be dragging out two computers from the **[End Devices]** category. This category can be found in the plane, bottum left of the screen
+:blue:`1. First we will be dragging out two computers from the` :red:`[End Devices]` :blue:`category. This category can be found in the plane, bottum left of the screen`
 
 |
 |
@@ -362,7 +362,7 @@ Cisco Packet Tracer Exercise 1 (GUI)
    :width: 35%
    :align: right
    
-:blue:`2. Once that is done, we will drag out a switch from` :red:`[Network devices]` :blue:`→` :red:`[Switches]` :blue:`category. The` :red:`[Switches]` is a subcategory of the :red:`[Network Devices]` category. In this demonstration, we will be using the :red:`2950T-24` for the switch selected
+:blue:`2. Once that is done, we will drag out a switch from` :red:`[Network devices]` :blue:`→` :red:`[Switches]` :blue:`category. The` :red:`[Switches]` :blue:`is a subcategory of the` :red:`[Network Devices]` :blue:`category. In this demonstration, we will be using the` :red:`2950T-24` :blue:`for the switch selected`
 
 |
 
