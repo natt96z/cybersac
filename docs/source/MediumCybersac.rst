@@ -339,8 +339,6 @@ A picture containing graphical user interface
 
 .. role:: red
 
-:red:`test - this text should be red`
-
 Cisco Packet Tracer Exercise 1 (GUI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **INTRO!**:
@@ -370,7 +368,7 @@ Cisco Packet Tracer Exercise 1 (GUI)
    :width: 35%
    :align: right
 
-3. We will need to select a cable to allow the computers to physically send data to each other. Within the **[Connections]** category we will choose the **Copper Straight-Through** cable.
+:blue:`3. We will need to select a cable to allow the computers to physically send data to each other. Within the` :red:`[Connections]` :blue:`category we will choose the` :red:`Copper Straight-Through` :blue:`cable.`
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/GG12.png
    :width: 35%
