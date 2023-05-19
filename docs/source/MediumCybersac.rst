@@ -365,7 +365,6 @@ Cisco Packet Tracer Exercise 1 (GUI)
 
 |
 |
-|
 
 3. We will need to select a cable to allow the computers to physically send data to each other. Within the **[Connections]** category we will choose the **Copper Straight-Through** cable.
 
