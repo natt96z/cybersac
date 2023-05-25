@@ -73,7 +73,7 @@ EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 
 .. Note:: Viruses - a virus is a program that replicates by attaching itself to other programs. The infected program must be executed for a virus to run. The program might be an application, a macro in a document, a Windows system file, or a boot loader program. 
 
-A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup and before security software can be executed, the virus executes a malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
+A **boot sector virus** is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. During startup, and before security software can be executed, the virus executes a malicious code. Once a computer is infected, a boot sector virus will try to infect every disk that is accessed on the infected system. 
 
 A **browser hijacker** is a malware program, that modifies web browser settings, without the user's permission and redirects the user to websites the user had not intended to visit. It is often called, a browser redirect virus, because it redirects the browser to other, usually, malicious websites. 
 
@@ -83,7 +83,7 @@ A **file-infecting virus** is a type of malware that infects executable files wi
 
 A **macro virus** is written in the same macro language, used to create software programs, such as Microsoft Excel or Word. It centers on software applications and does not depend on the operating system (OS). As a result, it can infect any computer running any kind of OS, including Windows, macOS and Linux. 
 
-A **multipartite virus** is a fast-moving virus that uses file infectors or boot infectors to attack the boot sector and executable files simultaneously. Most viruses either affect the boot sector, the system, or the program files. 
+A **multipartite virus** is a fast-moving virus, that uses file infectors or boot infectors, to attack the boot sector and executable files simultaneously. Most viruses either affect the boot sector, the system, or the program files. 
 
 An **overwriting virus** is a malicious program which, after infection, will effectively destroy the original program code, typically, by overwriting data in the system's memory. 
 
@@ -115,11 +115,11 @@ Experts state that, the most difficult aspect of this malware is the fact that, 
 
 **Shlayer malware** 
 
-This type of malware plagues macOS devices, relies on Flash updates and social engineering tactics, in order to dupe victims into installing the malware on devices. Initially, hackers used a specific zero-day vulnerability to launch this threat. However, hackers are coming up with new schemes to get this malware onto computers that largely hinge on social engineering tactics. 
+This type of malware plagues macOS devices, relies on Flash updates and social engineering tactics, in order to dupe victims into installing the malware on devices. Initially, hackers used a specific zero-day vulnerability to launch this threat. However, hackers are coming up with new schemes to get this malware onto computers, that largely hinge on social engineering tactics. 
 
 **Agent Tesla** 
 
-Agent Tesla is a powerful, easy-to-use form of spyware. Specifically, Agent Tesla is a Remote Access Trojan (RAT) that exfiltrates credentials, logs keystrokes, copies clipboard data and collects images from a victim’s computer. In recent years, malware has seen a huge surge in popularity, and more than 6,000 nefarious persons pay subscription fees in order to license the software. The malware includes a wealth of features designed to help it remain undetected by network systems and often arrives in the form of an email attachment. 
+Agent Tesla is a powerful, easy-to-use form of spyware. Specifically, Agent Tesla is a Remote Access Trojan (RAT), that exfiltrates credentials, logs keystrokes, copies clipboard data and collects images from a victim’s computer. In recent years, malware has seen a huge surge in popularity, and more than 6,000 nefarious persons pay subscription fees in order to license the software. The malware includes a wealth of features designed to help it remain undetected by network systems and often arrives in the form of an email attachment. 
 
 **RaaS** 
 
@@ -198,12 +198,12 @@ Exploit attacks take advantage of security holes, in popular applications, using
 **Core Knowledge: How does online phishing work?**
  
 .. Note::
-1. The phisher starts by choosing their intended victims (whether at the organizational or individual level) and develops tactics to gather information they can use to attack. 
-2. The phisher will next construct techniques like counterfeit emails or fake websites to transmit messages that tempt their victims into providing data. 
+1. The phisher starts by choosing their intended victims, (whether at the organizational or individual level), and develops tactics to gather information they can use to attack. 
+2. The phisher will next construct techniques, like counterfeit emails or fake websites, to transmit messages that tempt their victims into providing data. 
 
 3. The attack then starts when phishers send victims messages that seem legitimate. 
 
-4. Once the attack has been launched, the phishers will watch and gather the information that the victims enter on the phony web pages. 
+4. Once the attack has been launched, the phishers will watch and gather the information, that the victims enter on the phony web pages. 
 
 5. Finally, phishers exploit the information they have gathered to make fraudulent or unlawful purchases. 
 
@@ -211,7 +211,7 @@ Exploit attacks take advantage of security holes, in popular applications, using
    :width: 58%
    :align: center
 
-**Lets test out Phishing Box's Phishing Test!:** This online test will see if you can tell the difference, between a phishing attempt and a legitimate form of communication, through email and or other messaging platforms. Spam emails, and even ones that hit our regular inbox, are secretly set up to scrape important user data from us with clone like tactics, such as password recovery and bank statements that seem real but arent. 
+**Lets test out Phishing Box's Phishing Test!:** This online test will see if you can tell the difference, between a phishing attempt and a legitimate form of communication, through email and or other messaging platforms. Spam emails, and even ones that hit our regular inbox, are secretly set up to scrape important user data from us with clone like tactics, such as, password recovery and bank statements that seem real but arent. 
 
 
 Take the phishing test online now `Click or Tap to Begin Test`_.
@@ -219,7 +219,7 @@ Take the phishing test online now `Click or Tap to Begin Test`_.
 .. _Click or Tap to Begin Test: https://www.phishingbox.com/phishing-test/
 
 .. Note:: 
-Use uBlock Origin to avoid incorrect download button and malicious pop ups. The uBlock Origin is a cross-platform, free and open-source browser extension, for content filtering, that is primarily intended to counteract privacy invasion in an effective and user-friendly way. Blocking annoying full screen ads, removing fake download buttons and preventing sketchy pop-ups can keep your web surfing safe!
+Use uBlock Origin to avoid incorrect download button and malicious pop ups. The uBlock Origin is a cross-platform, free and open-source browser extension, for content filtering, that is primarily intended to counteract privacy invasion in an effective and user-friendly way. Blocking annoying full screen ads, removing fake download buttons and preventing sketchy pop-ups, can keep your web surfing safe!
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/42.jpg
    :width: 50%
@@ -262,7 +262,7 @@ White hat hackers, however, want to assist a company in strengthening its securi
    :align: center
    
 
-Gray hat hackers are there between white and black hackers. Black hat and white hat hacking tactics are combined by gray hat hackers. Gray hat hackers, frequently, scan systems for vulnerabilities without the owner's knowledge or consent. If problems are discovered in hardware and sofrware, they notify the owner and may, occasionally, demand a modest fee to have the issue resolved, but not by force. Usually, bugs and exploits also get leaked into public spaces by this type of hacker, thing, such as smartphone jailbreaking and game console exploits are common with these hackers. 
+Gray hat hackers are there between white and black hackers. Black hat and white hat hacking tactics are combined by gray hat hackers. Gray hat hackers, frequently, scan systems for vulnerabilities without the owner's knowledge or consent. If problems are discovered in hardware and software, they notify the owner and may, occasionally, demand a modest fee to have the issue resolved, but not by force. Usually, bugs and exploits also get leaked into public spaces by this type of hacker, thing, such as, smartphone jailbreaking and game console exploits are common with these hackers. 
 
 
 **Black Hat Hacker (The Ugly)**
