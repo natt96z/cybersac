@@ -35,9 +35,10 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 
 **#2**
 
+.. raw:: html
+
 	<details>
 		<summary>Details</summary>
-		.. raw:: html
 
 <iframe src="https://drive.google.com/file/d/1qsIAf-xW30A3jjJuWxTnAeUaH0fwvZl0/preview" width="640" height="480" allow="autoplay"></iframe>
 	</details>
