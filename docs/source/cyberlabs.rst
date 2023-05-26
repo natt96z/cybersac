@@ -1,4 +1,4 @@
-**CyberLabs Tutorials**
+**CyberSAC CyberLabs**
 =============================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/01a9c18e46512c573e128481c80f2c97.png
