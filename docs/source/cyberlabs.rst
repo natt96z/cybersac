@@ -9,9 +9,7 @@
    :width: 56%
    :align: center
 
-.. code-block:: 
-
-This page is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs, we mostly cover Linux, Windows and Cisco material. Material provided is subject to change, every powerpoint provides a tutorial on how to set up applications, use virtual machines and configure servers and security policies.
+.. code-block:: This page is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs, we mostly cover Linux, Windows and Cisco material. Material provided is subject to change, every powerpoint provides a tutorial on how to set up applications, use virtual machines and configure servers and security policies.
 
 
 Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Machine
