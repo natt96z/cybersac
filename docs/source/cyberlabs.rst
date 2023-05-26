@@ -27,7 +27,7 @@ Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Ma
 Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With An Emulator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Tutorial Material #1**
+**Lecture Tutorial Material #1**
 
 .. raw:: html
 
@@ -39,7 +39,7 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 	</details>
 
 
-**Tutorial Material #2**
+**Lecture Tutorial Material #2**
 
 .. raw:: html
 
@@ -51,7 +51,7 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 	</details>
 
 
-**Tutorial Material #3**
+**Lecture Tutorial Material #3**
 
 .. raw:: html
 
@@ -65,3 +65,9 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 
 Linux OS Practice Lab - Learn Ubuntu Linux Fundamentals With A Virtual Machine
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Lecture Tutorial Material #1**
+
+
+
+
