@@ -23,6 +23,11 @@ Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Ma
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
+(link)[https://rsccd-my.sharepoint.com/:p:/g/personal/ah61195_student_sac_edu/EdVIH7_KZHVClbLHti-wXEoBmks6c-XiTLd-dVWNIxC8og?e=p24JA8]
+
+
+Note: need to change link to make publicly accessible
+
 
 Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With An Emulator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
