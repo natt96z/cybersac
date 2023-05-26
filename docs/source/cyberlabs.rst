@@ -23,7 +23,7 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. raw:: html
 
-      <iframe src="https://drive.google.com/file/d/1ecJ2HhMEmD2Fh74kMo3soAb-_QyWvZY3/view" width="640" height="480" allow="autoplay"></iframe>
+      <iframe src="https://drive.google.com/file/d/1ecJ2HhMEmD2Fh74kMo3soAb-_QyWvZY3/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
 
 
 Linux OS Practice Lab - Learn Ubuntu Linux Fundamentals With A Virtual Machine
