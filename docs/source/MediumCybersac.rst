@@ -326,7 +326,27 @@ A picture containing graphical user interface
 
 **Control Plane** - Routing protocols and routers that talk with one another. Where the device learns what action to take on the data. No data moves until the control and this plane makes a decision on the best path to deliver the data.
 
+|
+|
 
+**A little analogy of routers and switches**
+
+
++-------------------------------------------------------------------------------------+-----------------------------+
+|What is a switch. If we can best explain it. A switch is like a local post office in your city. This local post    |
+|                                                                                                                   |
+|office sends your envelope to another house (or any destination) that is within the city. This local post office   |
+|can only send envelopes locally.                                                                                   |
+|                                                                                                                   |
+|router is like a centralized post office. This centralized post office that  knows how to connect one local post   |
+|office to another.                                                                                                 |
+|                                                                                                                   |
+|You want to send an envelope to somebody in New York and you’re in Los Angeles. Your local post office in Los      |
+|Angeles(LA PO) doesn’t know how to get that envelope to that person in NY. The LA PO will contact the centralized  |
+|post office so that the centralized  PO can send that envelope to NY PO. NY PO knows the exact location of that    |
+|person and the envelope is delivered!                                                                              |
+|                                                                                                                   |
++-------------------------------------------------------------------------------------+-----------------------------+
 
 IntermediatePatriot CyberQuiz (Beta)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
