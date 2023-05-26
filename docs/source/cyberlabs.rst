@@ -22,7 +22,7 @@ Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Ma
 Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With An Emulator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Packet Tracer Lab One**
+**#1**
 
 .. raw:: html
 
