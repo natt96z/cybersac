@@ -1,7 +1,7 @@
-**CyberLab Tutorials**
+**CyberLabs Tutorials**
 =============================================================
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/b1bbbffcf0dd21e4888320401f2bdb79.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/01a9c18e46512c573e128481c80f2c97.png
    :width: 100%
    :align: center
    
