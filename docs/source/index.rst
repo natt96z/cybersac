@@ -57,8 +57,8 @@ Hands-On Virtual Material Table of Contents/Glossary:
    OfficialPatriot.rst
    Events.rst
    AuthorsContributors.rst
-   cybernews.rst
    cyberlabs.rst
+   cybernews.rst
    links.rst
    Contact.rst
    feedback.rst
