@@ -5,7 +5,7 @@ CyberSAC CyberLabs
    :width: 100%
    :align: center
    
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cloud_computing.gif
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Labs_IO_Beaker_hero.gif
    :width: 100%
    :align: center
 
