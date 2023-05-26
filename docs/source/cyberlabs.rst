@@ -6,7 +6,7 @@ CyberSAC CyberLabs
    :align: center
    
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Labs_IO_Beaker_hero.gif
-   :width: 100%
+   :width: 56%
    :align: center
 
 
