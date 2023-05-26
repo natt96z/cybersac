@@ -28,6 +28,7 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Tutorial Material #1**
+
 .. raw:: html
 
 	<details>
@@ -38,6 +39,7 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 	</details>
 
 **Tutorial Material #2**
+
 .. raw:: html
 
 	<details>
@@ -48,6 +50,7 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 	</details>
 
 **Tutorial Material #3**
+
 .. raw:: html
 
 	<details>
