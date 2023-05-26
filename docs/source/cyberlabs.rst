@@ -74,7 +74,7 @@ Linux OS Practice Lab - Learn Ubuntu Linux Fundamentals With A Virtual Machine
 		<summary>Details</summary>
 .. raw:: html
 
-	<iframe src="https://docs.google.com/presentation/d/15cfytRXO0fzInHKPd7_FQGZ2ZgEUn7BaCCdwHE90ApI/edit#slide=id.p1" width="640" height="480" allow="autoplay"></iframe>
+	<iframe src="https://docs.google.com/presentation/d/15cfytRXO0fzInHKPd7_FQGZ2ZgEUn7BaCCdwHE90ApI/edit?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
 	</details>
 
 **Lecture Tutorial Material #2**
