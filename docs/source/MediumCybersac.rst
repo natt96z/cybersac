@@ -326,8 +326,6 @@ A picture containing graphical user interface
 
 **Control Plane** - Routing protocols and routers that talk with one another. Where the device learns what action to take on the data. No data moves until the control and this plane makes a decision on the best path to deliver the data.
 
-|
-|
 
 **A little analogy of routers and switches**
 
