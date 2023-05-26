@@ -10,9 +10,6 @@
    :align: center
 
 
-Windows OS Practice Lab
-~~~~~~~~~~~~~~~~~~~~~~~~
+Windows OS Practice Lab - Learn Fundamental Security With A Virtual Machine
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/04b7a6a18fef55ae9f009fefe1cbfb9d.png
-   :width: 100%
-   :align: center
