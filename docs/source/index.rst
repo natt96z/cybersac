@@ -58,6 +58,7 @@ Hands-On Virtual Material Table of Contents/Glossary:
    Events.rst
    AuthorsContributors.rst
    cybernews.rst
+   cyberlabs.rst
    links.rst
    Contact.rst
    feedback.rst
