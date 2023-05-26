@@ -9,7 +9,9 @@
    :width: 56%
    :align: center
 
-.. Welcome to CyberLabs, Here You Will Find::
+.. code-block:: text
+
+This page is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs, we mostly cover Linux, Windows and Cisco material.
 
 
 Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Machine
