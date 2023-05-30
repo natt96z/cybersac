@@ -26,7 +26,7 @@ Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Ma
 .. raw:: html
 
 	<details>
-		<summary>Microsoft Lecture Tutorial Material #1</summary>
+		<summary>Lecture Tutorial Material #1</summary>
 .. raw:: html
 
 	<iframe src="https://drive.google.com/file/d/1vHINCoOa_RcJzIksD5TzTfUF4n0_G7MY/preview" width="640" height="480" allow="autoplay"></iframe>
