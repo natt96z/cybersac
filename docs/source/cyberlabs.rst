@@ -36,36 +36,31 @@ Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Ma
 Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With An Emulator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lecture Tutorial Material #1**
 
 .. raw:: html
 
 	<details>
-		<summary>Details</summary>
+		<summary>Lecture Tutorial Material #1</summary>
 .. raw:: html
 
 	<iframe src="https://drive.google.com/file/d/1ecJ2HhMEmD2Fh74kMo3soAb-_QyWvZY3/preview" width="640" height="480" allow="autoplay"></iframe>
 	</details>
-
-
-**Lecture Tutorial Material #2**
+	
 
 .. raw:: html
 
 	<details>
-		<summary>Details</summary>
+		<summary>Lecture Tutorial Material #2</summary>
 .. raw:: html
 
 	<iframe src="https://drive.google.com/file/d/1qsIAf-xW30A3jjJuWxTnAeUaH0fwvZl0/preview" width="640" height="480" allow="autoplay"></iframe>
 	</details>
-
-
-**Lecture Tutorial Material #3**
+	
 
 .. raw:: html
 
 	<details>
-		<summary>Details</summary>
+		<summary>Lecture Tutorial Material #3</summary>
 .. raw:: html
 
 	<iframe src="https://drive.google.com/file/d/1Wy-MMmcv6souOMbpOOofRQdeYD9ukFde/preview" width="640" height="480" allow="autoplay"></iframe>
