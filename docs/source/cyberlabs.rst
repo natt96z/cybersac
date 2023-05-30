@@ -13,7 +13,7 @@
 
 	<figure>
 	<blockquote>
-		<p>This page is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs, we mostly cover Linux, Windows and Cisco material. Material provided here is subject to change, every powerpoint provides a tutorial on how to set up applications, use virtual machines and configure servers and security policies. Click on the black arrows to view material./</p>
+		<p>This page is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs, we mostly cover Linux, Windows and Cisco material. Material provided here is subject to change, every powerpoint provides a tutorial on how to set up applications, use virtual machines and configure servers and security policies. Click on the black arrows to view material.</p>
 	</blockquote>
 	<figcaption></figcaption>
 	</figure>
