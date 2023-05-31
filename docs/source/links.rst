@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=ZENOIh4L54E&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z 
 
 https://www.youtube.com/watch?v=5lRkQFtVAX0 - Cyber Security: Physical Security | Conscio Technologies
 
-https://www.youtube.com/watch?v=FA04aTtGmss&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - Cybersecurity: Better Update Than Regret
+https://www.youtube.com/watch?v=FA04aTtGmss&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - Cybersecurity Better Update Than Regret
 
 
 Other  Various Useful Websites (Links)
