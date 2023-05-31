@@ -64,6 +64,15 @@ https://youtu.be/K0JPAZumUMI - How to Install Ubuntu 22.04 LTS on VMware Worksta
 
 https://www.youtube.com/watch?v=Kx4y9c7w2JQ - Getting Into Cyber Security: 5 Skills You NEED to Learncybersecurity 
 
+https://www.youtube.com/watch?v=sS3mZVCARZg - Phishing Attack | Hardcore Techno
+
+https://www.youtube.com/watch?v=VEQd-jmVs44&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - Cyber Security | Logo Magicians
+
+https://www.youtube.com/watch?v=ZENOIh4L54E&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - The Future Of Cyber Security | Financial Times
+
+https://www.youtube.com/watch?v=5lRkQFtVAX0 - Cyber Security: Physical Security | Conscio Technologies
+
+https://www.youtube.com/watch?v=FA04aTtGmss&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - Cyber Security Awareness: Better Update Than Regret
 
 
 Other  Various Useful Websites (Links)
