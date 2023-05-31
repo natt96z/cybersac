@@ -68,11 +68,11 @@ https://www.youtube.com/watch?v=sS3mZVCARZg - Phishing Attack | Hardcore Techno
 
 https://www.youtube.com/watch?v=VEQd-jmVs44&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - Cyber Security | Logo Magicians
 
-https://www.youtube.com/watch?v=ZENOIh4L54E&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - The Future Of Cyber Security | FT
+https://www.youtube.com/watch?v=ZENOIh4L54E&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - The Future Of Cyber Security 
 
 https://www.youtube.com/watch?v=5lRkQFtVAX0 - Cyber Security: Physical Security | Conscio Technologies
 
-https://www.youtube.com/watch?v=FA04aTtGmss&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - Cybersecurity Better Update Than Regret
+https://www.youtube.com/watch?v=FA04aTtGmss&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z - Better Update Than Regret 
 
 
 Other  Various Useful Websites (Links)
