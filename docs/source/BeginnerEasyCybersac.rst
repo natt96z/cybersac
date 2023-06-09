@@ -110,7 +110,7 @@ In recent months, hackers have distributed emails, instructing targets to quickl
 Turning on Windows Ransomware Protection
 
 
-.. image:: https://user-images.githubusercontent.com/57073805/244809034-b0fd9e22-ba77-4816-8346-af279e53fbf1.png
+.. image:: https://github.com/natt96z/cybersac/blob/main/docs/img/Ransomware%20Protection.png?raw=true
    :width: 70%
    :align: center
    
