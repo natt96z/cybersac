@@ -51,20 +51,13 @@ Useful Online Video Material (External)
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/video-camera-icon-set-in-black-and-white-colors-movie-symbol-illustration-vector.jpg
 
-What is Cyber Security? | Cyber Security Explained
-https://www.youtube.com/watch?v=ZFVvjgJX1wk 
+What is Cyber Security? | Cyber Security Explained - https://www.youtube.com/watch?v=ZFVvjgJX1wk 
 
-What Is Cybersecurity: How It Works? 
+What Is Cybersecurity: How It Works? - https://www.youtube.com/watch?v=Q2W_nNdReXM 
 
-https://www.youtube.com/watch?v=Q2W_nNdReXM 
+Privacy and Security in Technology - https://youtu.be/6K-tTaxLqJQ 
 
-Privacy and Security in Technology
-
-https://youtu.be/6K-tTaxLqJQ 
-
-5 Most Used Hacking Os 2022 | Anon Koder
-
-https://www.youtube.com/watch?v=0Bo5NYCspPA 
+5 Most Used Hacking Os 2022 | Anon Koder - https://www.youtube.com/watch?v=0Bo5NYCspPA 
 
 https://youtu.be/K0JPAZumUMI - How to Install Ubuntu 22.04 LTS on VMware Workstation Player
 
