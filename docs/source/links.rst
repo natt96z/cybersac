@@ -51,7 +51,8 @@ Useful Online Video Material (External)
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/video-camera-icon-set-in-black-and-white-colors-movie-symbol-illustration-vector.jpg
 
-What is Cyber Security? | Cyber Security Explained - https://www.youtube.com/watch?v=ZFVvjgJX1wk 
+What is Cyber Security? | Cyber Security Explained
+https://www.youtube.com/watch?v=ZFVvjgJX1wk 
 
 What Is Cybersecurity: How It Works? - https://www.youtube.com/watch?v=Q2W_nNdReXM 
 
