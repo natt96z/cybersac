@@ -107,6 +107,14 @@ Clop is one of the most recent and most dangerous ransomware threats to emerge. 
 
 In recent months, hackers have distributed emails, instructing targets to quickly install an urgent Windows OS update. When users start to download the supposed update, ransomware ‘.exe’, files make their way onto the device. Email security controls and a comprehensive consolidated security solution can help stop these types of malware events. 
 
+Turning on Windows Ransomware Protection
+
+
+.. image:: https://user-images.githubusercontent.com/57073805/244809034-b0fd9e22-ba77-4816-8346-af279e53fbf1.png
+   :width: 70%
+   :align: center
+   
+
 **Zeus Gameover** 
 
 This malware type is part of the “Zeus” family of malware. Zeus Gameover is a Trojan – a malware disguised as something legitimate - that aims to obtain financial information, which steals whatever is in a bank account. 
