@@ -71,7 +71,7 @@ Cyber Security | Logo Magicians - https://www.youtube.com/watch?v=VEQd-jmVs44&pp
 
 The Future Of Cyber Security - https://www.youtube.com/watch?v=ZENOIh4L54E&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z 
 
-CyberSecurity Awareness: Better Update Than Regret - https://www.youtube.com/watch?v=FA04aTtGmss&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z
+CyberSecurity Awareness: Update - https://www.youtube.com/watch?v=FA04aTtGmss&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z
 
 
 Other  Various Useful Websites (Links)
