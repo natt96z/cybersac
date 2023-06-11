@@ -62,7 +62,10 @@ Part 1
 #######
 Part 2
 #######
-  
+
+.. toctree::
+   :maxdepth: 1
+   
    
    Events.rst
    AuthorsContributors.rst
