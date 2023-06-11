@@ -49,7 +49,7 @@ Hands-On Virtual Material Table of Contents/Glossary:
 *******************************************************
   
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    BeginnerEasyCybersac.rst
    MediumCybersac.rst
