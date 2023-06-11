@@ -58,6 +58,12 @@ Part 1
    BeginnerEasyCybersac.rst
    MediumCybersac.rst
    HardExpertCyberSAC.rst
+   
+#######
+Part 2
+#######
+  
+   
    Events.rst
    AuthorsContributors.rst
    cyberlabs.rst
