@@ -8,12 +8,7 @@
 
 .. Note:: ★This page is based on Section 2 and Unit 2 of the official CyberPatriot learning material★
 
-.. raw:: html 
- :align: center
-
-   <iframe src="https://www.programiz.com/python-programming/online-compiler/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="300px" width="500px" allowfullscreen></iframe>
-
-EasyPatriot Welcome Tutorial - CyberSAC Site Tour
+**EasyPatriot Welcome Tutorial - CyberSAC Site Tour**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html 
@@ -325,4 +320,12 @@ Self Hosting Bitwarden:
 .. raw:: html
 
    <div class="involveme_embed" data-project="new-project-3849"><script src="https://cybersac.involve.me/embed"></script></div>
+   
+
+**Virtual Online Python Compliler Lab**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. raw:: html
+
+   <iframe src="https://www.programiz.com/python-programming/online-compiler/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="300px" width="500px" allowfullscreen></iframe>
+
   
