@@ -14,21 +14,6 @@
 This page is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs, we mostly cover Linux, Windows and Cisco material. Material provided here is subject to change, every powerpoint provides a tutorial on how to set up applications, use virtual machines and configure servers and security policies. Click on the black arrows to view material.
 
 
-Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Machine
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-.. raw:: html
-
-	<details>
-		<summary>Lecture Tutorial Material #1</summary>
-.. raw:: html
-
-	<iframe src="https://drive.google.com/file/d/1vHINCoOa_RcJzIksD5TzTfUF4n0_G7MY/preview" width="640" height="480" allow="autoplay"></iframe>
-	</details>
-
---------------------------------------------------------------------------------------------------------------------------
-
 Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With An Emulator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
