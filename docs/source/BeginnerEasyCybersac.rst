@@ -9,9 +9,10 @@
 .. Note:: ★This page is based on Section 2 and Unit 2 of the official CyberPatriot learning material★
 
 **Virtual Online Python Compliler Lab**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 A large number of cybersecurity applications and tools are based out of and heavily rely on Python, which means they can be customized according to individual needs and requirements. Type a word in the parenthesis and press RUN! 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. raw:: html
 
    <iframe src="https://www.programiz.com/python-programming/online-compiler/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="300px" width="500px" allowfullscreen></iframe>
