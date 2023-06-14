@@ -69,7 +69,6 @@ Part 2
    
    Events.rst
    AuthorsContributors.rst
-   cyberlabs.rst
    cybernews.rst
    links.rst
    Contact.rst
