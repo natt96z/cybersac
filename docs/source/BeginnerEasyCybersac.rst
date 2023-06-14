@@ -11,8 +11,8 @@
 **Virtual Online Python Compliler Lab**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A large number of cybersecurity applications and tools are based out of and heavily rely on Python, which means they can be customized according to individual needs and requirements. 
-Type a word in the parenthesis and press**RUN!**
+A large number of cybersecurity applications and tools are based out of and heavily rely on Python, which means they can be customized according to individual needs and requirements.
+**Type a word in the parenthesis and press RUN!**
 
 .. raw:: html
 
