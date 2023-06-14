@@ -10,7 +10,7 @@
 
 .. raw:: html 
 
-   <iframe src="https://www.programiz.com/python-programming/online-compiler/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+   <iframe src="https://www.programiz.com/python-programming/online-compiler/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="300px" width="500px" allowfullscreen></iframe>
 
 EasyPatriot Welcome Tutorial - CyberSAC Site Tour
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
