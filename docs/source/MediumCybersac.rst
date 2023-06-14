@@ -353,3 +353,19 @@ IntermediatePatriot CyberQuiz (Beta)
 
 
    <div class="involveme_embed" data-project="new-project-47ba"><script src="https://cybersac.involve.me/embed"></script></div>
+   
+   
+Microsoft Windows OS Practice Lab - Learn Fundamental Security With A Virtual Machine
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. raw:: html
+
+	<details>
+		<summary>Lecture Tutorial Material #1</summary>
+.. raw:: html
+
+	<iframe src="https://drive.google.com/file/d/1vHINCoOa_RcJzIksD5TzTfUF4n0_G7MY/preview" width="640" height="480" allow="autoplay"></iframe>
+	</details>
+
+--------------------------------------------------------------------------------------------------------------------------
