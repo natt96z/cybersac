@@ -1,4 +1,4 @@
-IntermediatePatriot - A Look Into Ethics and Computer OS Security (Linux & Windows)
+**IntermediatePatriot - A Look Into Ethics and Computer OS Security (Linux & Windows)**
 =============================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ezgif-1-599eaa3342.gif
@@ -278,18 +278,15 @@ This section is based on material introduced in this difficulty of the website, 
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/6K-tTaxLqJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. raw:: html
-
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/K0JPAZumUMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/inWWhr5tnEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	
 .. raw:: html
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/sBzL_zoYt6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	
-	
-   
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/PElSDilPBkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/JpfEBQn2CjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    
 Microsoft Windows OS CyberLab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
