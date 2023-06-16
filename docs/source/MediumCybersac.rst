@@ -276,6 +276,8 @@ IntermediatePatriot CyberQuiz (Beta)
 IntermediatePatriot CyberVideos 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/video-camera-icon-set-in-black-and-white-colors-movie-symbol-illustration-vector.jpg
+
 This section is based on material introduced in this difficulty of the website, these videos provide interesting in deprth tutorials and summaries of material descibed above. Please note video mateerial is subject to change.
 
 .. raw:: html
