@@ -113,16 +113,6 @@ There are so many settings that help you increase your privacy, security, and Qu
 
 Eliminate advertising ID by Windows, along with sending clipboard data to Windows’s servers, along with other weird stuff. 
 
-Chris Titus Tech's Windows Utility
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Source: https://christitus.com/windows-tool/
-
-Video follow along:
-
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/tPRv-ATUBe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 Safing Portmaster - An Easy To Use Firewall For Your Computer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -478,6 +468,22 @@ As you can see, I, successfully, initiated a bank transfer from the dummy users 
 
    <div class="involveme_embed" data-project="new-project-e48d"><script src="https://cybersac.involve.me/embed"></script></div>
  
+**ProPatriot CyberVideos**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/i9quK-Mcikk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ 
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/tPRv-ATUBe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/_HaELJKNz78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
 Cisco Packet Tracer CyberLab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -501,8 +507,6 @@ Cisco Packet Tracer CyberLab
 
 	<iframe src="https://drive.google.com/file/d/1qsIAf-xW30A3jjJuWxTnAeUaH0fwvZl0/preview" width="640" height="480" allow="autoplay"></iframe>
 	</details>
-	
-	
 	
 
 .. raw:: html
