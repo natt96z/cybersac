@@ -1,4 +1,4 @@
-IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
+IntermediatePatriot - A Look Into Ethics and Computer OS Security (Linux & Windows)
 =============================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ezgif-1-599eaa3342.gif
@@ -12,18 +12,6 @@ IntermediatePatriot - A Look Into Computer OS Security (Linux & Windows)
 
 IntermediatePatriot Welcome Tutorial - CyberSAC Site Tour
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/YYcQNoWAh9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-**CyberVideo: Privacy and Security in Technology (Courtesy: Chris Titus Tech)**
-
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/6K-tTaxLqJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 CyberEthics - Doing the right thing with computer technology!
@@ -290,6 +278,10 @@ IntermediatePatriot CyberVideos
 
 This section is based on material introduced in this difficulty of the website, these videos provide interesting in deprth tutorials and summaries of material descibed above. Please note video mateerial is subject to change.
 
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/6K-tTaxLqJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
    
    
@@ -308,4 +300,32 @@ This section is dedicated to providing easy to understand PowerPoint lecture tut
 	</details>
 
 --------------------------------------------------------------------------------------------------------------------------
+
+Ubuntu Linux OS CyberLab
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. raw:: html
+
+	<details>
+		<summary>Lecture Tutorial Material #1</summary>
+.. raw:: html
+
+	<iframe src="https://drive.google.com/file/d/1-HQ980U8-01ZbY_wgs8vYx5eekRlK2u-/preview" width="640" height="480" allow="autoplay"></iframe>
+	</details>
+
+
+
+.. raw:: html
+
+	<details>
+		<summary>Lecture Tutorial Material #2</summary>
+.. raw:: html
+
+	<iframe src="https://drive.google.com/file/d/17S56pdVA_ENNoF5JF5bEagj7YgOsrgvF/preview" width="640" height="480" allow="autoplay"></iframe>
+	</details>
+
+
+---------------------------------------------------------------------------------------------------------------
+
 
