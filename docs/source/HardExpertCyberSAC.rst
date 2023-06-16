@@ -6,12 +6,6 @@ ProPatriot - Using Cisco Tools and Hardening and Security Techniques
    :align: center
 
 
-**CyberVideo: 5 Most Used Hacking Os's (Courtesy: Tech Koder)**
-
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/0Bo5NYCspPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Using Cisco Packet Tracer Software (Cisco Tools)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
