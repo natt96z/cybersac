@@ -10,10 +10,6 @@ IntermediatePatriot - A Look Into Ethics and Computer OS Security (Linux & Windo
 .. Note:: ★ This page is based on unit 3, 7, 8, 9 and 10 of the official CyberPatriot learning material ★
 
 
-IntermediatePatriot Welcome Tutorial - CyberSAC Site Tour
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
 CyberEthics - Doing the right thing with computer technology!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
