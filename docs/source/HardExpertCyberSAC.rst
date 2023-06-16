@@ -1,17 +1,9 @@
 ProPatriot - Using Cisco Tools and Hardening and Security Techniques
 ======================================================================= 
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/ezgif-1-415fb4tttttttt69f1.gif
+.. image:: 
    :width: 80%
    :align: center
-
-
-ProPatriot Welcome Tutorial - CyberSAC Site Tour
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/95Q74KuqkbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **CyberVideo: 5 Most Used Hacking Os's (Courtesy: Tech Koder)**
