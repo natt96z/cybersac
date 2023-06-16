@@ -282,7 +282,13 @@ This section is based on material introduced in this difficulty of the website, 
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/6K-tTaxLqJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+.. raw:: html
+
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/K0JPAZumUMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/sBzL_zoYt6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	
 	
    
