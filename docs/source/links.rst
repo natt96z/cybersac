@@ -46,36 +46,8 @@ Software Resource Material (Download)
   <a href="https://drive.google.com/drive/folders/1OSgeOJkm7d3tgpXJZDgo66usUqQ6AcN7?usp=share_link" target="_blank">Download Resource Software (Windows) </a> 
 
 
-Useful Online Video Material (External)
+Useful Online Cyber Websites (External)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/video-camera-icon-set-in-black-and-white-colors-movie-symbol-illustration-vector.jpg
-
-What is Cyber Security? | Cyber Security Explained - https://www.youtube.com/watch?v=ZFVvjgJX1wk 
-
-What Is Cybersecurity: How It Works? - https://www.youtube.com/watch?v=Q2W_nNdReXM 
-
-Privacy and Security in Technology - https://youtu.be/6K-tTaxLqJQ 
-
-5 Most Used Hacking Os 2022 | Anon Koder - https://www.youtube.com/watch?v=0Bo5NYCspPA 
-
-How to Install Ubuntu 22.04 LTS on VMware Workstation Player - https://youtu.be/K0JPAZumUMI
-
-Getting Into Cyber Security: 5 Skills You NEED to Learncybersecurity - https://www.youtube.com/watch?v=Kx4y9c7w2JQ 
-
-Phishing Attack | Hardcore Techno - https://www.youtube.com/watch?v=sS3mZVCARZg 
-
-Cyber Security: Physical Security | Conscio Technologies - https://www.youtube.com/watch?v=5lRkQFtVAX0 
-
-Cyber Security | Logo Magicians - https://www.youtube.com/watch?v=VEQd-jmVs44&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z 
-
-The Future Of Cyber Security - https://www.youtube.com/watch?v=ZENOIh4L54E&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z 
-
-CyberSecurity Awareness: Update - https://www.youtube.com/watch?v=FA04aTtGmss&pp=ygUVY3liZXIgc2VjdXJpdHkgdmlkZW9z
-
-
-Other  Various Useful Websites (Links)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 https://sac.edu/AcademicProgs/Business/ComputerScience/Pages/cis.aspx
 
