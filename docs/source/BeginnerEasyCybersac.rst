@@ -333,15 +333,11 @@ This section is based on material introduced in this difficulty of the website, 
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFVvjgJX1wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-.. raw:: html 
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/OVxY7mn0yL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/VEQd-jmVs44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    
 .. raw:: html
-   
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/BoyeFozmAXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/00hpRjfbM0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    
 
 
