@@ -296,7 +296,7 @@ This section is based on material introduced in this difficulty of the website, 
 Microsoft Windows OS CyberLab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This section is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs,this one covers Windows OS material. Material provided here is subject to change.
+This section is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs, this covers securing the Windows OS material. Material provided here is subject to change and click on the black arrows to view material.
 
 .. raw:: html
 
