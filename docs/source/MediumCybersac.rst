@@ -298,6 +298,8 @@ Microsoft Windows OS CyberLab
 
 This section is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs,this one covers Windows OS material. Material provided here is subject to change.
 
+.. raw:: html
+
 	<details>
 		<summary>Lecture Tutorial Material #1</summary>
 .. raw:: html
