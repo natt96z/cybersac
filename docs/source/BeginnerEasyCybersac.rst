@@ -306,19 +306,6 @@ Bitwarden Strong Password Generator: https://bitwarden.com/password-generator/
 
 Bitwarden Sign Up: https://vault.bitwarden.com/#/register?layout=default
 
-Video Follow Through:
-
-.. raw:: html 
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/OVxY7mn0yL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-Self Hosting Bitwarden:
-
-.. raw:: html 
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/SSLGa0LjTrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 **Password Checker: Test the strengths of your passwords! (Password Monster)**
 
 .. raw:: html 
@@ -333,6 +320,22 @@ Self Hosting Bitwarden:
 
    <div class="involveme_embed" data-project="new-project-3849"><script src="https://cybersac.involve.me/embed"></script></div>
    
+**EasyPatriot CyberVideos**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This section is based on material introduced in this difficulty of the website, these videos provide interesting in deprth tutorials and summaries of material descibed above. Please note video mateerial is subject to change.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFVvjgJX1wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. raw:: html 
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/OVxY7mn0yL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   
+.. raw:: html 
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/SSLGa0LjTrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
   
