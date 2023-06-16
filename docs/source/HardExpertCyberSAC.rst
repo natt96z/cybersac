@@ -113,6 +113,15 @@ There are so many settings that help you increase your privacy, security, and Qu
 
 Eliminate advertising ID by Windows, along with sending clipboard data to Windows’s servers, along with other weird stuff. 
 
+Chris Titus Tech's Windows Utility
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Source: https://christitus.com/windows-tool/
+
+Video follow along:
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/tPRv-ATUBe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Safing Portmaster - An Easy To Use Firewall For Your Computer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
