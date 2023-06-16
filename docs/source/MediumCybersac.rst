@@ -285,12 +285,18 @@ IntermediatePatriot CyberQuiz (Beta)
 
    <div class="involveme_embed" data-project="new-project-47ba"><script src="https://cybersac.involve.me/embed"></script></div>
    
+IntermediatePatriot CyberVideos 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This section is based on material introduced in this difficulty of the website, these videos provide interesting in deprth tutorials and summaries of material descibed above. Please note video mateerial is subject to change.
+
+
+   
    
 Microsoft Windows OS CyberLab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-.. raw:: html
+This section is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs,this one covers Windows OS material. Material provided here is subject to change.
 
 	<details>
 		<summary>Lecture Tutorial Material #1</summary>
