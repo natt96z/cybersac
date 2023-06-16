@@ -319,6 +319,15 @@ Kali Linux was released on the 13th March 2013 as a complete, top-to-bottom rebu
 
 The site is well organized as well to aid with using on any compatible computer. There are also helpful "Help" forums and FAQ's to troubleshoot possible issues.
 
+**Wifite: A Network Cracking Tool**  
+
+Kali Linux includes may tools, one of which is Wifite, this tool allows a range of attacks to audit the security of a WiFi network. It is a lesson for all users to have a complex password because all it takes to get onto the network is a single command.
+
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TDVM-BUChpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 How to Set Up Kali Linux OS (Virtual Box)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
