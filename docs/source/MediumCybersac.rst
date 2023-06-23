@@ -9,6 +9,11 @@
 
 .. Note:: ★ This page is based on unit 3, 7, 8, 9 and 10 of the official CyberPatriot learning material ★
 
+Virtual Online Linux Terminal
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	<iframe src="https://cocalc.com/features/terminal" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="800px" allowfullscreen></iframe>
+
 
 CyberEthics - Doing the right thing with computer technology!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
