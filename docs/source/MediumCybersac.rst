@@ -12,6 +12,8 @@
 Virtual Online Linux Terminal
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. raw:: html
+
 	<iframe src="https://cocalc.com/features/terminal" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="800px" allowfullscreen></iframe>
 
 
