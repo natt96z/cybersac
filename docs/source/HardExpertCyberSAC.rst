@@ -489,6 +489,10 @@ As you can see, I, successfully, initiated a bank transfer from the dummy users 
 **ProPatriot CyberVideos**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/video-camera-icon-set-in-black-and-white-colors-movie-symbol-illustration-vector.jpg
+
+This section is based on material introduced in this difficulty of the website, these videos provide interesting in-depth tutorials and summaries of the material described above. So that you know, video material is subject to change.
+
 .. raw:: html
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/i9quK-Mcikk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
