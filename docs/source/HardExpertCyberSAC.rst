@@ -2,7 +2,7 @@
 ======================================================================= 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/istockphoto-1181403907-612x612.jpg
-   :width: 100%
+   :width: 90%
    :align: center
 
 
