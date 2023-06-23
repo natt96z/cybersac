@@ -24,7 +24,7 @@ Introduction To Cyber Ethics
       <iframe src="https://drive.google.com/file/d/17epBEakP_2YQmCgrYzjiV5aEfP0AuQfz/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
-CyberEthics - Doing the right thing with computer technology!
+Cyber Ethics - Doing the right thing with computer technology!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/how-to-become-an-ethical-hacker.png
