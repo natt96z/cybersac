@@ -478,7 +478,7 @@ The website will provide you with a live Ubuntu virtual machine and easy to foll
 As you can see, I, successfully, initiated a bank transfer from the dummy users account. This website, also, has an Android application that allows you to practice hacking on the go.  This short example, basically, shows how easy it can be for a hacker to gather personal information. 
 
 
-**ProPatriot CyberQuiz (Beta)**
+ProPatriot CyberQuiz (Beta)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
@@ -486,12 +486,12 @@ As you can see, I, successfully, initiated a bank transfer from the dummy users 
 
    <div class="involveme_embed" data-project="new-project-e48d"><script src="https://cybersac.involve.me/embed"></script></div>
  
-**ProPatriot CyberVideos**
+ProPatriot CyberVideos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/video-camera-icon-set-in-black-and-white-colors-movie-symbol-illustration-vector.jpg
 
-This section is based on material introduced in this difficulty of the website, these videos provide interesting in-depth tutorials and summaries of the material described above. So that you know, video material is subject to change.
+This section is based on material introduced in this difficulty of the website, these videos provide interesting in-depth tutorials and summaries of the material described above. Also please note, video material is subject to change.
 
 .. raw:: html
 
