@@ -16,6 +16,14 @@ Virtual Online Linux Terminal
 
 	<iframe src="https://cocalc.com/features/terminal" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="450px" width="600px" allowfullscreen></iframe>
 
+Introduction To Cyber Ethics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+      
+      <iframe src="https://drive.google.com/file/d/17epBEakP_2YQmCgrYzjiV5aEfP0AuQfz/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 CyberEthics - Doing the right thing with computer technology!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -39,13 +47,6 @@ CyberEthics - Doing the right thing with computer technology!
 3) Never use a computer to illegally copy licensed software. (Software you haven't subbed or purchased)
 
 4) Never use a computer's resources without the correct permissions from authority. (Always ask first)
-
-
-
-.. raw:: html
-
-      
-      <iframe src="https://drive.google.com/file/d/17epBEakP_2YQmCgrYzjiV5aEfP0AuQfz/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 
