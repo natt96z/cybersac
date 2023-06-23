@@ -544,9 +544,9 @@ Kali Linux CyberLab
 
 	<details>
 		<summary>Lecture Tutorial Material #1</summary>
-.. raw:: html
+.. raw:: HTML
 
-	<iframe src="https://rsccd-my.sharepoint.com/personal/ah61195_student_sac_edu/_layouts/15/Doc.aspx?sourcedoc={96dc2064-98e3-4c49-92d5-996d921a12f5}&amp;action=embedview&amp;wdAr=1.3333333333333333" width="476px" 	height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.		</iframe>
+	<iframe src="https://drive.google.com/file/d/1vJT7_d5fhlT_WxxnDs5zvCWu2FK9ncGz/preview" width="640" height="480" allow="autoplay"></iframe>
 	</details>
 --------------------------------------------------------------------------------------------------------
 
