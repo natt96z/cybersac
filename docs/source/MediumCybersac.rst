@@ -14,8 +14,7 @@ Virtual Online Linux Terminal
 
 .. raw:: html
 
-	<iframe src="https://cocalc.com/features/terminal" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="500px" allowfullscreen></iframe>
-
+	<iframe src="https://cocalc.com/features/terminal" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="600px" allowfullscreen></iframe>
 
 CyberEthics - Doing the right thing with computer technology!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
