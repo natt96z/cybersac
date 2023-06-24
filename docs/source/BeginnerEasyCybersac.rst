@@ -9,7 +9,7 @@
 .. Note:: ★This page is based on Section 2 and Unit 2 of the official CyberPatriot learning material★
 
 
-*Virtual Online Python Compiler Lab**
+*Virtual Online Python Compiler Lab*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A large number of cybersecurity applications and tools are based on and heavily rely on Python, which means they can be customized according to individual needs and requirements.
