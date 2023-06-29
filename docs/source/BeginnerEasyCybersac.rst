@@ -8,7 +8,7 @@
 
 .. Note:: ★This page is based on Section 2 and Unit 2 of the official CyberPatriot learning material★
 
-**Introduction To Cyber Security**
+**Introduction To CyberSecurity**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
