@@ -49,7 +49,7 @@ Hands-On Virtual Material Table of Contents/Glossary:
 *******************************************************
   
 #######
-Part 1
+Tier Glossary
 #######
 
 .. toctree::
@@ -60,7 +60,7 @@ Part 1
    HardExpertCyberSAC.rst
    
 #######
-Part 2
+Other CyberContent
 #######
 
 .. toctree::
