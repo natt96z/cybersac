@@ -12,9 +12,9 @@ Welcome to our Cyber Forensics Challenge page! Explore and download virtual mach
 How to Use Our Virtual Enviornments?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Step 1*
+**Step 1: Installing Virtual Box**
 
-*Step 2*
+**Step 2: Adding Our Virtual Machine to Virtual Box**
 
 Windows OS Virtual Machine Download 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
