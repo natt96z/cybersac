@@ -9,3 +9,9 @@ Introduction - Unraveling the Digital Trails: Empowering Justice in Cyberspace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Welcome to our Cyber Forensics Challenge page! Explore and download virtual machines designed to simulate real-world scenarios, where you'll uncover clues, analyze digital evidence, and solve intriguing mystery questions. Sharpen your investigative skills and embark on a journey to become a digital detective in the realm of cybersecurity!
 
+Windows OS Virtual Machine Download 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Linux OS Virtual Machine Download
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
