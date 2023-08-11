@@ -1,4 +1,4 @@
-**CyberForensics - Investigating and Analyzing Digital Evidence**
+**CyberForensics - Investigating and Analyzing Digital Evidence (★COMING SOON★)**
 ======================================================================= 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/edited3_0127_ecd_ps-cyber_header_1600x600.png
    :width: 90%
