@@ -25,16 +25,6 @@ How to Use Our Virtual Enviornments?
 
 **Step 3: Start the Virtual Machine and begin the forensics challenge!**
 
-Windows OS Virtual Machine Download 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot2023-08-40-41.png
-   :width: 100%
-   :align: center
-
-.. Note::
-
-**Link Coming Soon**
 
 Linux OS Virtual Machine Download
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
