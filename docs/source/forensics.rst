@@ -29,7 +29,7 @@ How to Use Our Virtual Enviornments?
 Linux OS Virtual Machine Download
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot2023-017-42-16.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/LINUXubunu.png
    :width: 100%
    :align: center
 
