@@ -12,9 +12,13 @@ Welcome to our Cyber Forensics Challenge page! Explore and download virtual mach
 How to Use Our Virtual Enviornments?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Step 1: Installing Virtual Box**
+**Step 1: Install VMWare (Free)**
 
-**Step 2: Adding Our Virtual Machine to Virtual Box**
+*VMWare Player (Virtual Machine Software):* https://www.vmware.com/products/workstation-player.html 
+
+**Step 2: Adding Our Virtual Machine to VMWare**
+
+**Step 3: Start the Virtual Machine and begin the forensics challenge!**
 
 Windows OS Virtual Machine Download 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -22,9 +26,18 @@ Windows OS Virtual Machine Download
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot2023-08-40-41.png
    :width: 100%
    :align: center
+
+.. Note::
+
+**Link Coming Soon**
+
 Linux OS Virtual Machine Download
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot2023-017-42-16.png
    :width: 100%
    :align: center
+
+.. Note::
+
+**Link Coming Soon**
