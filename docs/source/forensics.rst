@@ -12,7 +12,12 @@ Welcome to our Cyber Forensics Challenge page! Explore and download virtual mach
 How to Use Our Virtual Enviornments?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Step 1: Install VMWare (Free)**
+**Step 1: Install  and Run VMWare Workstation Player (Free)**
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/hero-vmware-workstation-player.png
+   :width: 100%
+   :align: center
+
 
 *VMWare Player (Virtual Machine Software):* https://www.vmware.com/products/workstation-player.html 
 
