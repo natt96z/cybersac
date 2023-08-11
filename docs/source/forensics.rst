@@ -21,7 +21,7 @@ How to Use Our Virtual Enviornments?
 
 *VMWare Player (Virtual Machine Software):* https://www.vmware.com/products/workstation-player.html 
 
-**Step 2: Adding Our Virtual Machine to VMWare**
+**Step 2: Adding Our Linux Virtual Machine to VMWare**
 
 **Step 3: Start the Virtual Machine and begin the forensics challenge!**
 
