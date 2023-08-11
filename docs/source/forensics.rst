@@ -30,7 +30,7 @@ Linux OS Virtual Machine Download
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/LINUXubunu.png
-   :width: 100%
+   :width: 78%
    :align: center
 
 .. Note::
