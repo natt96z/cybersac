@@ -19,7 +19,7 @@ How to Use Our Virtual Enviornments?
 Windows OS Virtual Machine Download 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot from 2023-08-08 17-40-41.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot_from_2023-08-08 17-40-41.png
    :width: 65%
    :align: center
 Linux OS Virtual Machine Download
