@@ -25,7 +25,7 @@
 
 .. raw:: html
 
-   <rssapp-wall id="7k6GfM742CQzrfR1"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+   <iframe src="https://www.mysitemapgenerator.com/embed/rss/0/c17859f06c21eb3fc8cc61f142544526" width="100%" height="580" frameborder=0 onload="this.style.height=this.contentWindow.document.body.scrollHeight+'px';"></iframe>
      
 **Sign Up For ★CyberPatriot's CyberCentinel!★**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
