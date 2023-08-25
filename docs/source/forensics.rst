@@ -43,8 +43,8 @@ How to Use Our Virtual Enviornments?
 
    - Explore the CyberSac website's VMware-based virtual machine for a safe and engaging introduction to cybersecurity. Our user-friendly virtual machine will empower you to grasp essential concepts and practices while maintaining a secure learning environment. (VMWare)
 
-*CyberSAC Linux VM: This is our custom linux virtual machine and provides a useful intro to Ubuntu Linux OS and its security policies.*  
+*CyberSAC Linux VM: This is our custom linux virtual machine and provides a useful intro to Ubuntu Linux OS and its security policies.* Download Link:  
 
-*Vulnhub Virtual Box VM:* This machine is designed by keeping in mind about all the beginners who wants to start their journey in CTF challenges. Link: https://www.vulnhub.com/entry/haclabs-deception,427/
+*Vulnhub Virtual Box VM:* This machine is designed by keeping in mind about all the beginners who wants to start their journey in CTF challenges. Download Link: https://www.vulnhub.com/entry/haclabs-deception,427/
 
 **Step 3: Start the Virtual Machine and begin the exersice!☺**
