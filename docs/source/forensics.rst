@@ -28,7 +28,7 @@ How to Use Our Virtual Enviornments?
 
 *Virtual Box Download Link:* https://www.virtualbox.org/wiki/Downloads
 
-**Step 2: Download and Add A Virtual Machine to VMWare (CyberSAC and VulnHub)**
+**Step 2: Download and Add A Virtual Machine to VMWare (CTF CyberSAC and VulnHub)**
 
 .. Important::
    - VulnHub is a platform that provides a collection of intentionally vulnerable virtual machines, designed for practicing and honing cybersecurity skills through hands-on exploitation and penetration testing challenges. It offers a practical environment for enthusiasts to learn and improve their understanding of real-world security vulnerabilities. (Virtual Box)
