@@ -47,10 +47,4 @@ How to Use Our Virtual Enviornments?
 
 *CyberSAC Linux VM: This is our custom linux virtual machine and provides a useful intro to Ubuntu Linux OS and its security policies.*  
 
-**Step 3: Start the Virtual Machine and begin the exersice!**
-
-
-
-.. Note::
-
-**Link Coming Soon**
+**Step 3: Start the Virtual Machine and begin the exersice!☺**
