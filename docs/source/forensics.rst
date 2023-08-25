@@ -25,10 +25,14 @@ How to Use Our Virtual Enviornments?
 
 
 *VMWare Player Download Link:* https://www.vmware.com/products/workstation-player.html
+
 *Virtual Box Download Link:* https://www.virtualbox.org/wiki/Downloads
 
 **Step 2: Download and Add A Virtual Machine to VMWare (CyberSAC and VulnHub)**
+.. Important::
+   - VulnHub is a platform that provides a collection of intentionally vulnerable virtual machines, designed for practicing and honing cybersecurity skills through hands-on exploitation and penetration testing challenges. It offers a practical environment for enthusiasts to learn and improve their understanding of real-world security vulnerabilities. (Virtual Box)
 
+   - Explore the CyberSac website's VMware-based virtual machine for a safe and engaging introduction to cybersecurity. Our user-friendly virtual machine will empower you to grasp essential concepts and practices while maintaining a secure learning environment.
 
 **Step 3: Start the Virtual Machine and begin the forensics challenge!**
 
