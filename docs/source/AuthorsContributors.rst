@@ -15,7 +15,7 @@
 
 
 
-**Current Authors & Contributors**
+**Authors & Contributors**
 =====================================================
 
 *Nathaniel Clay*
@@ -43,8 +43,7 @@
 > Email: sim_jason@sac.edu
 
 **Past Authors & Contributors**
-===================================================================
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *Hung Dao*
 
 *Teairra McCoy*
