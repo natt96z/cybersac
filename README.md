@@ -17,7 +17,7 @@
 **All Our Project Contributor's:**
 ======================================
 
-_The Santa Ana College CyberSAC Team: Nathaniel C., Albert H., Teairra M., Hung D., Patrice T. Angel D._
+_The Santa Ana College CyberSAC Team: Nathaniel C., Albert H., Teairra M., Hung D., Patrice T. Angel D., Alicia R._
 
 
 CyberPatriot SAC Documentation GitHub
