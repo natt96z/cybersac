@@ -65,6 +65,7 @@ Other CyberContent
 .. toctree::
    :maxdepth: 1
 
+   forensics.rst
    Events.rst
    AuthorsContributors.rst
    cybernews.rst
