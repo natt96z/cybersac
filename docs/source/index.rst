@@ -66,6 +66,7 @@ Other CyberContent
    :maxdepth: 1
 
    forensics.rst
+   OfficialPatriot.rst
    Events.rst
    AuthorsContributors.rst
    cybernews.rst
