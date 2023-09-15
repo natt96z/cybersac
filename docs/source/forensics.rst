@@ -7,12 +7,12 @@
 
 Introduction - Unraveling the Digital Trails: Empowering Justice in Cyberspace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Welcome to our Cyber Forensics Challenge page! Explore and download virtual machines designed to simulate real-world scenarios, where you'll uncover clues, analyze digital evidence, and solve intriguing mystery questions. Sharpen your investigative skills and embark on a journey to become a digital detective in the realm of cybersecurity!
+Welcome to our Cyber Forensics Challenge page! Explore and download virtual machines designed to simulate real-world scenarios, where you'll uncover clues, analyze digital evidence, and solve intriguing mystery questions. Sharpen your investigative skills and embark on a journey to become a digital detective in the realm of cybersecurity! (Usually computers will be provided with needed software pre-installed)
 
 How to Use Our Virtual Enviornments?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Step 1: Install and Run VMWare Workstation Player or Virtual Box (Free and Safe)**
+**Step 1: Install and Run VMWare Workstation Player or Virtual Box (Free and SAFE TO DOWNLOAD)**
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/hero-vmware-workstation-player.png
    :width: 100%
@@ -42,9 +42,17 @@ How to Use Our Virtual Enviornments?
 
    - Explore the CyberSac website's VMware-based virtual machine for a safe and engaging introduction to cybersecurity. Our user-friendly virtual machine will empower you to grasp essential concepts and practices while maintaining a secure learning environment. (VMWare)
 
-*CyberSAC Linux VM: This is our custom linux virtual machine and provides a useful intro to Ubuntu Linux OS and its security policies.* Download Link:  
+*CyberSAC Linux VM: This is our custom linux virtual machine and provides a useful intro to Ubuntu Linux OS and its security policies.* 
+
+Download Link: https://shorturl.at/jpKU2
+
+Mirror Link: https://shorturl.at/tFOP2
+
 
 *CyberSAC Windows VM: This is out custom Windows virtual machine and provides a useful intro into securily using Windos 10 OS.*
-Download Link:
+
+Download Link: https://shorturl.at/jpqX9
+
+Mirror Link: https://shorturl.at/cimpK
 
 **Step 3: Start the Virtual Machine and begin the exersice!☺**
