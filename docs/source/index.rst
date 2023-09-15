@@ -70,7 +70,6 @@ Other CyberContent
    AuthorsContributors.rst
    cybernews.rst
    links.rst
-   Contact.rst
    feedback.rst
    DMCARequest.rst
  
