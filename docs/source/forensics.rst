@@ -28,7 +28,7 @@ How to Use Our Virtual Enviornments?
 
 *Virtual Box Download Link:* https://www.virtualbox.org/wiki/Downloads
 
-**Step 2: Download and Add A Virtual Machine to VMWare (CTF CyberSAC and VulnHub)**
+**Step 2: Download and Add A Virtual Machine to VMWare**
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/vulnhubban.png
    :width: 55%
@@ -39,12 +39,12 @@ How to Use Our Virtual Enviornments?
    :align: center
 
 .. Important::
-   - VulnHub is a platform that provides a collection of intentionally vulnerable virtual machines, designed for practicing and honing cybersecurity skills through hands-on exploitation and penetration testing challenges. It offers a practical environment for enthusiasts to learn and improve their understanding of real-world security vulnerabilities. (Virtual Box)
 
    - Explore the CyberSac website's VMware-based virtual machine for a safe and engaging introduction to cybersecurity. Our user-friendly virtual machine will empower you to grasp essential concepts and practices while maintaining a secure learning environment. (VMWare)
 
 *CyberSAC Linux VM: This is our custom linux virtual machine and provides a useful intro to Ubuntu Linux OS and its security policies.* Download Link:  
 
-*Vulnhub Virtual Box VM:* This machine is designed by keeping in mind about all the beginners who wants to start their journey in CTF challenges. Download Link: https://www.vulnhub.com/entry/haclabs-deception,427/
+*CyberSAC Windows VM: This is out custom Windows virtual machine and provides a useful intro into securily using Windos 10 OS.*
+Download Link:
 
 **Step 3: Start the Virtual Machine and begin the exersice!☺**
