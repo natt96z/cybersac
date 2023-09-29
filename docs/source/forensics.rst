@@ -9,6 +9,14 @@ Introduction - Unraveling the Digital Trails: Empowering Justice in Cyberspace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Welcome to our Cyber Forensics Challenge page! Explore and download virtual machines designed to simulate real-world scenarios, where you'll uncover clues, analyze digital evidence, and solve intriguing mystery questions. Sharpen your investigative skills and embark on a journey to become a digital detective in the realm of cybersecurity! (Usually computers will be provided with needed software pre-installed)
 
+Whats The Difference Between Virtual Box and VMWare?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+VirtualBox and VMware are both popular virtualization solutions, but they differ in their licensing models and feature sets. VirtualBox is a free and open-source virtualization platform developed by Oracle. It is widely used for creating and managing virtual machines on various host operating systems. While VirtualBox is accessible to a broad user base due to its open-source nature, it may have some limitations in terms of advanced features and performance optimization.
+
+On the other hand, VMware offers a range of proprietary virtualization products like VMware Workstation and VMware vSphere, known for their robustness and advanced capabilities. VMware's solutions are often preferred by businesses and enterprise environments for their enhanced performance, scalability, and management tools. However, these advanced features come at a cost, as VMware licenses can be relatively expensive.
+
+In summary, VirtualBox is an excellent choice for individuals and small-scale virtualization needs, thanks to its free and open-source nature. In contrast, VMware's proprietary offerings are preferred by organizations with more demanding virtualization requirements, as they provide advanced functionalities and professional support, albeit at a higher price point. The choice between the two ultimately depends on your specific use case and budget considerations.
+
 How to Use Our Virtual Enviornments?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
