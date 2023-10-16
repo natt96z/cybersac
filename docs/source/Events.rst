@@ -6,7 +6,7 @@
 .. raw:: html
 
 
-                         
+                     <table>    
                     <tr style="border-bottom: 1px solid black;">
                       <th>Round</th>
                       <th>Dates</th>
