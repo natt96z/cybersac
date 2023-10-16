@@ -5,7 +5,6 @@
 
 .. raw:: html
 
-         
          <table>
   <tr style="border-bottom: 1px solid black;">
     <th>Round</th>
@@ -63,3 +62,5 @@
     <td>National Finalist teams compete for National Championship in their respective divisions.</td>
   </tr>
 </table>
+
+  
