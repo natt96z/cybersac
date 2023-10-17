@@ -57,7 +57,7 @@ Download Link: https://shorturl.at/jpKU2
 Mirror Link: https://shorturl.at/tFOP2
 
 
-*CyberSAC Windows VM: This is out custom Windows virtual machine and it provides a useful intro into securily using Windos 10 OS.*
+*CyberSAC Windows VM: This is our custom Windows virtual machine and it provides a useful intro into securily using Windos 10 OS.*
 
 Download Link: https://shorturl.at/jpqX9
 
