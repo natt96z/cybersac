@@ -20,12 +20,6 @@
 
       <script src="//rss.bloople.net/?url=https%3A%2F%2Ffeeds.feedburner.com%2FTheHackersNews%3Fformat%3Dxml&limit=4&showtitle=false&type=js"></script>
       
-**Cyber Secuity Vurnerability Watch**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-   <iframe src="https://www.mysitemapgenerator.com/embed/rss/0/c17859f06c21eb3fc8cc61f142544526" width="100%" height="580" frameborder=0 onload="this.style.height=this.contentWindow.document.body.scrollHeight+'px';"></iframe>
      
 **Sign Up For ★CyberPatriot's CyberCentinel!★**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
