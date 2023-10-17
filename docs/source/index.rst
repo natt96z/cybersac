@@ -69,6 +69,7 @@ Other CyberContent
    OfficialPatriot.rst
    Events.rst
    AuthorsContributors.rst
+   discordpatriot.rst
    cybernews.rst
    links.rst
    feedback.rst
