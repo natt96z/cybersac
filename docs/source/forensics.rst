@@ -11,7 +11,7 @@ Welcome to our Cyber Forensics Challenge page! Explore and download virtual mach
 
 Whats The Difference Between Virtual Box and VMWare?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-VirtualBox and VMware are both popular virtualization solutions, but they differ in their licensing models and feature sets. VirtualBox is a free and open-source virtualization platform developed by Oracle. It is widely used for creating and managing virtual machines on various host operating systems. While VirtualBox is accessible to a broad user base due to its open-source nature, it may have some limitations in terms of advanced features and performance optimization.
+VirtualBox and VMware are both popular virtualization solutions, but they differ in their licensing models and feature sets. VirtualBox is a free and open-source virtualization platform developed by Oracle. It is widely used for creating and managing virtual machines on various host operating systems. While VirtualBox is accessible, to a broad user base, due to its open-source nature, it may have some limitations in terms of advanced features and performance optimization.
 
 On the other hand, VMware offers a range of proprietary virtualization products like VMware Workstation and VMware vSphere, known for their robustness and advanced capabilities. VMware's solutions are often preferred by businesses and enterprise environments for their enhanced performance, scalability, and management tools. However, these advanced features come at a cost, as VMware licenses can be relatively expensive.
 
@@ -50,14 +50,14 @@ How to Use Our Virtual Enviornments?
 
    - Explore the CyberSac website's VMware-based virtual machine for a safe and engaging introduction to cybersecurity. Our user-friendly virtual machine will empower you to grasp essential concepts and practices while maintaining a secure learning environment. (VMWare)
 
-*CyberSAC Linux VM: This is our custom linux virtual machine and provides a useful intro to Ubuntu Linux OS and its security policies.* 
+*CyberSAC Linux VM: This is our custom linux virtual machine and it provides a useful intro to Ubuntu Linux OS and its security policies.* 
 
 Download Link: https://shorturl.at/jpKU2
 
 Mirror Link: https://shorturl.at/tFOP2
 
 
-*CyberSAC Windows VM: This is out custom Windows virtual machine and provides a useful intro into securily using Windos 10 OS.*
+*CyberSAC Windows VM: This is out custom Windows virtual machine and it provides a useful intro into securily using Windos 10 OS.*
 
 Download Link: https://shorturl.at/jpqX9
 
