@@ -75,26 +75,7 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/8.jpg
    :width: 50%
    :align: center
-   
-   
-**★Core Knowledge★ -** Ophcrack is a common software boot cracking tool that can hack Windows passwords. The program includes, the ability to import the hashes from a variety of formats, including dumping directly from the SAM files of Windows. On most computers, ophcrack can crack most passwords within minutes, maybe even seconds.
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/9.jpg
-   :width: 90%
-   :align: center
-   
-**★Core Knowledge★ -** This bootable OS has great cracking tools, as well as, software diagnostics software specifically for Windows OS's. This bootable USB OS should be used at your own risk and can have damage on Windows OS with incorrect use.
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/10.jpg
-   :width: 50%
-   :align: center
-
-.. Note:: This NTP tool brute force changes administrative login credentials, as well as, editing other user permissions and passwords.
-
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/12.jpg
-   :width: 60%
-   :align: center
 
 **Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault. 
 
