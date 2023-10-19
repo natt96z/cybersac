@@ -77,6 +77,10 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
    :align: center
 
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/12.jpg
+   :width: 60%
+   :align: center
+
 **Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault. 
 
 .. raw:: html
