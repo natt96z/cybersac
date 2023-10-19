@@ -51,7 +51,7 @@ Cyber Ethics - Doing the right thing with computer technology!
 
 
 
-Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
+Windows Security – A Look Into Windows Security and Vulnerabilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/7.jpg
@@ -71,11 +71,6 @@ Cracking Windows Security – A Look Into Windows Security and Vulnerabilities
    :align: center
 
 **Software security Recommendation:** As a built-in malware scanner for Microsoft Windows, Microsoft Defender Antivirus will look for any files or programs, on your computer, that could harm it as part of the Windows Security suite. Defender scans email, apps, the cloud, and the web for software threats, including viruses and other malware. It's also, constantly, updating with new securitry definitions to fix critical Windows exploits.
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/8.jpg
-   :width: 50%
-   :align: center
-
 
 **Software security Recommendation:** Bitwarden is a free and open-source password protection program that keeps private information, including login details for sites on the internet, in an encrypted vault. 
 
