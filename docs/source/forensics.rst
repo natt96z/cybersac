@@ -7,7 +7,7 @@
 
 Introduction - Unraveling the Digital Trails: Empowering Justice in Cyberspace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Welcome to our Cyber Forensics Challenge page! Explore and download virtual machines designed to simulate real-world scenarios, where you'll uncover clues, analyze digital evidence, and solve intriguing mystery questions. Sharpen your investigative skills and embark on a journey to become a digital detective in the realm of cybersecurity! (Usually computers will be provided with needed software pre-installed)
+Welcome to our Cyber Forensics Challenge page! Explore and download virtual machines designed to simulate real-world scenarios, where you'll uncover clues, analyze digital evidence, and solve intriguing mystery questions. Sharpen your investigative skills and embark on a journey to become a digital detective in the realm of cybersecurity! (Usually, computers will be provided with needed software pre-installed)
 
 Whats The Difference Between Virtual Box and VMWare?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ How to Use Our Virtual Enviornments?
 
    - Explore the CyberSac website's VMware-based virtual machine for a safe and engaging introduction to cybersecurity. Our user-friendly virtual machine will empower you to grasp essential concepts and practices while maintaining a secure learning environment. (VMWare)
 
-*CyberSAC Linux VM: This is our custom linux virtual machine and it provides a useful intro to Ubuntu Linux OS and its security policies.* 
+*CyberSAC Linux VM: This is our custom Linux virtual machine and it provides a useful intro to Ubuntu Linux OS and its security policies.* 
 
 Download Link: https://shorturl.at/jpKU2
 
