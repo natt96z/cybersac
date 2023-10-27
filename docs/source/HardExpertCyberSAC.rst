@@ -130,6 +130,8 @@ Source: https://nextdns.io/
 Similar to Safing Portmaster, this DNS firewall will allow you to do the same things, even add custom blocklists and manage all your devices through a central hub with a
 beatiful web UI.
 
+Note: Read the documentation carefully and make sure you don't have two dns providers running at the same time.
+
 Video follow along:
 
 .. raw:: html
