@@ -136,7 +136,7 @@ Video follow along:
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/WUG57ynLb8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/6c4d4fe8fc7a511a7b5609a0f53ae1e194d2f009/docs/img/image.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/855596b059bd46c0a2ce3faa0dda19703c8337df/docs/img/nextdns.png
    :width: 51%
    :align: center
    
