@@ -123,6 +123,25 @@ Video follow along:
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/tPRv-ATUBe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+NextDNS - The new firewall for the modern Internet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Source: https://nextdns.io/
+
+Similar to Safing Portmaster, this DNS firewall will allow you to do the same things, even add custom blocklists and manage all your devices through a central hub with a
+beatiful web UI.
+
+Video follow along:
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/WUG57ynLb8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/6c4d4fe8fc7a511a7b5609a0f53ae1e194d2f009/docs/img/image.png
+   :width: 51%
+   :align: center
+   
+
+
 Safing Portmaster - An Easy To Use Firewall For Your Computer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Source: https://safing.io/
