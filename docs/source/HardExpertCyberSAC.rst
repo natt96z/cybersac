@@ -301,6 +301,23 @@ rkhunter -C
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/lAnQzVqx9s4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+Hardened Debian GNU/Linux distro auditing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://github.com/hardenedlinux/harbian-audit
+
+Hardened Debian GNU/Linux and CentOS 8 distro auditing.
+
+The main test environment is in debian GNU/Linux 9/10/11/12 and CentOS 8 and ubuntu 22, and other versions are not fully tested. There are no implementations of desktop related items in this release.
+
+The code framework is based on the OVH-debian-cis project, Modified some of the original implementations according to the features of Debian 9/10/11/12 and CentOS 8, added and implemented check items for STIG Red_Hat_Enterprise_Linux_7_V2R5 STIG Ubuntu V1R2 and cisecurity.org recommendations, and also added and implemented some check items by the HardenedLinux community. The audit and apply functions of the infrastructure are implemented, and the automatic fix function is implemented for the items that can be automatically fixed.
+
+
+
+
+
+
+
 What is Kali Linux? - Detailed Computer Penetration Testing (Setup Image Guide)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
