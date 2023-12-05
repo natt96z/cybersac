@@ -193,7 +193,7 @@ A user can easily run a program, as administrator, on Windows. While on Linux, y
    :width: 66%
    :align: center
   
-.. Note:: Pling is the largest and most popular Linux based app market, that has multiple sets of themes, apps and extensions, for various flavors of Linux distros. 
+.. Note:: Pling is the largest and most popular Linux-based app market, that has multiple sets of themes, apps, and extensions, for various flavors of Linux distros. 
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/17.jpg
    :width: 65%
@@ -202,6 +202,74 @@ A user can easily run a program, as administrator, on Windows. While on Linux, y
  **Linux Can’t Get Viruses AS EASY as Windows OS can...BUT**
  
 **★Core Knowledge★ -** Users, typically, utilize the internet to search for an EXE or MSI file, download it, and install software on Windows. Due to the uncertainty surrounding, this source's reliability, there is a significant security risk. On the other hand, Linux makes use of a tool called a package manager. Simply defined, a package manager, oversees obtaining the packages you require from reliable sources, known as repositories. Most of the time, the community manages repositories, and the verification and acceptance process for packages is laborious. They, also, simplify things for the user, because there is no need to browse the internet or look up files to download. All you need to do is type a short command. 
+
+Useful Basic Linux Commands
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+==============
+Linux Commands
+==============
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 40 40
+
+   * - **Command**
+     - **Explanation**
+     - **Example**
+   * - ``sudo``
+     - Used before a command to run as root or an administrator.
+     - ``sudo apt-get update``
+   * - ``ls``
+     - List directories and files in the current or specified directory.
+     - ``ls``, ``ls desktop``
+   * - ``ls -l``
+     - Long listing with additional file details.
+     - ``ls -l``, ``ls -l Desktop``
+   * - ``cd``
+     - Change directory; move to another directory.
+     - ``cd``, ``cd Downloads``
+   * - ``rm``
+     - Remove; delete files.
+     - ``rm useless_file``
+   * - ``mv``
+     - Move; move a file to a different location.
+     - ``mv file.txt /path/to/new/location/``
+   * - ``dir``
+     - List all directories or folders in the current directory.
+     - ``dir``, ``dir Downloads``
+   * - ``mkdir``
+     - Make directory; create new directories/folders.
+     - ``mkdir new_folder``
+   * - ``apt``
+     - Install, remove, and manage packages in Ubuntu (requires sudo).
+     - Install: ``sudo apt install new_file``<br> Remove: ``sudo apt remove daniel_sharpiro``<br> Update System: ``sudo apt update && sudo apt upgrade``
+   * - ``sudo apt-get update``
+     - Fetch the latest version of each package without downloading or installing updates.
+     - ``sudo apt-get update``
+   * - ``sudo apt-get upgrade``
+     - Download and install updates for each outdated package and dependency.
+     - ``sudo apt-get upgrade``
+   * - ``ip a``
+     - Find the IP address of a computer.
+     - ``ip a``
+   * - ``ifconfig``
+     - Display networking information about a computer.
+     - ``ifconfig``
+   * - ``clear``
+     - Clear the terminal screen.
+     - ``clear``
+   * - ``exit``
+     - Exit the terminal.
+     - ``exit``
+   * - ``shutdown -now``
+     - Shutdown the computer immediately.
+     - ``shutdown -now``
+
+
+
+
+
 
 
 
