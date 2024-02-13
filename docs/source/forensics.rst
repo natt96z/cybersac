@@ -15,7 +15,10 @@ VirtualBox and VMware are both popular virtualization solutions, but they differ
 
 On the other hand, VMware offers a range of proprietary virtualization products like VMware Workstation and VMware vSphere, known for their robustness and advanced capabilities. VMware's solutions are often preferred by businesses and enterprise environments for their enhanced performance, scalability, and management tools. However, these advanced features come at a cost, as VMware licenses can be relatively expensive.
 
-In summary, VirtualBox is an excellent choice for individuals and small-scale virtualization needs, thanks to its free and open-source nature. In contrast, VMware's proprietary offerings are preferred by organizations with more demanding virtualization requirements, as they provide advanced functionalities and professional support, albeit at a higher price point. The choice between the two ultimately depends on your specific use case and budget considerations. (Need The Official Competition Demo VM? Click Here: https://drive.google.com/file/d/1lZD0S3Vb2l21Veucw_MTiX3-41wh5v-4/view?usp=sharing)
+In summary, VirtualBox is an excellent choice for individuals and small-scale virtualization needs, thanks to its free and open-source nature. In contrast, VMware's proprietary offerings are preferred by organizations with more demanding virtualization requirements, as they provide advanced functionalities and professional support, albeit at a higher price point. The choice between the two ultimately depends on your specific use case and budget considerations. 
+
+**Looking For The Official Competition Demo VM? Click Here:** https://drive.google.com/file/d/1lZD0S3Vb2l21Veucw_MTiX3-41wh5v-4/view?usp=sharing
+
 
 How to Use Our Virtual Enviornments?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
