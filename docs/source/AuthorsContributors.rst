@@ -24,7 +24,7 @@
 
 *Patrice Terrell*
 
-> Email: 
+> Email: pt14063@rsccd.onmicrosoft.com
 
 *Albert Huynh*
 
