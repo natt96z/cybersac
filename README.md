@@ -1,6 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/SACCyberCenter.PNG)
 ![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/Reasearch_1.jpg) 
-![Banner](https://github.com/natt96z/cybersac/blob/main/docs/logos/2023CPalllasasacogos.png)
 
 
 **CyberSAC Documentation Site Status**
@@ -20,7 +19,7 @@
 _The Santa Ana College CyberSAC Team: [Nathaniel C.](https://github.com/natt96z), [Albert H.](https://github.com/liluzibird), Teairra M., Hung D., [Patrice T.](https://github.com/computerbluerain) [Angel D.](https://github.com/OdyTro), Alicia R._
 
 
-CyberPatriot SAC Documentation GitHub
-=======================================
-This GitHub will be a continuation of the latest, combining new hands-on ideas that would be most appropriate for the SAC (Santa Ana College Cyber Center) CyberPatriots to implement into training and instructions for CyberPatriot competitors. **Understandably, CyberPatriot already has a base template and exercise material, but for this circumstance, we will be making extra in-depth material that goes beyond what the program offers.** Programming is completely done in python. https://readthedocs.org/projects/cybersac/
+About This CyberSAC Documentation GitHub Project
+======================================================
+The cybersac GitHub repository is a dedicated resource for the Santa Ana College Cyber Center (SAC Cyber Center). Programmed exclusively in Python, it offers extra in-depth, hands-on ideas to enhance cybersecurity training beyond the standard offerings. Originally tailored for SAC CyberPatriots program, this repository serves as a central hub for innovative materials, providing a standalone resource that complements the specific needs and goals of the Santa Ana College Cyber Center.
 
