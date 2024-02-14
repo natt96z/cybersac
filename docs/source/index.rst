@@ -3,7 +3,7 @@
             <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
             <div class="commonninja_component pid-c6a3aaf6-7446-40bb-bd1f-17bf4cf6ff15"></div>
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cybertopbanner0957.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cybertopbanner095777.png
    :width: 100%
    :align: center
 
