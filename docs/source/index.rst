@@ -7,7 +7,7 @@
    :width: 100%
    :align: center
 
-Welcome to the Official Cyber Center CyberSAC Documentation Hub!
+Welcome to the Cyber Center CyberSAC Documentation Hub!
 ================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Don-Bot3.gif
