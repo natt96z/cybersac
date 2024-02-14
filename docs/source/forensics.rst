@@ -17,8 +17,7 @@ On the other hand, VMware offers a range of proprietary virtualization products 
 
 In summary, VirtualBox is an excellent choice for individuals and small-scale virtualization needs, thanks to its free and open-source nature. In contrast, VMware's proprietary offerings are preferred by organizations with more demanding virtualization requirements, as they provide advanced functionalities and professional support, albeit at a higher price point. The choice between the two ultimately depends on your specific use case and budget considerations. 
 
-**Looking For The Official Competition Demo VM? Click Here:** https://drive.google.com/file/d/1lZD0S3Vb2l21Veucw_MTiX3-41wh5v-4/view?usp=sharing
-
+**Looking For The AFA CyberPatriots Competition Demo VM? Click Here:** https://t.ly/lSLx9
 
 How to Use Our Virtual Enviornments?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
