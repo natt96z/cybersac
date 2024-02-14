@@ -11,7 +11,7 @@
    :width: 50%
    :align: center  
 
-*NOTE: This comprehensive cyber security resource is a collaborative effort by various contributors and authors who have diligently gathered and created hands-on virtual material. All programming is exclusively done in Python, and the documentation is crafted using ReadTheDocs and the Sphinx engine. Regular updates are made to keep the content aligned with the dynamic landscape of the cybersecurity world.
+*NOTE:* This comprehensive cyber security resource is a collaborative effort by various contributors and authors who have diligently gathered and created hands-on virtual material. All programming is exclusively done in Python, and the documentation is crafted using ReadTheDocs and the Sphinx engine. Regular updates are made to keep the content aligned with the dynamic landscape of the cybersecurity world.
 
 Initially inspired by CyberPatriot competition material, this project has evolved to provide valuable resources specifically tailored for CyberCenter Patriot members. The ongoing additions and adjustments ensure that the material remains relevant and up-to-date.
 
