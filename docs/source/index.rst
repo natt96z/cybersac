@@ -29,7 +29,7 @@ What's Offered On This Documentation Hub? - Fun Hands-On Patriot Tiers!
    :align: center
 
 .. note::
-The **EasyPatriot** The EasyPatriot difficulty level is grounded in the foundational structure of our education program, catering specifically to beginners venturing into the realm of cybersecurity. It emphasizes essential aspects of online safety, such as practicing secure web browsing, identifying and steering clear of potentially harmful websites, ensuring the safe downloading of files, implementing measures for online virus protection, understanding prevalent online scams, and learning how to safeguard personal information from theft in the digital space. This level serves as an introductory step, offering essential knowledge for those new to the world of cybersecurity.
+The **EasyPatriot** difficulty level is grounded in the foundational structure of our education program, catering specifically to beginners venturing into the realm of cybersecurity. It emphasizes essential aspects of online safety, such as practicing secure web browsing, identifying and steering clear of potentially harmful websites, ensuring the safe downloading of files, implementing measures for online virus protection, understanding prevalent online scams, and learning how to safeguard personal information from theft in the digital space. This level serves as an introductory step, offering essential knowledge for those new to the world of cybersecurity.
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Intermidiate%20Patriot.png
    :width: 100%
