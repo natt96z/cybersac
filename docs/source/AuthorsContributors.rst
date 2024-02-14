@@ -11,7 +11,9 @@
    :width: 50%
    :align: center  
 
-*NOTE: All contributors or authors have contributed, gathering and creating useful cyber security based hands-on virtual material. Understandably, CyberPatriot already has a base template and exercise material, but for this circumstance, we will be making extra in-depth material that goes beyond what the program offers. Programming is completely done in python and through the use of ReadTheDocs and the Sphinx engine. New content added to this project are frequent and well adjusting to the current state of the cyber security world.*
+*NOTE: This comprehensive cyber security resource is a collaborative effort by various contributors and authors who have diligently gathered and created hands-on virtual material. All programming is exclusively done in Python, and the documentation is crafted using ReadTheDocs and the Sphinx engine. Regular updates are made to keep the content aligned with the dynamic landscape of the cybersecurity world.
+
+Initially inspired by CyberPatriot competition material, this project has evolved to provide valuable resources specifically tailored for CyberCenter Patriot members. The ongoing additions and adjustments ensure that the material remains relevant and up-to-date.
 
 
 
