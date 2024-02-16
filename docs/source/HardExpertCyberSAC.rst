@@ -47,54 +47,54 @@ A picture containing graphical user interface.
 
 .. raw:: HTML
 
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th>Mode</th>
-      <th>Symbol</th>
-      <th>Access</th>
-      <th>Prompt</th>
-      <th>Exit</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>User EXEC</td>
-      <td>></td>
-      <td>Default after booting</td>
-      <td>Router></td>
-      <td>exit</td>
-    </tr>
-    <tr>
-      <td>Privileged EXEC</td>
-      <td>#</td>
-      <td>enable command from User EXEC</td>
-      <td>Router#</td>
-      <td>exit</td>
-    </tr>
-    <tr>
-      <td>Global Configuration</td>
-      <td>(config)#</td>
-      <td>configure terminal command from Privileged EXEC</td>
-      <td>Router(config)#</td>
-      <td>exit or Ctrl+Z</td>
-    </tr>
-    <tr>
-      <td>Interface Configuration</td>
-      <td>(config-if)#</td>
-      <td>interface &lt;interface name+number&gt; command from Global Configuration</td>
-      <td>Router(config-if)#</td>
-      <td>exit</td>
-    </tr>
-    <tr>
-      <td>ROMMON</td>
-      <td>ROMMON></td>
-      <td>reload command from Privileged EXEC or pressing Ctrl+C during boot</td>
-      <td>ROMMON></td>
-      <td>exit (limited functionality)</td>
-    </tr>
-  </tbody>
-</table>
+	<table class="table table-striped">
+	  <thead>
+	    <tr>
+	      <th>Mode</th>
+	      <th>Symbol</th>
+	      <th>Access</th>
+	      <th>Prompt</th>
+	      <th>Exit</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>User EXEC</td>
+	      <td>></td>
+	      <td>Default after booting</td>
+	      <td>Router></td>
+	      <td>exit</td>
+	    </tr>
+	    <tr>
+	      <td>Privileged EXEC</td>
+	      <td>#</td>
+	      <td>enable command from User EXEC</td>
+	      <td>Router#</td>
+	      <td>exit</td>
+	    </tr>
+	    <tr>
+	      <td>Global Configuration</td>
+	      <td>(config)#</td>
+	      <td>configure terminal command from Privileged EXEC</td>
+	      <td>Router(config)#</td>
+	      <td>exit or Ctrl+Z</td>
+	    </tr>
+	    <tr>
+	      <td>Interface Configuration</td>
+	      <td>(config-if)#</td>
+	      <td>interface &lt;interface name+number&gt; command from Global Configuration</td>
+	      <td>Router(config-if)#</td>
+	      <td>exit</td>
+	    </tr>
+	    <tr>
+	      <td>ROMMON</td>
+	      <td>ROMMON></td>
+	      <td>reload command from Privileged EXEC or pressing Ctrl+C during boot</td>
+	      <td>ROMMON></td>
+	      <td>exit (limited functionality)</td>
+	    </tr>
+	  </tbody>
+	</table>
 
 
 **Management Plane** - The connection between the workstation and the device where the administrator monitors and configures services.
