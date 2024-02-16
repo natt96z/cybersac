@@ -283,9 +283,12 @@ I made this short video after someone online told people to use password manager
 
 https://tube.tchncs.de/videos/embed/b2b31d15-015c-417a-bcae-3def0a5fb159
 
+<iframe title="Don't Store Passwords In The Browser" width="560" height="315" src="https://tube.tchncs.de/videos/embed/b2b31d15-015c-417a-bcae-3def0a5fb159" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
 .. raw:: html
 
    <iframe title="Don't Store Passwords In The Browser" width="560" height="315" src="https://tube.tchncs.de/videos/embed/b2b31d15-015c-417a-bcae-3def0a5fb159" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
 
 
 
