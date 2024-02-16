@@ -45,7 +45,8 @@ A picture containing graphical user interface.
 
 **Useful Cisco Packet Tracer IOS CLI CommandS**
 
- .. raw:: HTML
+.. raw:: HTML
+
 <table class="table table-striped">
   <thead>
     <tr>
