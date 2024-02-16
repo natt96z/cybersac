@@ -43,7 +43,7 @@ A picture containing graphical user interface.
    :width: 60%
    :align: center
 
-**Useful Cisco Packet Tracer IOS CLI CommandS**
+**Useful Cisco Packet Tracer IOS CLI Commands**
 
 .. raw:: HTML
 
