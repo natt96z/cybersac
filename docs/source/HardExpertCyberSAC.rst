@@ -43,6 +43,14 @@ A picture containing graphical user interface.
    :width: 60%
    :align: center
 
+| Mode | Symbol | Access | Prompt | Exit |
+|---|---|---|---|---|
+| User EXEC | `>` | Default after booting | `Router>` | `exit` |
+| Privileged EXEC | `#` | `enable` command from User EXEC | `Router#` | `exit` |
+| Global Configuration | `(config)#` | `configure terminal` command from Privileged EXEC | `Router(config)#` | `exit` or `Ctrl+Z` |
+| Interface Configuration | `(config-if)#` | `interface <interface name+number>` command from Global Configuration | `Router(config-if)#` | `exit` |
+| ROMMON | `ROMMON>` | `reload` command from Privileged EXEC or pressing `Ctrl+C` during boot | `ROMMON>` | `exit` (limited functionality) |
+
 
 **Management Plane** - The connection between the workstation and the device where the administrator monitors and configures services.
 
