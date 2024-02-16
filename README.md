@@ -21,5 +21,5 @@ _The Santa Ana College CyberSAC Team: [Nathaniel C.](https://github.com/natt96z)
 
 About This CyberSAC Documentation GitHub Project
 ======================================================
-The cybersac GitHub repository is a dedicated resource for the Santa Ana College Cyber Center (SAC Cyber Center). Programmed exclusively in Python, it offers extra in-depth, hands-on ideas to enhance cybersecurity training beyond the standard offerings. Originally tailored for SAC CyberPatriots program, this repository serves as a central hub for innovative materials, providing a standalone resource that complements the specific needs and goals of the Santa Ana College Cyber Center.
+The cybersac GitHub repository is a dedicated resource for the Santa Ana College Cyber Center (SAC Cyber Center). Programmed exclusively in Python, it offers extra in-depth, hands-on ideas to enhance cybersecurity training beyond the standard offerings. Originally tailored for SAC CyberPatriots program, this repository serves as a central hub for innovative materials, providing a standalone resource that complements the specific needs and goals of the Santa Ana College Cyber Center Initiative.
 
