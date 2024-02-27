@@ -66,7 +66,6 @@ Other CyberContent
    :maxdepth: 1
 
    forensics.rst
-   Events.rst
    AuthorsContributors.rst
    cyberclub.rst
    cybernews.rst
