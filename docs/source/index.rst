@@ -10,7 +10,7 @@
 Welcome to the CyberSAC Documentation Hub!
 ================================================
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Don-Bot3.gif
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/dontbot2.gif
    :width: 100%
    :align: center
 
