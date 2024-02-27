@@ -68,6 +68,7 @@ Other CyberContent
    forensics.rst
    Events.rst
    AuthorsContributors.rst
+   cyberclub.rst
    cybernews.rst
    discordpatriot.rst
    links.rst
