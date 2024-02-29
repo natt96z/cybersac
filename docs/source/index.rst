@@ -11,7 +11,7 @@ Welcome to the CyberSAC Documentation Hub!
 ================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Untitled_Project_V3.gif
-   :width: 100%
+   :width: 150%
    :align: center
 
 
