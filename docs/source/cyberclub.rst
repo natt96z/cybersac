@@ -3,7 +3,7 @@
 
 Sign Up For Our SAC Club Today!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-**Embark on exciting digital adventures by joining our gaming club, where immersive entertainment awaits. With our cutting-edge cybersecurity measures, rest assured that your gaming experience is protected from potential threats, ensuring a secure and fair online community for all members.**
+**Embark on exciting digital adventures by joining our gaming club, where immersive entertainment awaits. With our cutting-edge cybersecurity measures, rest assured that your gaming experience is protected from potential threats, ensuring a secure and fair online community for all members.(Powered by Google Forms)**
 
 .. raw:: HTML
 
