@@ -1,13 +1,10 @@
-**Gaming and CyberSecurity Club**
+**Gaming and CyberSecurity Club (Beta)**
 =============================================================
 
-🚧 Page Under Construction 🚧
 
-We're currently working on enhancing this page to provide you with a better experience. Please bear with us as we make improvements. Feel free to check back later.
+Sign Up For Our SAC Club Today!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Thank you for your patience!
+.. raw:: HTML
 
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/construction-concept-illustration_114360-1718.png
-   :width: 80%
-   :align: center
+   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsjTOzhqpjer59McshgkSb5SRIp6CJ3KlWtt6DxE2qHrNFDw/viewform?embedded=true" width="640" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
