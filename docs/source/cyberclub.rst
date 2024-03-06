@@ -1,13 +1,17 @@
 **Gaming and Cybersecurity Club**
 =============================================================
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cross-platform-play-concept-vector-illustration.jpg
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Joinclubcyber.png
    :align: center
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **About Our Club: Here is Why You Should Join!**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cross-platform-play-concept-vector-illustration.jpg
+   :align: center
+
 
 Are you ready to embark on an epic quest that combines adrenaline-pumping gaming with cutting-edge cybersecurity? Look no further! Our **Gaming and Cybersecurity Club** is your gateway to a world where pixels collide with firewalls, and where camaraderie meets code.
 
