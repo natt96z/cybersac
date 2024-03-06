@@ -40,7 +40,7 @@ The digital gaming landscape has exploded, drawing millions into its fold. But w
 
 4. **Youthful Opportunity:** The gaming industry's growth means more cybersecurity threats. Young professionals can make a meaningful impact by securing players' data while enjoying this dynamic field.
 
-### **What Sets Us Apart?**
+**What Sets Us Apart?**
 
 1. **Food and Fun:** Our club meetings aren't just about firewalls and algorithms. We spice things up with snacks, pizza, and the occasional energy drink. Because even digital warriors need sustenance!
 
