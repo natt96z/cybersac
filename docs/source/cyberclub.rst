@@ -14,7 +14,7 @@ Club Event's Calendar
 
 .. raw:: HTML
 
-   <iframe src="https://calendar.google.com/calendar/embed?src=ff42dc7e22d858ad99fb341e143e32c9619bac6c6330d0271766ce167b395f57%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+   <iframe src="https://calendar.google.com/calendar/embed?src=ff42dc7e22d858ad99fb341e143e32c9619bac6c6330d0271766ce167b395f57%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
