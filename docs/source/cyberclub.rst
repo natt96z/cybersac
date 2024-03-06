@@ -1,4 +1,4 @@
-**Gaming and CyberSecurity Club (BETA)**
+**Gaming and Cybersecurity Club (BETA)**
 =============================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cross-platform-play-concept-vector-illustration.jpg
