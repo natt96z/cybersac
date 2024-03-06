@@ -4,6 +4,7 @@
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/cross-platform-play-concept-vector-illustration.jpg
    :align: center
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **About Our Club: Here is Why You Should Join!**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
