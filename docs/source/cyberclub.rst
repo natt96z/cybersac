@@ -42,9 +42,9 @@ The digital gaming landscape has exploded, drawing millions into its fold. But w
 
 **What Sets Us Apart?**
 
-1. **Food and Fun:** Our club meetings aren't just about firewalls and algorithms. We spice things up with snacks, pizza, and the occasional energy drink. Because even digital warriors need sustenance!
+1. **Food and Fun:** Our club meetings aren't just about firewalls and algorithms. We spice things up with snacks, pizza, and tasty soda! 
 
-2. **Tournament Days:** Sharpen your skills and compete in thrilling gaming tournaments. Whether it's a League of Legends showdown or a CTF challenge, our tournaments are adrenaline-fueled and rewarding.
+2. **Tournament Days:** Sharpen your skills and compete in thrilling gaming tournaments. Whether it's a Smash Bros., COunter Strike, COD, Mario Kart or a CTF challenge, our tournaments are adrenaline-fueled and rewarding.
 
 3. **Game Voting:** We believe in democracy—even in the gaming world! Members get a say in which games we explore next. From retro classics to cutting-edge titles, your voice matters.
 
