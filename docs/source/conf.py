@@ -7,7 +7,7 @@ copyright = '2024, Santa Ana College & CyberSAC Authors/Contributors - Ver. 6.0.
 author = 'Nathaniel Clay'
 
 release = '6.0'
-version = '6.0.1'
+version = '6.0.3'
 
 # -- General configuration
 
