@@ -14,9 +14,14 @@ Welcome to the CyberSAC Documentation Hub!
    :width: 150%
    :align: center
 
+Here is what is Coming Soon to CyberSAC RTD!
+=============================================
 
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot%20from%202024-07-20%2010-30-48.png
+   :width: 80%
+   :align: center
 
-What's Offered On This Documentation Hub? - Fun Hands-On Patriot Tiers!
+What's offered on this Documentation Hub? - Fun Hands-On Patriot Tiers!
 =================================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/00086---desk-anim---v0.3.gif
