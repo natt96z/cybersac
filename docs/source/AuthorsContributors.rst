@@ -42,10 +42,8 @@
 
 > Email: sim_jason@sac.edu
 
-**Past Authors & Contributors**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-*Hung Dao*
+> Hung Dao*
 
-*Teairra McCoy*
+> Teairra McCoy*
 
 
