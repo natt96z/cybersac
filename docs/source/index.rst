@@ -14,7 +14,7 @@ Welcome to the CyberSAC Documentation Hub!
    :width: 150%
    :align: center
 
-Here is what is Coming Soon to CyberSAC RTD!
+Here is what is coming soon to CyberSAC RTD!
 =============================================
 
 .. image:: https://raw.githubusercontent.com/natt96z/cybersac/main/docs/img/Screenshot%20from%202024-07-20%2010-40-12.png
