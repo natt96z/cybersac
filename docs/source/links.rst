@@ -14,10 +14,12 @@ Software Resource Material (Download)
   <a href="https://drive.google.com/drive/folders/1OSgeOJkm7d3tgpXJZDgo66usUqQ6AcN7?usp=share_link" target="_blank">Download Resource Software (Windows) </a> 
 
 
-Useful Online Cyber Websites (External)
+Useful Online Cyber Websites (External) (Updated 11/20/2024)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 https://sac.edu/AcademicProgs/Business/ComputerScience/Pages/cis.aspx
+
+https://sac.edu/AcademicProgs/Business/ComputerScience/Documents/SAC_CIS_Brochure.pdf
 
 https://www.offensive-security.com/labs/individual/
 
