@@ -19,7 +19,7 @@ Useful Online Cyber Websites (External) (Updated 11/20/2024)
 
 https://sac.edu/AcademicProgs/Business/ComputerScience/Pages/cis.aspx
 
-https://sac.edu/AcademicProgs/Business/ComputerScience/Documents/SAC_CIS_Brochure.pdf - Updated Brochure
+https://sac.edu/AcademicProgs/Business/ComputerScience/Documents/SAC_CIS_Brochure.pdf
 
 https://www.offensive-security.com/labs/individual/
 
