@@ -70,7 +70,7 @@ Other CyberContent
 .. toctree::
    :maxdepth: 1
 
-   forensics.rst
+   cyberlabs.rst
    AuthorsContributors.rst
    cybernews.rst
    discordpatriot.rst
