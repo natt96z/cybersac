@@ -23,7 +23,7 @@ Cyber Events 2024
 **Link:** https://sac.edu/AcademicProgs/Business/ComputerScience/Pages/cyber2024.aspx
 
 Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With An Emulator
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================================================================================
 
 
 .. raw:: html
@@ -62,7 +62,7 @@ Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With A
 
 
 Linux OS Practice Lab - Learn Ubuntu Linux Fundamentals With A Virtual Machine
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==================================================================================
 
 
 .. raw:: html
