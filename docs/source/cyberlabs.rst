@@ -25,7 +25,7 @@ Cyber Events 2024
 Cyber Events 2025 (Hands On Material)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/refs/heads/main/docs/img/Gemini_Generated_Image_3ttgjr3ttgjr3ttg.png
+.. image:: https://raw.githubusercontent.com/natt96z/cybersac/refs/heads/main/docs/img/Screenshot2025event.png
    :width: 89%
    :align: center
 
