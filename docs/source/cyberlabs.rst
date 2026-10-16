@@ -13,23 +13,6 @@
 
 This page is dedicated to providing easy to understand PowerPoint lecture tutorials for our labs, we mostly cover Linux, Windows and Cisco material. Material provided here is subject to change, every powerpoint provides a tutorial on how to set up applications, use virtual machines and configure servers and security policies. Click on the black arrows to view material.
 
-Cyber Events 2024
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/refs/heads/main/docs/img/events2024cyber.png
-   :width: 89%
-   :align: center
-
-**Cyber Link:** https://sac.edu/AcademicProgs/Business/ComputerScience/Pages/cyber2024.aspx
-
-Cyber Events 2025 (Hands On Material)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. image:: https://raw.githubusercontent.com/natt96z/cybersac/refs/heads/main/docs/img/Screenshot2025event.png
-   :width: 89%
-   :align: center
-
-**Cyber Link:** In Progress...
 
 Cisco Packet Tracer Practice Lab - Learn Network Configuration & Security With An Emulator
 ========================================================================================
